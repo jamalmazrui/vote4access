@@ -1,0 +1,116 @@
+﻿Disability, Voter Turnout, and Polling 
+Place Accessibility 
+Presentation to National Academies of Sciences, Engineering, and Medicine's Committee on the Future of Voting June 12-13, 2017 
+ 
+Professor Lisa Schur 
+Rutgers University 
+People with disabilities make up a large portion of the electorate 
+ 
+•         There were about 35.4 million voting-age people with disabilities in the U.S. in November 2016, representing close to 1 out of 6 people of voting age 
+ 
+•         The number and proportion are likely to grow with the aging of the population 
+  
+•         Almost everybody will have an activity-limiting disability at some point in life  
+ 
+  
+ 
+Data on disability and voter turnout 
+•       Census Bureau introduced a new disability measure to the monthly survey in 2008, allowing analysis of over 90,000 voting-age citizens in each national election. • Census disability measure is based on 6 questions that capture major impairments, but may undercount people with mental impairments and certain conditions like cancer and epilepsy. 
+Disability and voter turnout in 2008, 2012, and 2016 
+                          2008     2012   2016 People without disabilities 64.5%  62.5%  62.2% People with disabilities 57.3%  56.8%  55.9% Disability turnout gap   -7.2%  -5.7%   -6.3%   
+ 
+•       Disability turnout gap is strongly statistically significant in each year (at 99.9% level of confidence) 
+•       But the change in disability gaps is not significant across years, so the disability gap is stubborn and not obviously growing or shrinking over time 
+         
+ 
+2016 voter turnout by type of disability 
+Turnout is lowest among those with cognitive impairments, and those who have difficulty inside or outside the home: 
+ 
+All people with disabilities       
+  55.9% Cognitive impairment                 43.5%  Difficulty inside the home         44.5%  Difficulty going outside alone  
+  44.7%  Visual impairment                       53.7%                 Mobility impairment                   55.8% Hearing impairment                   62.7%   
+Further breakdowns of voter turnout 
+•        No difference in voter turnout between employed people with and without disabilities, suggesting positive role of employment in closing disability gap 
+•        But majority of working-age people with disabilities are not employed, and their turnout is 
+lower than for non-employed people without disabilities 
+•        Accompanying fact sheet also shows breakdowns by sex, region, and state 
+ 
+Voting early or by mail 
+How voted in 2016                   Disability  No disability Gap At polling place on election day             52.6%                60.9%      -8.3% At polling place before election day      18.1%               19.2%       -1.1% By mail before election day                    28.4%                18.6%       9.8% By mail on election day                             0.9%                  1.4%       0.5%  
+⇒Voting by mail may especially help those with mobility problems ⇒But even with option of voting by mail, voter turnout is lower among people with disabilities 
+ 
+Why is turnout lower among people with disabilities? 
+Political scientists divide factors affecting political participation into 3 categories: 
+ 
+•        resources ("Are you able to participate?") 
+•        recruitment ("Did anyone ask you to participate?") 
+•        psychological factors ("Do you want to participate?") 
+ 
+Each category plays a role in the lower turnout of people with disabilities, but gap not fully explained by standard factors 
+ 
+ 
+Role of polling place accessibility 
+Inaccessible polling places impede the ability to vote, and can have psychological effects by sending the message that people with disabilities are not welcome in the political sphere. 
+ 
+GAO report in 2008 found only 27% of polling places were fully accessible. 
+--new report on 2016 election is due out this summer 
+Rutgers national survey in 2012 (funded by U.S. Election Assistance Commission) 
+National household survey of voting-age citizens (2000 with and 1022 without disabilities) found people with disabilities were more likely to encounter, or expect to encounter, problems in voting at a polling place 
+
+                                                                      Disability         No disability 
+Voters who reported some  difficulty in voting at polling place           30%             8% 
+ 
+Non-voters who would expect to encounter difficulties in voting          40%             1% 
+ 
+ 
+Reported difficulties among those voting at polling place in 2012 
+                                                                               Disability    No disability 
+1.Reading or seeing ballot                      12%  1% 2.Understanding how to vote or use eqt.   10%  1% 3.Waiting in line                                       
+ 8%  4% 4.Finding or getting to polling place      6%  2% 5.Writing on the ballot                            5%  0% 6.
+ Getting inside polling place (e.g., steps) 4%  0% 7.Communicating with election officials 2%  1% 8.Operating the voting machine            1%  1% 9.Other type of difficulty                        4%  1% Use of extra features or devices to vote in 2012 
+If have disability, used extra features or devices         
+If yes: 
+     What features or devices 7%               Large display                                                            58%               Magnifier or visual aid                                           33%               Earphones                                                                 10%               Seating/lowered machine                                    2%               Other (special keypad, automark)                      1%        Features or devices were set up and ready to use 
+       Election officials knew how to set up and use 75%               features or devices                                                 97% Is voting by mail an acceptable alternative to making polling places accessible? 
+2012 survey results from all respondents (voters and non-voters) 
+ 
+If you wanted to vote in the next            Disability   No disability election, how would you prefer  to cast your vote? 
+              In person at polling place  58% 68%               By mail                               25% 14%               On the Internet                 10% 16%               By telephone                       5%   2%               Don't know                          2%   1%  
+=> Most people-both with and without disabilities-like the act of going to a polling place to participate in democracy with their fellow citizens, rather than marking a ballot in isolation at home. 
+ 
+Potential solutions and best practices 
+1.  Increased accessibility of polling places and voting equipment 
+ 
+•        Many states have taken steps to monitor accessibility and correct problems, often with HAVA funds 
+ 
+•        Direct involvement of the disability community helps ensure effective technologies and practices --e.g., people with disabilities assessing potential locations for polling places, doing usability tests of equipment 
+ 
+ 
+
+(cont.) 
+2.  Mobile voting 
+• Bringing ballots or voting equipment to more convenient locations (e.g., where people with disabilities reside) can reach voters who find it hard to get to conventional polling places 
+ 
+ 
+(cont.) 
+3.  Training for election officials and poll workers  
+•       A number of states have produced videos, conferences, and programs on accessibility issues  
+•       A Missouri study found the most effective training included interactive methods, checklists, and visual aids 
+ 
+(cont.) 
+4. Outreach and education for people with disabilities 
+•       Several states have distributed information through videos, audio files, booklets, PSA's, and educational events 
+•       Often in partnership with disability organizations 
+ 
+ 
+(cont.) 
+5. Voting by mail 
+• Evidence shows that "no-excuse" and all-voteby-mail systems are linked to higher turnout among people with disabilities • But 21 states require an excuse when requesting mail ballot, and some people are reluctant to disclose a disability on a public form  
+ 
+
+Conclusion 
+•        Voter turnout is lower among citizens with disabilities 
+•        Inaccessible polling places can impede turnout, creating both physical and psychological barriers • Voting by mail not an obvious solution:  most people prefer to vote in person at polling place 
+•        Accessible polling places help ensure people with disabilities are fully welcome and included in the political sphere  
+•        Many jurisdictions have successfully implemented best practices that help remove voting obstacles and make elections more fully accessible. 
+ 

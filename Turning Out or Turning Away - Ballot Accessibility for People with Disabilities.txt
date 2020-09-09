@@ -1,0 +1,325 @@
+﻿Turning Out or Turning Away? Ballot Accessibility for People with Disabilities 
+ 
+Elizabeth Bergman, California State University, East Bay 
+Elaine Ginnold, Registrar of Voters, Marin County  
+ 
+ 
+Citizens with disabilities were less likely than nondisabled citizens to report voting in the 2008 and 2010 elections (Schur and Adya 2012). Though the "disability gap" has been declining year over year, differences persist in spite of massive infrastructure investments mandated by HAVA and full accessible voting machine compliance in polling places across all 50 states (GAO 2013). In this paper, we examine the impact of previously unexamined factors on citizens with disabilities and their likelihood to vote; whether they face obstacles to voting, and if so, the type and nature of those obstacles. We also explore preferences for casting a ballot among people with disabilities, as well as perceptions about current and future methods of voting. Using original survey data gathered utilizing a blended sampling methodology, we find that the mode of voting is a more significant explicator of turnout than disability. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Paper prepared for the Western Political Science Association annual conference, Seattle, WA. April 2014 
+ 
+ 
+ 
+ 
+ 
+ 
+                 
+I. Introduction 
+       Ensuring that citizens can vote with minimal difficulty is fundamental to our democracy. While people with disabilities have made tremendous political gains over the past few decades, most notably with the passage of the Americans with Disabilities Act (ADA) in 1990, evidence indicates that their levels of voter turnout are lower than that of people without disabilities.  Ten surveys over the 1992 to 2004 period found disability voting gaps ranging from 3% to 21%, while analysis of large surveys based on Census Bureau data found disability gaps of 12% in both 2008 and 2010 after adjusting for differences in age and other demographic characteristics (Schur and Adya, 2012).[1]  
+                We ask and attempt to answer whether and why disabled citizens continue to vote at lower rates. We also examine whether and how disability has affected an individuals' ability to vote, something that we have not seen in the published work thus far. In addition, we examine other factors that affect ballot accessibility, including barriers to getting to or using polling places, confusing written instructions and ballots, lack of assistance from poll workers, and (un)availability of accessible voting machines (AVS). The limited corpus of work on the political participation of people with disabilities has focused on traditional predictors of voting and voter turnout; including age, feelings of efficacy and trust about government, and partisanship. While important, socio-demographic and psychological factors do not address the full range of factors that affect the disabled voter. 
+Our research reveals two important findings; 1) the use of AVS's among the disabled population 
+is not significant, however, this is not due to the lack of AVS availability, and 2) voting by mail has a significant impact on the turnout of disabled voters-more so than the (un)availability of any machine. 
+                 
+II. Literature 
+       The scholarly research on voting and disability in the US is remarkably limited to date. Perhaps this is due to the limited extant data. Schur, Shields and Schriner (2005) used the Current Population 
+Survey (CPS) from 1998 and the American National Election Survey (ANES) from 2000. Schur and Adya (2012) used the 2008 and 2010 CPS, the 2006 GSS, and the 2007 Maxwell poll; as these scholars specifically noted (817), "the CPS does not have measures of political recruitment or efficacy, so it cannot be used to fully disentangle the reasons for any lower turnout." The 2000 ANES was similarly limited as it included questions on civic skills and disability discrimination which are not directly related to voting. The GSS and Maxwell poll identified people with disabilities and provided socio-demographic data about those individuals. In sum, these surveys are inherently weak when used for explaining voter turnout. Correlation is not causality; to say that disability caused the low turnout, or an individual abstained from voting only because of their disability, may be overreaching at best or somewhat spurious at least.[2] Inference about individual behavior based on group data is potentially an ecological fallacy.[3] Ecological studies can provide useful clues, but conclusions about individuals are generally only weakly supported by data on groups. Inferences about the voting behavior of disabled persons using population-level or "ecological" data are problematic because of the great variation in voting conditions at the state level. For example, state election laws may be affecting individual turnout in ways that are masked by the group data. In other words, a negative correlation between disability and voter turnout may be a function of disabled individuals disproportionately residing in states with restrictive voting laws. 
+       Beyond the work of scholars on this topic are the data gathering efforts of non-profit organizations that serve the disabled, federal agencies, and some states. While this body of research contains important and useful information these studies suffer from a number of issues, including data limitations, and conclusions linking disability and turnout are suspect and should be interpreted with caution.  
+       For example, the federal National Council on Disability (NCD) used an open-ended questionnaire in the 2012 election which revealed that 40% encountered (unnamed) physical barriers at their polling place, 45% faced barriers in the polling place due to voting machines, and 54% experienced "attitudinal" barriers in the polling place.[4]  The General Accounting Office (GAO) 2013 report of its 8-year (2000 - 2008) assessment of HAVA compliance across the 50 states noted "all but one polling place GAO visited had an accessible voting system (AVS) --typically, an electronic machine in a voting station--to facilitate private and independent voting for people with disabilities."[5] While the HAVA compliance rate is noteworthy, the putative benefit or impact is less clear as anecdotal evidence from across the nation suggests that few people are using AVS's. Oregon elections director, Steve Trout, said: "We have been spending large sums of money on our accessible voting system but having very few people use it. We wanted to see if there were alternatives that were less expensive, provided greater utility, and were easier to use for both voters and election officials."[6] 
+       Among states, Wisconsin's Government Accountability Board (GAB) conducted 1,614 on-site audits over the course of 16 elections during 2011-2013 to assess the physical accessibility of polling places .[7] The GAB polling place audits identified an average of 6.5 accessibility problems at each visited location. However, the Wisconsin findings are limited to parking, pathways, accessible entrance, interior routes, and voting area. Difficulties or obstacles inside the voting booth were not included in the audits. Such difficulties include, but are not limited to, knowing how to operate the voting machines, being physically able to operate the voting machines, and having assistance from poll workers if either or both were the case. Not only are these conditions accessibility obstacles, they are potentially obstacles to 
+usability.      
+Usability refers to an individual's ability to figure out the interaction required and having the 
+ability to perform the interaction. The usability of a voting machine is determined by the ability of a user to complete the desired goal, e.g. casting a ballot. A 2002 report (Burton and Uslan 2002) from the American Foundation for the Blind (AFB) described informal testing by blind and low vision users and noted that the different types of machines caused confusion for voters. The National Federation of the 
+Blind (NFB) found that DRE machines had accessibility and usability issues.[8] Researchers (Herrnson et al.  2008) have shown that the complexity of an interface can negatively affect an individuals' ability to accomplish a specific task without needing assistance. "Voters who are unused to computers or whose fingers and joints are not so agile find at least some steps problematic, especially when asked to perform them on unfamiliar equipment" (595). However, users with prior experience were less likely to need help and had more positive appraisals of voting systems. Positive appraisals of the voting machines notwithstanding, in the aforementioned research nondisabled voters needed assistance in using them - about 21% needed help with paper ballot/optical scan and DREs. The number of abled voters requiring assistance demonstrates that some aspects of voting are not intuitive nor readily performed - and thus not necessarily a result or consequence of being disabled.  
+       Most recently, the Research Alliance for Accessible Voting (RAAV) released a study on voter turnout and voting difficulties in the 2012 elections,[9] which relied on the Census Bureau's Voting 
+Supplement from November 2012 and a separate household survey of more than 3,000 respondents. The RAAV survey included a novel first-ever battery of questions on "difficulties" with voting.[10] We refer to the RAAV findings throughout our analysis and in our concluding remarks. 
+III. Methodology 
+       This study was commissioned by the Marin County Registrar of Voters.[11] The Registrar was interested in finding out the demographics of county voters with disabilities, whether they experienced any obstacles to voting, and how they prefer to vote. The study posed three challenging methodological issues due in large part to the unique requirements of working with this target population; 1) reaching the target respondents, 2) designing a survey instrument, and 3) deploying the survey in the field. The first and biggest challenge in conducting any survey research is obtaining sufficient participation from respondents, this is especially true when samples are sought of particular stratifications within the population, and exacerbated when narrowly targeted populations are sought. According to the Marin Registrar, "one of the dilemmas is how to find the disabled population to survey. Because of confidentiality issues, we don't have access to client lists for the various organizations serving people with disabilities."12 The Registrar consulted the Marin County Department of Health and Human Services for help in the appropriate methodology for finding people to interview for this study.  They suggested using a consent form sent out to clients in various programs serving disabled residents in Marin County that would get people to self-identify for the survey by sending back their contact information. However, based on other expert feedback, it was determined that in order to gain the cooperation of this hard-to-reach population, preserving respondent anonymity would be important and necessary. Therefore, name, address and any other personally identifying should not be collected, nor could a consent form be used. In lieu of a consent form, an information letter on official letterhead from the Registrar was provided inviting prospective participants to complete the (enclosed) survey.  
+An additional challenge to reaching the target population was that the common survey practice 
+of calling via random digit dialing and screening for the desired respondent qualification (in this case, disability) was determined to be cost-prohibitive and also had potential drawbacks among those for whom phone was not the desired or optimal response mechanism. Consultation with a field house expert in surveying this target population suggested that an alternative option for sample development was to see whether advocacy groups for disabled persons maintain lists of members that could be utilized to develop a sample frame.[12] To gain access to potential participants the Marin County Registrar contacted the Marin Center for Independent Living, Lighthouse of Marin, Golden Gate Regional Center, Marin County In Home Support Services, Lifehouse Agency, Cedars of Marin, DCARA, Marin CC Center for Disabled Students, Integrated Community Services, Buckelew Housing, Veterans Services, California Association for the Deaf Bay Area, Hearing Loss Association of California Northern California chapter, and Meals on Wheels. Finally, in addition to the above described sample development efforts, the Marin Registrar selected individuals over the age of 80 from the database of registered voters. Such an age selection is based on scholarship (Schur et al. 2002) that describes lower turnout among people with disabilities as being concentrated among those who are not employed or who are age 65 or older. The list yielded more than 5,000 potential participants for the survey. 
+       In dealing with the second challenge, relating to the content of the questionnaire or the survey instrument itself, we relied on the California Secretary of State's Office who, in coordination with the Statewide Voting Accessibility Advisory Committee (SoS VAAC)[13], fielded a confidential 20-question "Voter Accessibility Survey" online survey in 2012. The purposes of the SoS VAAC survey were similar to the objectives in this study:  
+"The survey was designed to gather information from voters with disabilities about challenges they face when trying to exercise their right to vote. The information we collect will help to establish a baseline of data to determine if there is a need to develop programs or modify services to expand voting opportunities for voters with disabilities." 
+ 
+Thus, the survey instrument created by the SoS VAAC was a suitable template for our purposes. The Marin survey instrument was successfully pre-tested in the field by contacts from county organizations as well as by members of the Marin County Election Advisory Committee. We also received input from the Marin County Department of Health and Human Services (DHHS) and the Marin County Disability Access Program. The DHHS suggested that the survey have large print (at least 13 point font), be shortened if possible (from the VAAC template of 20 questions) because "people check out after 10 questions and are less likely to complete the survey," and "have postage return instead of selfaddressed stamped envelope. You'll have a better return."[14] The county Disability Access Program advised[15] us on three points; 1) any electronic distribution of the survey would need to be Section 508 compliant, 2) modification of the VAAC question language[16] "what type of disability do you have," because of legal rules that do not permit asking what an individual's disability is, and 3) inclusion in each survey of appropriate advisory language required by the county.[17]  
+       The third challenge, survey deployment, was an important logistical consideration. As already noted, phone surveying had the twin problems of being cost prohibitive and problematic for the hearing impaired as well as others potentially.[18] The researchers employed a multi-modal survey deployment, utilizing an online web-based survey and mailed paper versions of the survey.[19] IV. Findings  
+       The surveys were fielded between August 19, 2013 and September 17, 2013. More than 7,000 paper surveys were sent out; 5,000 paper surveys were mailed using USPS and another approximately 2,000 were handed out directly to individuals in person. In addition, more than 1,400 email invitations were sent out by the organizations directly to their member lists. The organizations included a web site link to the online survey in the email invitations. Of the 8,400 estimated surveys that went to field the final sample includes 1,300 respondents. The overall response rate was 15%, with an online response rate of 10% and a paper response rate of 17%. People with disabilities were oversampled to ensure sufficient sample for analysis of issues and experiences within and across disability subgroups. The resulting sample included 71.6% of respondents with disabilities and 28.4% respondents without disabilities. Definitions and survey questions for the measures used in this study are provided in 
+Appendix B. Among people with disabilities, mobility impairments are the most common type, affecting 44% of the sample, followed by sensory and mental impairments, which respectively affect 24% and 8% of the sample. 
+We begin by examining general patterns of participation among people with disabilities and the 
+non-disabled by predicting overall political participation by geography as well as by age.   
+A. Voter Turnout 
+       Voter turnout comparisons from Marin County, the state of California, and national data are shown in Table 1.  
+[Table 1 about here] 
+       If disability is the cause of voting difficulties and low turnout, that low turnout should be consistently low across all disabled populations. There should be no variation, regardless of geographic location because in the "disability as cause" hypothesis it is the mere existence of the disability ipso facto that creates the impediment to turnout and not any obstacle related to the act of voting, like accessibility or usability. In this hypothesis, the predictor of low voter turnout is disability. However, disability is not a behavior at the individual level it is an immutable characteristic, like race or ethnicity.[20] Indeed, statistical tests reveal no correlation between voting and functional limitation (Spearman's rho .033, p = .129). The data in Table 1 shows that the "disability as cause" hypothesis is not in fact the case, as voter turnout for those having any disability ("any" signifies a total) shows great variation, in Marin it is 92% compared to 56.8% nationally and 50.4% in California.[21] In fact these are significant differences, there is a 40-point difference between Marin and California. Disability by itself does not explain the variation in voter turnout. In the disability literature the mere existence of a "disability gap" has become ipso facto ergo propter hoc a putative problem of access. That is, if other voters in the same jurisdiction were able to cast their ballots, but the disabled did not, then they must not have been able to cast their ballots due to their disability. However, it may not be the disability that causes individuals not to vote. 
+       Other data points shown in Table 1 help further illustrate this point. The Disability Gap column shows the gap in voter turnout between the abled and the dis-abled, -5 in Marin, -5.7 nationally, and -8 in California. "Gaps" are used to assess political participation across groups, for example, the gender gap is another frequently used assessment. The existence and size of gaps provide illuminating and sometimes useful information but they provide no evidence as to cause or origin. For example, in Marin, we see 97% turnout of the -abled and the similarly high 92% turnout of the disabled. The disability gap of -5 does not tell us much; the turnout is exceptionally high for both groups. What about differences by type of disability? Table 1 shows the gap in turnout between the -abled at 97% compared to those with mobility impairment at 95.7%, is only -1. This is a very small margin, the smallest across all disability types for voters in the county. Such high turnout is in stark contrast to the findings of other scholars (Schur and Adya 2012) who say that the lowest turnout is among people who have difficulty going out and around. But in Marin County the opposite is true, people with mobility impairments have the highest turnout across all disability types. The alternative explanation besides the disability is the availability of no-excuse absentee voting in Marin. The biggest gap within the Marin results is -11 for the cognitively impaired (though their overall turnout rate of 85.7% is still strikingly higher by 40.9 points over their national counterparts). An explanation for the -11 gap among cognitively impaired people in Marin may be in the language complexity (Reilly and Richey 2011) endemic to today's ballots, especially in large states that allow ballot initiatives. In fact, when looking from the Marin data to the national data, one can see that the pattern of turnout among the disabled appears to match that of their -abled contemporaries; the gaps notwithstanding, the overall turnout percentages show us that turnout across all voters is high in Marin and low in the nation. What explains the large variation in the voting rate between Marin and the rest of the nation? Obviously, our data shows that the disabled can vote at a high rate, so, again, the variation in voter turnout is not an issue of individual disability per se. Rather, this demonstrates the problem of ecological inference, of using group-level data to explain individual behavior. The lower national turnout is likely a function of state level policies, as evidenced in Table 3 of the RAAV report (24), which we include in Appendix C. Scholars (Schur et al 2013, 4) have acknowledged that a state-level breakdown of disability reveals that, "while the possibility of sampling error is higher due to the smaller sample sizes at the state level, the disability gap is large enough to reject sampling error in 21 of the states," which means that we cannot reject sampling error in the other 27 states that were part of that study. In other words, there is no significant disability gap in voter turnout in 27 states.  
+       Dramatically over- or under-counting votes is an ongoing and serious problem for researchers. For example, the polling firm Latino Decisions identified problems in a number of elections - in the presidential contest in Florida in 2012[22], in Nevada in 2010[23], and in a recent (2014) local mayoral contest in San Diego, "as pollsters continue to use incorrect methodology in surveying Latinos, their overall results will be wrong because the Latino sample comprises a critical share of all voters."25 To solve the problem Latino Decisions researchers used statistical techniques developed by Harvard Professor Gary King. Professor King's (1997) method is a highly reliable statistical technique that has been cited by Federal Courts as the most appropriate way to estimate voting rates by different racial or ethnic groups. As King says: "Since surveys, or polls, do provide information about what individuals do, there might seem to be little need for a better method for dealing with the fuzzier aggregate data." But 
+"polls can be unreliable when the issue at hand is highly controversial (when it is racially charged, for example) because people are sometimes reluctant to give their true opinions."[24] From the Marin survey results we know that reluctance was a factor for 17.7% of respondents who "prefer not to identify" their 
+disability.  
+       There is still another explanation that casts the veracity of the disability gap into doubt. The disability gap may be an artifact of over-reporting bias among the non-disabled population.[25] As Ansolahere and Hersh (2012, 28) reported in their seminal work: "Similar to voters, misreporters are disproportionately well-educated, wealthy, partisan, and interested."  "Reported non-voters are a distinct set of people who not only fail to vote but who also feel little social or psychological imperative to lie about not voting (or maybe they just find lying to be unusually distasteful)." Without comparing the actual individual voting records of both the -abled and dis-abled, we simply cannot conclude that the difference between the two groups' voting rate is definitively, and only, the result of a functional limitation. 
+B. Accessibility 
+       In terms of accessibility, we asked whether respondent had ever voted on a voting machine that was designed to be accessible for voters with disabilities (AVS), a super majority (76.4%) of sample respondents said "no." In spite of varying within group (disability) percentages of nonusers of AVS, as shown in the top of Table 2, tests reveal that there is no correlation between disability type and voting on an AVS (Spearman's rho .185, p > .10). Chi-square tests at the bottom of Table 2 show that we cannot reject the null hypothesis; there is no difference across disability types and having voted on an AVS, x2 (1, N = 767) = 5.391, p = .370. 
+[Table 2 about here] 
+We find that the (non)use of AVS's among the disabled population is not significant. Furthermore, the (non)experience is the same for voters with all types of disabilities, they do not use the AVS, and the lack of use is not conditioned by disability. Nor is the lack of AVS use from a lack of availability; as the GAO (2013) report indicates, all but one polling place in the nation had the devices. Our negative findings are also corroborated by anecdotal evidence, "since 2006 there have never been more than 17 who have used the Automark[26] at a few polling places in statewide elections, and of that, most were repeat users and a few were poll workers. Lately, the number has dwindled to 3 voters in an election."[27] 
+                Based on the results of our research, disabled voters are able to vote at a rate exceeding 90%. In addition, we were unable to find a relationship between disability and AVS (accessible voting systems). 
+In terms of technology and voting, our finding is supported by the most recent work: 
+Comparing among those who used the different technologies, the reported difficulties are slightly higher among those who wrote on a ballot, but the differences from those using other methods were not strong enough to reject sampling error as an explanation. (Italics added.) (Schur et al. 2013, 6 & 7) 
+ 
+       What about among older and younger citizens? Table 1 provides comparisons by older and younger voters (the cutoff is age 60)[28]; turnout is highest among those over 60, but the turnout of younger voters in Marin is 83.5%--exceeding figures for older voters both nationally and in California. This comports with the literature (Schur 2002 et al. 2002, Schur et al. 2005) as younger people with disabilities have levels of turnout similar to (or higher than) those of their non-disabled peers, and seniors with disabilities experienced prejudice, discrimination, segregation and were explicitly barred from civic engagement during their youth and perhaps longer. 
+C. Preferences for how to vote 
+       We now turn to examining voter preferences. The null hypothesis is that disabled and abled people do not differ in how they prefer to vote. We are able to reject the null hypothesis because a higher percentage of disabled people (86.2%) prefer to vote by mail than nondisabled people (73.3%), moreover, only 15.9% of the disabled said they preferred to vote at a polling place. Chi-square results, x2 (2, N = 1274) = 30.064, p = .000, indicate that the difference from the non-disability sample is significant at the 99% level. Thus, the mode of voting has more explanatory power than disability. This is a seminal and important finding. 
+[Table 3 about here] 
+The RAAV report corroborates the popularity of voting by mail finding "substantially" higher rates of voting by mail among those with disabilities. The RAAV says furthermore, "a striking finding was that relative voter turnout was especially high among people with disabilities in jurisdictions that a) had everyone vote by mail (in Washington and Oregon states) [sic], or b) made "no-excuse" mail ballot available, so that citizens would not have to report a disability in order to be given a mail ballot." (5)  D. Future Voting Preferences 
+                Nationally, the majority of people - both abled (67.7%) and disabled (58%) - said they would prefer to vote in person at a polling place. However, in this study the opposite was true, 78.6% of disabled people said they prefer to vote using a "paper ballot mailed to me." Only 8.3% said they would like to vote in "a polling place on an accessible machine," and fewer (5.2%) said using email, or the 
+Internet (4.8%). 
+[Table 4 about here] 
+                One of the explanations about why preference for mail voting is lower nationally than polling place voting is a lack of familiarity with mail voting. People who have not had experience with voting by mail simply prefer it less, however, research has shown that even forced exposure to mail balloting increases support (Bergman 2012). This reality about minimal exposure equating to minimal support feeds logically into the second explanation for why the preference for mail voting is lower than polling place voting - it is simply not easily available in more jurisdictions around the nation than it is in states that have no-excuse voting by mail.  
+V. Conclusion  
+ "Accessibility standards are typically intended to specify designs that will maximize the access of the majority of persons with these types of disabilities, but does not necessarily guarantee access for a specific individual's disability or combination of disabilities." (Laskowski et al. 2004, 7) 
+ 
+The Laskowski statement is instructive. The idea that we must pursue and can achieve 
+universality is not the public policy goal. That is not to say it is not a moral imperative; however, we make no normative judgment or assessment in this research. Our assessment is as against the current public policy goal.  
+       There are two important revelations about voting methods based on our study results; one that accessible machines have limited consequence, and second that voting by mail has more impact. As relates to the first, for those who want to vote at the polls, polling place accessibility (i.e. location) and machine usability is more important than machines designed to be accessible for voters with disability. Public policy has required that specially designed accessible machines be at every polling place, but disabled voters are not using them. Based on the low usage of the target population, the policy is arguably a costly failure. Moreover, based on our findings we argue that voter turnout is largely not an accessible technology issue. Specifically, "voters who are unused to computers or whose fingers and joints are not so agile find at least some steps problematic, especially when asked to perform them on unfamiliar equipment" (Herrnson et al. 2008, 588) These scholars also report that "given the publicity about problems with voting procedures, our initial most general finding is how favorably the various systems were rated" by all voters. As previously discussed, due to complexity, the -abled and dis-abled alike have difficulty with all types of voting machines. In spite of this, research has documented that various voting systems are nevertheless rated favorably by most voters. Prior experience, or repeat exposure, has been found by others (Bergman 2012) to be significant to voter satisfaction when voting systems change. In addition to the fact that users with prior experience have more positive appraisals of voting systems, they are also less likely to need help. For those who do require help, reasons indicate that all aspects of voting are not intuitive and easily performed; importantly, this is true for all voters and is not necessarily unique to those with disabilities.  
+       As relates to the second revelation, at least one-third of the electorate cannot leave their houses. If these citizens are to vote they must have transportation assistance or be able to vote by mail, and even if they vote by mail they may need assistance in getting their ballot into the mail - such assistance is sporadically available if at all in most jurisdictions across the country. According to our research as well as that of others (Schur et al., 2002 and Schur et al. 2013) voters with disabilities overwhelmingly prefer to vote by mail. Our study indicates that people with disabilities also prefer to receive their ballots and election materials in paper form delivered through the mail.  
+       In summary, our findings indicate that both the disabled and non-disabled face challenges when using voting machines, however, guaranteeing access to the ballot has little to do with machines. If improving access to the ballot is the goal, then the availability of mail balloting should be expanded. The significant effect of voting by mail on voter turnout for disabled citizens has been illustrated in this study. There are a number of things that policymakers can do to increase mail ballot access which would improve voter turnout. 
+In California efforts have been made to make voting by mail more accessible for all voters, but 
+there are still obstacles to voting by mail in the states' election law that could limit the franchise for all voters who prefer to vote this way. One limitation is CA Elections Code Sec. 3017(a) which restricts the types of individuals who can return a voters' ballot if the voter is unable to return it. If the voter can't return their ballot it will not be counted.  In current election law, the only people who can return the voter's ballot are the voter's "spouse, child, parent, grandparent, grandchild, brother, sister or a person residing in the same household as the voter." This restriction limits the franchise for vote by mail voters who live alone, without access to any of the individuals named in the law, and who are unable to return their ballots either by mail or in person. Section 3017 (e) already prohibits paid or volunteer workers of campaign committees and political parties from returning a voter's ballot.   
+       Another limitation in California is the requirement that vote by mail ballots must be received by 8:00 p.m. on Election Day in order to be counted. Some voters don't understand this fine point and think the envelope needs to be mailed and postmarked by the 8:00 p.m. deadline, like the rule for tax returns. Or, they guess about when to mail their ballots because they are not sure how long it will take to get to the election office.  If they guess wrong and their ballot is late, it won't be counted. Voters are more likely to understand a fixed deadline that depends on them taking action to meet the deadline. For example, voters would better understand instructions that said: "return your ballot by 8:00 p.m. 
+Election Day," instead of "your ballot must be received by the Elections Office by 8:00 p.m. on Election Day." Most late ballots arrive in the mail within 3 days after the election. Therefore, the law could be changed to allow a 3-day grace period after the election for election offices to receive the ballot.   
+       In addition to the specific policy examples from California, we concur with the proposed "simple solutions" made in the RAAV report of Schur et al. (2013), including, making ballots easier to read, simplifying instructions, more clearly communicating polling place location, and the adoption of noexcuse voting by mail. 
+Simple solutions like these can help eliminate barriers that keep many people with disabilities from voting. They can combine with stronger get-out-the-vote campaigns by disability organizations plus other efforts that increase turnout through the economic and social inclusion of people with disabilities.[29] (Schur et al. 2013, 11) 
+We suggest further that such solutions would be more productive for increasing voter turnout among the disabled than AVS technology and/or Assistive Technology (AT) programs (ATAP). In fact, the ATAP report[30] data "clearly indicates that demonstration/training will not be successful with all individuals with disabilities" and further that the ATAP "strategy will not be a panacea for ensuring effective use of accessible voting systems." (6)  
+       Finally, we urge caution and care in the use of data that have methodological issues of the sort that we have described throughout this paper, as well as reports like the RAAV and ATAP cited herein that have not been vetted by scholars, nor published in any scholarly journals.  
+  
+                                 
+
+References 
+Ansolabehere, Stephen and Eitan Hersh. 2012. Validation: What Big Data Reveal About Survey Misreporting and the Real Electorate, 2012. Political Analysis 20:4:437-459. 
+ 
+Bergman, Elizabeth. 2012. Administering Democracy: Public Opinion on Election Reform in California. California Journal of Politics & Policy 4:1:1-23. 
+Burton, Darren and Mark Uslan. 2002. Cast a Vote by Yourself: A Review of Accessible Voting Machines. Access World 3:6. http://www.afb.org/afbpress/pub.asp?DocID=%20aw030603  Last accessed 12/2/13. 
+CalTech-MIT. 2001. Voting: What is, what could be. http://web.mit.edu/voting/  Last accessed 12/2/13. 
+Herrnson, Paul S., Richard G. Niemi, Michael J. Hanmer, Peter L. Francia, Benjamin B. Bederson, Frederick G. Conrad, and Michael W. Traugott. 2008. Voters' Evaluations of Electronic Voting Systems: Results From a Usability Field Study. American Politics Research 36: 4: 580-611. 
+GAO 2013. Voters with Disabilities: Challenges to Voting Accessibility. GAO-13-538SP. Washington, D.C.: General Accounting Office. 
+King, Gary. 1997. A Solution to the Ecological Inference Problem: Reconstructing Individual Behavior from Aggregate Data. Princeton: Princeton University Press. [Copy at http://j.mp/kpuI5R] 
+Laskowski, Sharon, Marguerite Autry, John Cugini, William Killam, and James Yen. 2004. Improving the Usability and Accessibility of Voting Systems and Products. US Department of Commerce, National Institute of Standards and Technology (NIST) Report.  http://ucdwww.user.openhosting.com/files/NISTHFReport.pdf  Last accessed 12/2/13. 
+Reilly, Shauna and Sean Richey. 2011. Ballot Question Readability and Roll-Off: The Impact of Language Complexity. Political Research Quarterly 64:59-67. 
+Schur, Lisa, Meera Adya and Douglas Kruse. 2013. Disability, Voter Turnout, and Voting Difficulties in the 2012 Elections. Unpublished paper; Research Alliance for Accessible Voting.  
+Schur, Lisa and Adya Meera. 2012. Sidelined or Mainstreamed? Political Participation and Attitudes of 
+People with Disabilities in the United States. Social Science Quarterly DOI: 10.1111/j.15406237.2012.00885.x 
+Schur, Lisa, Todd Shields and Kay Schriner. 2005. Generational Cohorts, Group Membership, and Political Participation by People with Disabilities. Political Research Quarterly: 58: 3: 487-496. 
+Schur, Lisa. 2003. Contending with the "Double Handicap:" Political Activism Among Women with Disabilities. Women & Politics 25:1-2: 31-62. 
+Schur, Lisa , Todd Shields, Douglas Kruse, and Kay Schriner. 2002. Enabling Democracy: Disability and Voter Turnout. Political Research Quarterly: 55: 1: 167-190. 
+State of Wisconsin, Government Accountability Board. 2013. "Impediments Faced by Elderly Voters and 
+Voters with Disabilities." Madison, Wisconsin.                                                                  
+A: Voting Machines  
+
+ 
+DRE 
+Diebold Election Systems, Inc. model AccuVote-TSx DRE voting machine with VVPAT paper trail attachment.  
+
+Appendix B: Survey Instrument 
+Marin County Voting Information Survey  1. Are you registered to vote in Marin County?  
+Yes / No/ Don't know 
+2.  If you are not registered, what are some of the reasons that prevent you from registering to vote? 
+(Please check all that apply)  
+ Don't know how to register to vote 
+Don't care to vote  
+Not a citizen    
+Don't know where to get a registration form   
+I'd like to but I need help to register   
+Other (write your answer on the line)  
+3.  If you have voted in the past, how often you vote? 
+___ I always vote when there is an election   
+___ I vote only in presidential elections 
+___ I vote only in local elections 
+___ I never vote   
+Other (write your answer on the line) 4. How do you prefer to vote?  
+___ I prefer to vote by mail   
+___ I prefer to vote at the elections office  
+___ I prefer to vote at my polling place  
+Other (write your answer on the line) 
+5.  If you do vote by mail, why do you prefer this? Please selecting from the following statements  I prefer to vote by mail because... 
+___ it's more convenient for me than voting at the polls 
+___ I can't leave my home unassisted 
+___ my polling place is not accessible to me 
+___ I can take more time with my ballot 
+___ I don't prefer this method 
+Other (write your answer on the line)  
+6.  If you rarely vote please tell us why? Select one or more reasons from the following statements:   
+I rarely vote because... 
+___ I don't know anything about the candidates or measures   
+___ I can't understand what's on the ballot   
+___ my polling place is not accessible to me  
+___ voting machines are not accessible to me  
+___ voting machines are too complicated to use   
+___ I have difficulty marking my ballot   
+___ I have no one to help me mark my ballot 
+___ I don't care 
+___ I don't have time 
+___ Not applicable to me 
+Other (write your answer on the line)  
+7. How would you like to receive your election materials?  
+___ Paper copies mailed to me 
+___ Audio cassettes  
+___ Recorded CD 
+___ Emailed to me 
+___ Online  
+Other (write your answer on the line)  8. Do you know where your polling place is?  
+ Yes  / No 
+9.      If you could vote any way that you wanted, how would you like to vote? 
+___ Internet 
+___ Paper ballot mailed to me 
+___ Polling place on an accessible voting machine 
+___ Polling place with assistance 
+___ Ballot emailed to me 
+___ By phone 
+10.  Have you ever voted on a voting machine that was designed to be accessible for voters with disabilities?  
+ Yes  / No  
+11.  Which accessible voting machine did you use the last time you voted?  
+___ Touchscreen voting machine   
+___ Machine that marked my paper ballot 
+___ None 
+Other (write your answer on the line)  
+12.  What was your main experience using the accessible voting machine? 
+___ It was convenient and useful   
+___ It helped me vote in private   
+___ It helped me vote independently 
+___ It was slow and cumbersome   
+___ It was not working 
+___ I didn't know how to operate it 
+___ No experience with any machine 
+Other (write your answer on the line)  
+13.  Do you belong to any group(s) that you are interact with regularly? 
+ Yes / No 
+14.  What is your age range?   
+___18-29 
+___30-39 
+___40-49 ___50-59 
+___60-69 
+___70-79 ___80 or older   15.  What is the functional limitation you have that interferes with your ability to vote? 
+___ I use a wheelchair or other mobility aid 
+___ I have difficulty using my hands 
+___ I have a visual impairment 
+___ I have a hearing impairment 
+___ I have difficulty reading or processing the voting instructions and/or                ballot information 
+Other (please specify) : ____________________________________________ 
+___ I do not have a disability 
+___ Prefer not to identify 
+16.  What is your annual income range?  
+___ $0-$24,999 
+___ $25,000-$49,999 
+___ $50,000-$74,999 
+___ $75,000-$99,999 
+___ $100,000-$124,999 
+___ $125,000-$149,999 
+___ $150,000-$174,999 
+___ $175,000-$199,999 
+___ $200,000 and up 
+17.  Please mark: ___ Male  ___ Female  
+18.  What is your ethnicity or race? 
+___ White 
+___ Native Hawaiian or Pacific Islander 
+___ Hispanic or Latino  
+___ Black or African-American 
+___ American Indian  
+___ Asian   
+Thank you very much.  
+Marin Elections Department :) 
+All County publications are available in alternative formats (Braille, Large Print, or CD), upon request. Requests for accommodations, and for copies of documents in alternative formats, may be made by calling (415) 473-4381 (Voice) 473-3232 (TDD/TTY) or by email at:   disabilityaccess@ marincounty.org  
+
+             
+
+Appendix C: RAAV Report (24): Table 3: Voter Turnout by State
+ 
+25 
+ 
+
+Table 1 - Voting by Disability Status and Age 
+ 
+  Marin 2013National 2012California 2012  Voter 
+TurnoutDisability 
+GapVoter 
+TurnoutDisability 
+GapVoter 
+TurnoutDisability 
+Gap No disability97.0%
+        92.0%                   -5
+94.2%
+83.5%
+95.7%  -1% 88.9%              -8% 91.6%              -5%
+        94.4%               -3%
+        85.7%             -11%62.5%
+        56.8%                -5.7
+61.3% 45.4%
+56.3% 46.7% 57.3% 63.2%
+44.8%58.4%
+        50.4%                    -8
+81%*
+65.8%* Any  disability Older voter (> 60 age) Younger voter (< 60 age)Type of Disability: Mobility Manual dexterity Visual Hearing Cognitive*California turnout data by age from: http://regionalchange.ucdavis.edu/ourwork/projects/ccep/pages/ccep-policy-brief-issue-fivesupportive-materials-state-and-county-gis-maps-data-charts-and-tables/bar-chart-2012-california-registered-voter-turnout-by-agegeneral-election  . Last accessed January 31, 2014. 
+ 
+Table 2 - Disability & AVS (Non)Experience 
+% Not Using AVS by Disability Type Mobility 45.6% Difficulty using hands 5.8% Visual 11.8% Hearing 12.1% Difficulty understanding 8.0% Prefer not to identify 16.7%  
+ 
+Chi-Square Tests 
+ Value df  Asymp. Sig. (2sided) Pearson Chi-Square 5.391a  5 .370 Likelihood Ratio 5.297  5 .381 Linear-by-Linear Association 1.863  1 .172 N of Valid Cases 767    a. 0 cells (0.0%) have expected count less than 5. The minimum expected count is 6.00. 
+ 
+ 
+26 
+ 
+Table 3 - Preference for How to Vote 
+                                                                                                      Marin 2013                                                National 2012 
+    Vote by mail Vote at polling place Vote at elections office   No disability 73.3% 24% 2.80%   Any  disability 86.2%** 1.2%** 12.6%**           Type of 
+Disability:           Mobility 90.0% 9.4% 0.6%   Manual dexterity 82.2% 13.3% 4.4%   Visual 84.4% 15.6% 0   Hearing 84.8% 14.1% 1.1%   Cognitive 87.5% 12.5% 0  *Difference from non-disability sample is 
+Vote by mail 13.6% 25%**     31% 39.6% 26.5% 28.4% 30.1%                                                                                                                          significant at 95% level **99% level             
+ 
+Table 4  - Preference for How to Vote if anything were possible 
+
+                                                                 Marin                           National 
+Prospective Voting Method Disabled No Yes No Yes Internet 7.9% 4.8% 16.10% 9.6%** Paper ballot mailed to me 65.1% 78.6%** 13.6%  25%**  In person in polling place   67.7% 58%** Polling place on accessible machine 17.5% 8.3%     Polling place with assistance 2.3% 2.6%     Ballot emailed to me 6.8% 5.2%     By phone .6% .6% 1.50% 5.0%** *Difference from non-disability sample is significant at 95% level **99% level   Table 5 - Disability & Group membership  
+ 
+ 
+   Disabled No Yes Belong to groups:  
+ No 39.4% 61.0% Yes 60.6% 39.0% x2 (1, N = 1178) = 43.881, p = .000 
+ 
+27 
+ 
+
+
+
+[1] Based on data from the Census Bureau's American Community Survey in StatsRRTC (2011).  
+ 
+[2] Survey questions relating to the impact of any impairment ask about "work, housework or other activities," not voting specifically, and political participation was assessed using an 8-point index with "voted" begin one possible activity done in the last 12 months (Schur and Shields 2005). To the best of our knowledge no specific or direct question has been asked about whether the functional impairment affected the ability to vote. 
+[3] The seminal work is by William S. Robinson, in his 1950 article in the American Sociological Review. Robinson noted that by comparing the numbers of immigrants with literacy rates in each state one would find a correlation showing immigrants had higher literacy rates than native-born Americans, even though official records of individuals had shown that not to be the case. The reason was that the higher literacy rates were also found in states that had spent more on education, and they just happened to have the highest percentages of immigrants. 
+ 
+[4] http://www.ncd.gov/publications/2013/10242013 .  Last accessed January 24, 2014. 
+[5] http://www.gao.gov/products/gao-13-538sp .  Last accessed January 24, 2014. 
+[6] http://www.pewstates.org/research/analysis/accessible-voting-machines-85899377179 . Last accessed January 24, 2014. 
+[7] http://gab.wi.gov/publications/reports/2013-accessibility-report . Last accessed January 25, 2014. 
+[8] Both the AFB and the NFB performed their studies on voting machines with features specifically designed for voters with disabilities. 
+[9] http://www.accessiblevoting.org/Portals/0/EasyDNNNewsDocuments/37/Disability%20and%20voting%20survey %20report%20for%202012%20elections.pdf .  Last accessed January 31, 2014. 
+[10] We have concerns about question reliability and construct validity in the household survey. Question C-6 from the RAAV survey could be considered "leading" as the response options all began with the word "difficulty" as opposed to asking for an ease/difficulty ranking based on experience. In addition, 4 of 6 questions contain an "or" and as such have two possible answers within one question, making responses ambiguous. The question wording is: When you voted in the polling place did you have any: a. Difficulty in finding or getting to the polling place. b. Difficulty in getting inside the polling place. c. Difficulty waiting in line. d. Difficulty reading or seeing the ballot. e. Difficulty understanding how to vote or use the voting equipment. f. Difficulty in communicating with pollworkers or other officials at the polling place. 
+[11] Funding came from a grant of HAVA funds through the California Secretary of State's office. 12 Email, 5/24/13, Elaine Ginnold. 
+[12] Director of the Social Science Research Center at California State University, Fullerton 
+[13] The Secretary of State's Statewide Voting Accessibility Advisory Committee (VAAC) is designed to advise, assist, and provide recommendations to the Secretary of State's office as to how voters with disabilities can vote independently and privately. The State's VAAC members have been influential in assisting with numerous projects, including the Polling Place Accessibility Guidelines. They have helped raise awareness of disability issues through their involvement in the development of the Voter Accessibility Survey and production of the Polling Place Accessibility Surveyor Training Video. http://www.sos.ca.gov/elections/elections_dis.htm .  Last accessed January 24, 2014. 
+[14] Email of 8/9/13, from Ana P. Bagtas, MHA, Division of Aging & Adult Services, DHHS. Bagtas also suggested: "Most people on our e-mail list are service providers, so we'll ask them to forward to their clients. We can send as an e-mail blast as well. We can have the Meals-on-Wheels drivers drop off a survey to each client they're delivering meals.  This is approximately 275 people, including rural West Marin. We can have surveys available to hand out at our congregate meal programs as well, that's approximately 150 people." 
+[15] Email, 8/13/13, Laney Morgado, Disability Access Specialist II, Marin County Disability Access Program. 
+[16] Revised disability question wording: What is the functional limitation you have that interferes with your ability to vote? I use a wheelchair or other mobility aid; I have difficulty  using my hands; I have a visual impairment; I have a hearing impairment; I have difficulty reading or processing the voting instructions and/or ballot information Other (please specify); I do not have a disability; Prefer not to identify. 
+[17] "All County publications are available in alternative formats (Braille, Large Print, or CD), upon request. Requests for accommodations, and for copies of documents in alternative formats, may be made by calling (415) 473-4381 
+(Voice) 473-3232 (TDD/TTY) or by email at: disabilityaccess@ marincounty.org." 
+[18] There was a small phone survey budget to supplement the completion rate if it became necessary. 
+[19] Phone calling was an unneeded option of last resort, if respondent numbers could not be reached using paper and online methods, however, we received sufficient numbers of completed surveys. 
+[20] Disability remains the same, individuals do not change disability, though they may experience other additional types of disability over time. Disability is defined by the Americans with Disabilities Act of 1990 includes four major types of impairments: 1) physical impairments related to dexterity and mobility, 2) visual impairment, 3) hearing impairment, 4) cognitive impairment.  
+[21] National and California data from Schur et al 2013 (see fn 8). 
+[22] "Pre-Election Polls Got it Wrong in Florida." http://www.latinodecisions.com/blog/2012/11/14/pre-electionpolls-got-it-wrong-in-florida/  Last accessed February 8, 2014. 
+[23] "Election polls under scrutiny after missing mark." http://www.lasvegassun.com/news/2010/nov/04/reviewjournal-flunks-when-it-comes-polls-republic/  Last accessed February 8, 2014. 25 "Hard data from primary proves the San Diego UT/Survey USA Poll is flawed." http://www.latinodecisions.com/blog/2014/02/02/hard-data-from-primary-proves-the-san-diego-utsurvey-usapoll-is-flawed/ . Last accessed February 8, 2014. 
+[24] "Statistician Builds What May Be a Better Data Mousetrap." http://gking.harvard.edu/eicamera/nyt.shtml . Last accessed February8, 2014. 
+[25] Schur et al (2013, 3) discount this idea in the RAAV report (see fn 8). They say that the disabled "are more or less likely to overreport voting." However, we concur with their follow-on statement "studies have not specifically analyzed the relation of disability to overreporting..." and we stress the need for such studies before any conclusions can be drawn. Indeed, Schur et al (2005) point to a disincentive for people with disabilities to overreport voting - fear produced from experience with government fostered segregation and social stigma. 
+[26] Automark photo in Appendix A. 
+[27] Email, Elaine Ginnold, November 26, 2013. 
+[28] We were advised to use age 60 as the cutoff by Ana Bagtas, Division of Aging & Adult Services, Marin County Department of Health and Human Services (email of August 9, 2013): "We use age 60 and over to define older adults, which is based on the federal Older Americans Act.  I suggest doing the age breakdown as 18-29, 30-39, 4049, 50-59, 60-69, etc." This runs counter to what scholars use, which is the US Census cutoff of age 65. 
+[29] "Other efforts... through economic and social inclusion" are especially important and necessary as disabled people are significantly less likely to belong to organizations and groups (see Table 5). 
+[30] ATAP Guide to Disabilities and Voting Access Features, Research Report November 2013: http://ataporg.org/voting.html .   The report notes that the "critical factor" in access is age. Last accessed February 8, 2014. 

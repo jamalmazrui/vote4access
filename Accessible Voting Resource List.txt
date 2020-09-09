@@ -1,0 +1,171 @@
+﻿ 
+A project of the Burton Blatt Institute at Syracuse University  
+                                                 and member of the ADA National Network 
+Accessible Voting Resource List 
+Copyright (c) 2016 
+ 
+The Southeast ADA Center publishes materials intended to provide accurate information on issues and concerns related to the Americans with Disabilities Act (ADA) for information specialists, advocates, business owners, government agencies, managers, and the general public. 
+ 
+Copyright Permission 
+For copyright permission, email the Southeast ADA Center (adasoutheast@law.syr.edu). 
+Organizations may reproduce this resource sheet for non-commercial use provided they acknowledge the  Southeast ADA Center as the copyright owner and include the following credit statement:  
+Reprinted from the Southeast ADA Center website (adasoutheast.org). 
+Table of Contents 
+ 
+Ask Your Questions about the Americans with Disabilities Act (ADA)........................................ 1 
+Accessible Voting and Polling Places............................................................................................... 2 
+Voting Rights Laws............................................................................................................................... 5 
+Reports and Articles on Voting System Accessibility..................................................................... 6 
+Best Practices for Voting Accessibility.............................................................................................. 7 
+ 
+ 
+Ask Your Questions about the Americans with Disabilities Act (ADA) 
+Southeast ADA Center 
+A member of the ADA National Network 
+Phone: 1-800-949-4232 
+Web: adasoutheast.org  
+The ADA National Network provides information, guidance and training on the Americans with Disabilities Act (ADA), tailored to meet the needs of business, government, and individuals with and without disabilities at local, regional and national levels. The ADA National Network consists of ten regional ADA Centers located throughout the United States that provide local assistance to ensure that the ADA is implemented wherever possible. The Centers are funded by the National Institute on Disability, Independent Living, and Rehabilitation Research (NIDILRR). All calls are confidential! 
+Southeast ADA Center          
+A project of the Burton Blatt Institute (BBI) at Syracuse University  and member of the ADA National Network 
+Phone: 404-541-9001             Toll-Free: 1-800-949-4232 
+Email: adasoutheast@law.syr.edu            Web: www.adasoutheast.org 
+Funded by the National Institute on Disability, Independent Living, and Rehabilitation Research (NIDILRR) Grant #90DP0090-01-00. 
+Accessible Voting and Polling Places 
+ADA Checklist for Polling Places 
+A newly-revised checklist (July 2016) developed by the U.S. Department of Justice to evaluate polling place accessibility. It includes a survey to guide election officials in evaluating the accessibility of facilities used or being considered for use as polling places. [Available in PDF, 15 pages and HTML versions]. 
+PDF: www.ada.gov/votingchecklist.pdf 
+HTML: www.ada.gov/votingchecklist.htm 
+Solutions for Five Common ADA Access Problems at Polling Places 
+Examines physical barriers to access in five commonly found areas at polling places: parking, sidewalks and walkways, building entrances, interior hallways, and the voting area itself. It will help election officials meet their ADA obligation to provide polling places that are accessible to and usable by individuals with disabilities. [Available in PDF, 7 pages and HTML versions]. 
+PDF: www.ada.gov/ada_voting/voting_solutions_ta/polling_place_solutions.pdf 
+HTML: www.ada.gov/ada_voting/voting_solutions_ta/polling_place_solutions.htm 
+Access to Voting Pocket Guide 
+This guide depicts the most common American Sign Language "signs" used in a voting environment. It also provides tips to communicate effectively with voters, including disability etiquette tips and a polling place "quick look" accessibility checklist. www.shop.adainformation.org/Access-to-Voting-Pocket-Guide-DOC01.htm 
+Poster: Barrier-Free Voting 
+This poster from Meeting the Challenge depicts an accessible voting location in both words and pictures. It was designed to support awareness of accessibility requirements for voters with disabilities under the Help America Vote Act (HAVA). 
+www.shop.adainformation.org/Barrier-Free-Voting-Poster-DOC04.htm 
+ADA Now: Accessible Voting 
+Published by the ADA Coordinator Training Certification Program (ACTCP), a joint program of the Great Plains ADA Center and the University of Missouri. Topics include: Federal Laws Protecting the Rights of Voters with Disabilities; Providing Accessible Polling Places; What Polling Staff Should Know; Statistics on Voters with Disabilities; and Resources. (October 2016). [Available in PDF, 13 pages and HTML versions]. 
+PDF: www.gpadacenter.org/sites/adaproject.org/files/adanow_accessible_voting.pdf 
+HTML: www.gpadacenter.org/ada-now-accessible-voting-screen-reader-friendly-version 
+             
+REV UP! Voting Toolkit & Resources 
+The American Association of People with Disabilities (AAPD) has a REV UP! Toolkit to help you begin organizing the disability vote in your community. You can also download the REV UP logos to help spread the word and make the Disability Vote count! Keep checking www.aapd.com/REVUP for more updates on AAPD's voting activities and join the conversation on Twitter using #REVUP, #VoteDisability, and #CripTheVote. 
+www.aapd.com/our-focus/voting/ 
+AAPD Voting Resources 
+The American Association of People with Disabilities (AAPD) webpage of voting resources. 
+www.aapd.com/our-focus/voting/voter-resource-center 
+Know Your Right to Vote 
+Voting rights webpage from The Arc. 
+www.thearc.org/what-we-do/resources/toolkits/vote 
+South Carolina Voting Rights Videos & Other Resources 
+In 2012 the South Carolina DisAbility Voting Coalition and South Carolina Protection & 
+Advocacy produced three captioned videos about voting rights and accessibility: Registering to Vote, Ways to Vote and Voting Accessibility in South Carolina. This webpage also includes voting tips, a fact sheet and other resources. http://pandasc.org/2016/05/voting-2012-elections/ 
+AccessTheVote.org 
+Disability Rights Florida launched this website that focuses on educating voters about their rights and offers voting resources for Floridians with disabilities. 
+http://accessthevote.org/ 
+Helping Tennessee Vote: A Poll Workers Guide to Assisting Tennessee Voters with Disabilities 
+[PDF, 32 pages] 
+Produced by Disability Rights Tennessee. [PDF, 32 pages]. 
+www.disabilityrightstn.org/documents/helping-tn-vote-drtn-2015-web.pdf 
+Video: Accessible Elections for Tennessee Voters 
+Developed in 2015 by the Tennessee Secretary of State and Disability Rights Tennessee, this video demonstrates an accessible polling place and voting process for voters with all types of disabilities. It is a useful resource for election officials, poll workers, and the disability community. [Video, 8:38 minutes; captioned]. 
+www.tndisability.org/article/accessible-elections-tennessee-voters 
+             
+Inclusion Solutions 
+This website includes products for voting and general retail accessibility. 
+www.inclusionsolutions.com/ 
+Ballot Call Alert System 
+Available from Inclusion Solutions, Ballot Call is a simple communication tool that allows voters with disabilities to request assistance with entry or curbside voting. Based on a wireless alert system, the device improves access to any polling facility.  www.inclusionsolutions.com/election-access/ballotcall-alert-system/ 
+Trace Research & Development Center: Voting Accessibility 
+Since 1998, the Trace Center has worked to develop solutions for making electronic voting systems more accessible and usable. The techniques and strategies can be applied to a wide range of electronic voting systems, from handheld tablets to larger tabletop units and kiosks. 
+http://trace.wisc.edu/voting/ 
+ADA Live! (WADA) Monthly Podcasts 
+http://adalive.org/ 
+A free monthly national broadcast on the Internet by the Southeast ADA Center, a member of the ADA National Network. ADA Live! (WADA) examines issues dealing with the legal rights and responsibilities under the Americans with Disabilities Act (ADA). Each episode airs from 1:00 p.m. -1:30 p.m. (Eastern) on the first Wednesday of each month. All episodes are archived and include a list of useful resources and a transcript. No registration is required. You can submit questions, explore resources and access the archived shows. 
+        •     ADA Live! Episode 36:Voting Access:  
+What People with Disabilities Need to Know! (September 7, 2016) 
+          Podcast: http://adalive.org/episode36 • ADA Live! Episode 34: The Disability Vote - The Sleeping Giant Wakes Up! 
+Resources: ADA Live! Episode 34 (July 6, 2016) 
+Podcast: http://adalive.org/episode34 
+          Resources: http://adalive.org/episode34_resources • ADA Live! Episode 33: Voting Access - What Poll Workers Need to Know 
+Resources: ADA Live! Episode 33 (June 1, 2016) 
+Podcast: http://adalive.org/episode33 
+          Resources: http://adalive.org/episode33_resources • ADA Live! Episode 6: Voting Accessibility 
+Resources: ADA Live! Episode 6 (March 5, 2014) 
+Podcast: http://adalive.org/episode6 
+Resources: http://adalive.org/episode6_resources 
+Voting Rights Laws  
+The Americans with Disabilities Act and Other Federal Laws Protecting the Rights of Voters with Disabilities 
+Fact Sheet produced by the U.S. Department of Justice in 2014. 
+www.ada.gov/ada_voting/ada_voting_ta.htm 
+Help America Vote Act (HAVA) Resources and Information 
+The Help America Vote Act (HAVA) of 2002 was passed by Congress to make sweeping reforms to the nation's voting process. HAVA addresses improvements to voting systems and voter access that were identified following the 2000 election. www.eac.gov/about_the_eac/help_america_vote_act.aspx 
+Help America Vote Act and Other Accessible Voting Resources 
+The Administration on Intellectual and Developmental Disabilities (AIDD), part of the Administration for Community Living (ACL), produced this webpage with information and resources on voting accessibility for persons with disabilities. 
+www.acl.gov/programs/aidd/Programs/HelpAmericaVoteAct/index.aspx 
+The National Voter Registration Act of 1993 (NVRA) 
+Congress enacted the National Voter Registration Act of 1993 (also known as the "NVRA" and the "Motor Voter Act"), to enhance voting opportunities for every American. The Act has made it easier for everyone to register to vote and to maintain their registration. 
+www.justice.gov/crt/about/vot/nvra/activ_nvra.php 
+Voting Rights Documents Selected by the Bazelon Center for Mental Health Law 
+Updated in 2012, this website includes materials on voting rights for persons with mental disabilities. It also has information for people under guardianship or their family members or advocates to use to try to restore voting rights taken away because a person with a mental disability has a guardian. 
+•       VOTE 2012: It's Your Right! Addendum to the 2008 Voting Rights Guide for People with Mental Disabilities www.bazelon.org/LinkClick.aspx?fileticket=szZrfSzI8U0%3d&tabid=543 
+•       State Laws on Voting Qualifications Affecting People with Mental Disabilities www.bazelon.org/LinkClick.aspx?fileticket=1kgFTxMFHZE%3d&tabid=315 
+www.bazelon.org/Where-We-Stand/Self-Determination/Voting.aspx 
+             
+Reports and Articles on Voting System Accessibility 
+Access Denied: Barriers to Online Voter Registration for Citizens with Disabilities 
+Report produced by the Americans Civil Liberties Union (ACLU) and the Center for Accessible Technology. (February 2015). 
+www.aclu.org/report/access-denied-barriers-online-voter-registration-citizens-disabilities 
+Disability, Voter Turnout, and Voting Difficulties in the 2012 Elections 
+Report produced by the Research Alliance for Accessible Voting at Rutgers University (July 2013). 
+http://smlr.rutgers.edu/disability-and-voting-survey-report-2012-elections 
+Polling Place Accessibility: Ensuring Access for Voters with Disabilities - Election Day Survey 
+[PDF, 21 pages] 
+Voting survey produced by South Carolina Protection & Advocacy for People with Disabilities (December 2012). [PDF, 21 pages]. 
+http://pandasc.org/wp-content/uploads/2012/12/SURVEY-ACCESS-REPORT-2012.pdf 
+Center for an Accessible Society: People with Disabilities and Voting 
+A collection of articles highlighting issues about people with disabilities and voting. 
+www.accessiblesociety.org/topics/voting/index.htm 
+Elderly Voters: Some Improvements in Voting Accessibility from 2000 to 2004 Elections, but 
+Gaps in Policy and Implementation Remain [PDF, 30 pages] 
+United States Government Accountability Office (GAO) Testimony before the Special Committee on Aging, United States Senate (2008). [PDF, 30 pages]. 
+www.gao.gov/new.items/d08442t.pdf 
+Voting Rights Under the Americans with Disabilities Act: Are People with Intellectual or Psychiatric Disabilities Protected? [Word, 3 pages] 
+A white paper revised in 2007 by Syracuse University staff on behalf of the Southeast ADA Center (formerly known as Southeast DBTAC). [Word, 3 pages]. 
+www.adasoutheast.org/ada/publications/legal/voting_rights_under_ADA_intellectual_psychiatric_disabil ities.doc 
+             
+Best Practices for Voting Accessibility 
+"A best practice is a technique or method that, through experience and research,  has proven to reliably lead to a desired result." 
+(Source: http://searchsoftwarequality.techtarget.com/sDefinition/0,,sid92_gci498678,00.html) 
+Election Protection Coalition 
+Administered by the Lawyers' Committee for Civil Rights Under Law, this coalition hosts a hotline where voters can call to report problems when voting and receive advice on what to do. The hotline (1-866-OURVOTE or 1-866-687-8683) is an immediate, on-the-spot resource staffed by lawyers, law students and other volunteers trained to resolve voting problems. 
+www.866ourvote.org 
+NCIL Voting Rights Task Force 
+The mission of the National Council on Independent Living (NCIL) Voting Rights Task Force is to increase the participation of people with disabilities in the electoral process in order to maximize our ability to affect federal, state, and local political priorities. These priorities include: (1) registering and educating all consumers, staff, family and allies to vote; (2) contacting political candidates to determine their positions on various disability issues; and (3) encouraging people with disabilities to become candidates for public office at all levels of government. 
+www.ncil.org/votingrights 
+U.S. Election Assistance Commission (EAC) www.eac.gov 
+•      •     EAC Highlights Accessible Voting Accomplishments on the 26th Anniversary of the Americans with Disabilities Act (2016) www.eac.gov/assets/1/Documents/EAC.ADA.Anniversary.7.26.16.final.pdf 
+•      Quick Start Management Guide on Elderly and Disabled Voters in Long Term Care 
+Facilities [PDF, 15 pages] (2008) highlights and summarizes the information in the U.S. Election Assistance Commission's (EAC) Election Management Guidelines (EMG). 
+http://archives.eac.gov/election/docs/docs/quickstarts-qsmg-elderly-and-disabled-voters-in-ltcfacilities.pdf/attachment_download/file 
+•      Resources for Voters with Disabilities is an EAC webpage of useful information. 
+www.eac.gov/voter_resources/resources_for_voters_with_disabilities.aspx 
+•      Video: Making Polling Places Accessible is an EAC video with ideas and best practices for making voting sites accessible to voters with disabilities. [Video with captions available, 4 minutes]. 
+www.eac.gov/making_polling_places_accessible/ 
+•      Voting Accessibility Resources updated for the 2016 elections. 
+www.eac.gov/voter_resources/voting_accessibility.aspx 
+             
+•      Accessibility Portal for general information on accessibility for voters with disabilities. 
+www.eac.gov/election_management_resources/accessibility.aspx 
+•      Register & Vote in Your State / Work at the Polls on Election Day is an interactive map with key information for each state about registering to vote, where to vote, what's on the ballot, and more. 
+www.eac.gov/voter_resources/contact_your_state.aspx 
+•      Election Management Guidelines and Quick Starts Guides were created to assist state and local election officials in effectively managing and administering elections. These guidelines complement the technical standards for the Voluntary Voting System Guidelines for voting equipment. Chapter 19 focuses on Accessibility. www.eac.gov/election_management_resources/election_management_guidelines.aspx 
+•      10 Tips for Voters with Disabilities [PDF, 2 pages] learn about the voting process in your state, including how to vote privately and independently. [PDF, 2 pages]. www.eac.gov/assets/1/Documents/508[1]_14Disabilities.pdf 
+•      BeReady16 includes resources and strategies for how best to inform voters, advocates and the media about state election laws and procedures, voting technology, and how to prepare for and execute an election. 
+www.eac.gov/election_management_resources/beready16.aspx 
+DISCLAIMER 
+The Southeast ADA Center is authorized by the National Institute on Disability, Independent Living, and Rehabilitation Research (NIDILRR) to provide information, materials, and technical assistance to individuals and entities that are covered by the Americans with Disabilities Act (ADA) under Grant #90DP0090-01-00. However, you should be aware that NIDILRR is not responsible for enforcement of the ADA. For more information or assistance, please contact the Southeast ADA Center via its website at www.adasoutheast.org or by calling 1800-949-4232 [AL, FL, GA, KY, MS, NC, SC, TN] or 404-541-9001. 
+The information, materials, and/or technical assistance are intended solely as informal guidance, and are neither a determination of your legal rights or responsibilities under the Act, nor binding on any agency with enforcement responsibility under the ADA.  The Southeast ADA Center does not warrant the accuracy of any information contained herein.  Any links to non-Southeast ADA Center information are provided as a courtesy and are not intended to nor do they constitute an endorsement of the linked materials. 
+NIDILRR is a Center within the Administration for Community Living (ACL), Department of Health and Human Services (HHS). The contents of this document do not necessarily represent the policy of NIDILRR, ACL, HHS, and you should not assume endorsement by the Federal Government. 
+Update: October 2016 

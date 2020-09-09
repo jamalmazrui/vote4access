@@ -1,0 +1,81 @@
+﻿Voting Accessibility Act
+ 
+To require the use of accessible voting machines in state and local elections
+ 
+-----------------------------------------------------------------------
+ 
+A BILL
+ 
+To require the use of accessible voting machines as approved under the Help America Vote Act in state and local elections.
+ 
+Be it enacted by the legislature of the state of ... assembled,
+ 
+ 
+SECTION 1. SHORT TITLE.
+ 
+This Act may be cited as the "Voting Accessibility Act of 2012".
+ 
+ 
+SECTION 2. FINDINGS.
+ 
+The legislature finds the following:
+ 
+(1) The United States Constitution guarantees citizens who meet certain eligibility requirements the right to vote, and this right is guaranteed to blind citizens just as it is guaranteed to sighted citizens.
+ 
+(2) The secret ballot has become the norm in American elections, codified in the constitutions of many states, and most citizens would be appalled if they had to announce their vote to another person, as has historically been required of blind voters.
+ 
+(3) Local political jurisdictions are increasingly updating their voting machines with electronic voting systems using computer and/or optical-scan technology.
+ 
+(4) Electronic voting technologies, designed and properly configured with nonvisual access, provide blind voters with the ability to cast their votes privately and independently and to verify without sighted assistance that their ballots accurately reflect their voting choices.
+ 
+(5) The Help America Vote Act (HAVA) recognizes the right of the blind to vote privately and independently by requiring nonvisual access for the blind through the use of accessible voting systems in all federal elections.
+ 
+(6) Currently, many of these same jurisdictions do not use this accessible voting equipment for local, county, state, school board, and mayoral elections; therefore depriving blind people of their right to a secret ballot.
+ 
+(7) As technology and voting methods continue to advance, it is essential that blind voters be granted the same access and rights as their sighted counterparts.
+ 
+ 
+SECTION 3. VOTING SYSTEM FOR PERSONS WITH DISABILITIES
+ 
+(a) Application.-This Act applies to all elections within the state that are governed by the board of elections.
+ 
+(b) Number of systems; backup equipment.-
+ 
+(1) At least one voting system in each polling place on election day shall provide access for voters with disabilities in compliance with subsection (c) of this Act. 
+ 
+(2) The State Board shall ensure that adequate backup equipment is available and contingency plans are established to ensure compliance with paragraph (1) of this subsection. 
+ 
+(c) A voting system selected, certified, and implemented under this legislation shall-
+ 
+(1) provide nonvisual ballot access to voters with disabilities that is equivalent to access afforded voters without disabilities without creating a segregated ballot for voters with disabilities; 
+ 
+(2) ensure the independent, private casting, inspection, verification, and correction of secret ballots by voters with disabilities in an accessible medium by both visual and nonvisual means, including synchronized audio output and enhanced visual display; and 
+ 
+(3) comply with both the Americans with Disabilities Act, P.L. 101-336, and HAVA, P.L. 107-252, including accessibility standards adopted as part of the Voluntary Voting System Guidelines pursuant to HAVA. 
+ 
+(d) Evaluation.-Before the selection of a voting system, the State Board shall-
+ 
+(1) ensure that an accessible voting system conforms to the access requirements of the Voluntary Voting System Guidelines developed in accordance with HAVA in effect at the time of selection, and 
+ 
+(2) conduct an accessibility and usability evaluation of the voting system to assess its accessibility and usability by voters with disabilities, including: 
+ 
+(A) a public demonstration of the system, and 
+ 
+(B) an evaluation by individuals representing a cross-section of voters with disabilities. 
+ 
+(e) Access to Web sites connected with the voting process.-All official Web sites connected with the voting process must be accessible to persons with disabilities, including but not limited to Web sites that provide voters with-
+ 
+(1) information regarding the timing and location of elections,
+ 
+(2) voter registration information, 
+ 
+(3) the ability to register to vote, 
+ 
+(4) information informing voters of the specific measures and options on a ballot in a given election, and 
+ 
+(5) the ability to cast one's ballot.
+ 
+(f) All future voting systems approved for use in this state must comply with subsections (c)-(e) of this section.
+ 
+ 
+End

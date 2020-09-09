@@ -1,0 +1,549 @@
+﻿ 
+Disability, Voter Turnout, and Voting Difficulties in the 2012 Elections 
+ 
+Lisa Schur 
+School of Management and Labor Relations 
+Rutgers University 
+ 50 Labor Center Way New Brunswick,  08901 schur@work.rutgers.edu 
+ 
+Meera Adya 
+Burton Blatt Institute Syracuse University 
+900 S. Crouse Avenue 
+Crouse-Hinds Hall, Suite 300 
+Syracuse, New York 13244-2130 madya@law.syr.edu  
+ 
+Douglas Kruse 
+School of Management and Labor Relations 
+Rutgers University 
+94 Rockafeller Road 
+Piscataway, NJ,  08854 kruse@smlr.rutgers.edu  
+ 
+ 
+July 18, 2013 
+ 
+This research project is part of an inter-university consortium, the Research Alliance for Accessible Voting (http://www.accessiblevoting.org/).  Funding was provided by the U.S. Election Assistance Commission.  Valuable comments have been made by participants in workshops with the National Institute of Standards and Technology, Election Assistance Commission, National Association of Election Officials, and Society for Disability Studies.  
+  
+Executive summary 
+ 
+            Ensuring that citizens can vote with little or no difficulty is fundamental to a democracy, and an important topic in public debates and policy initiatives.  We report results on disability and voting from analysis of two surveys:  the Census Bureau's voting supplement for November 2012, and a separate nationally representative survey of 3,022 citizens following the 2012 elections that includes new measures of voting difficulties and experiences.  The second survey was conducted by a professional survey firm, and was stratified to oversample citizens with disabilities to obtain a clearer portrait of their experiences and challenges.   
+ 
+The key results on disability and voter turnout include:  
+ 
+•      15.6 million people with disabilities reported voting in the November 2012 elections. 
+ 
+•      The voter turnout rate of people with disabilities was 5.7 percentage points lower than that of people without disabilities.  There would be 3 million more voters with disabilities if they voted at the same rate as people without disabilities who are otherwise similar in age and other demographic characteristics. 
+ 
+•      Employed people with disabilities were just as likely as employed people without disabilities to vote, suggesting that employment helps bring people with disabilities into mainstream political life. 
+ 
+•      The voter registration rate of people with disabilities was 2.3 percentage points lower than that of people without disabilities. The lower voter turnout is due in part to a lower registration rate among people with disabilities but more to lower turnout among those who are registered. 
+ 
+The key results on voting difficulties and experiences include: 
+•      Almost one-third (30.1%) of voters with disabilities reported difficulty in voting at a polling place in 2012, compared to 8.4% of voters without disabilities 
+ 
+•      The most common problems reported were difficulty in reading or seeing the ballot, or understanding how to vote or use voting equipment. 
+ 
+•      People with disabilities were just as likely as those without disabilities to say they were treated respectfully by election officials 
+ 
+•      Almost one-third of the voters with disabilities required assistance in voting, most commonly given by election officials or family members 
+ 
+•      Among voters with disabilities, 6.5% used extra features or devices in voting such as large displays, magnifiers, lowered machines, and accessible voting machines 
+ 
+•      While three-fourths of voters with disabilities said it was very easy to vote at a polling place, this is lower than for voters without disabilities, and 5.8% of voters with disabilities said it was somewhat or very difficult to vote 
+ 
+•      Over one-fourth of voters with disabilities voted by mail in 2012, compared to onesixth of people without disabilities.  Among people with disabilities who voted by mail, about one-tenth reported difficulties and the need for assistance in filling out or sending the ballot. 
+ 
+•      Asked about alternative voting methods for the next election, majorities of people both with and without disabilities say they would prefer voting in person in a polling place.  Among other potential options, people with disabilities are relatively more likely to say they would prefer voting by mail, while people without disabilities are more likely to say they would prefer voting by Internet. 
+ 
+The findings point to the difficulties faced by many people with disabilities in exercising the right to vote, and establish a baseline that may be used to judge future progress in improving the voting experience for people both with and without disabilities. 
+ 
+             
+
+Contents                                                                                                                              Page 
+ 
+I.                 Introduction                                                                                                            1 
+II.              Data Sources                                                                                                          2 
+ 
+III.           Voter Turnout and Registration                                                                             3 
+A.       Disability and voter turnout in 2008-2012 
+B.        Voter turnout by employment status and demographics 
+C.        Voting early and by mail 
+D.       Voter registration 
+E.        Why not registered to vote 
+F.         Why people did not vote if registered 
+ 
+IV.           Voting Difficulties                                                                                                 5 
+A.       Difficulties at polling place in 2012 
+B.        Difficulties  at polling place in past 10 years 
+C.        Expected difficulties if have not voted at polling place in past 10 years D. Difficulties in voting by mail 
+ 
+V.             Need for Assistance and Use of Special Features     8 VI. Treatment by Election Officials       9 
+VII.        Preferences for How to Vote                                                                                  10 
+VIII.     Conclusion                                                                                                             10 
+ 
+References           11 Appendix 1: Survey questions to identify disability status    15 
+       Appendix 2:  Survey questions on voting                                                                         16 
+ 
+Table 1: Voting by disability status, 2008-2012 
+Table 2: Voter Turnout by Employment Status and Demographics 
+Table 3: Disability and Voter Turnout by State  Table 4: Voted Early or by Mail 
+Table 5: Voter Registration 
+Table 6: Why Not Registered to Vote 
+Table 7: Why People Did Not Vote if Registered 
+ 
+Table 8:  Polling Place Difficulties in 2012 
+Table 9:  Voting Methods and Difficulties 
+Table 10:  Overall Ease or Difficulty of Voting in Polling Place in 2012 
+Table 11:  Specific Difficulties for Those Who Found Overall Process Difficult 
+Table 12:  Polling Place Difficulties in Past 10 Years 
+Table 13: Expected Polling Place Difficulties if Have Not Voted at Polling Place in 10 Years 
+Table 14: Problems in Mail Voting 
+Table 15: Need for Assistance and Use of Extra Devices or Features 
+Table 16: Treatment by Election Officials 
+Table 17: Preference for How to Vote 
+
+I. Introduction 
+ 
+      There are at least 35 million voting-age people with disabilities in the United States, representing 1 out of 7 voting-age people, and the number is likely to grow with the aging of the population.[1]  While people with disabilities have made tremendous political gains over the past few decades, most notably with the passage of the Americans with Disabilities Act (ADA) in 1990, evidence indicates that their levels of voter turnout and other forms of political participation are lower than that of people without disabilities.  Ten surveys over the 1992 to 2004 period found disability voting gaps ranging from 3% to 21%, while analysis of large surveys based on Census Bureau data found disability gaps of 12% in both 2008 and 2010 after adjusting for differences in age and other demographic characteristics (Schur and Adya, 2012).[2]  These gaps remain after controlling for standard predictors of voter turnout (resources, mobilization, and feelings of efficacy)(Schur et al., 2002).  While it is difficult to make comparisons across time due to differences in samples and disability definitions, results from the 
+Harris (2010) surveys suggest that the gap narrowed from 1996 to 2008.[3] 
+      Polling place accessibility is an important factor that can affect political participation of people with disabilities.  The Government Accountability Office (GAO 2009) found that only 27% of polling places in 2008 had no potential impediments to access by people with disabilities.[4]  
+      Inaccessibility may reduce voter turnout not only by making it more difficult to vote, but also by sending the message that people with disabilities are not fully welcome in the political sphere.     
+      This study reports on voter turnout and voting difficulties in the 2012 elections.  We use two sources of data:  a) the Census Bureau's Voting Research Supplement in November 2012 that contains survey data on disability and voter turnout for 94,321 citizens, and b) a separate national household survey of 3,022 citizens with and without disabilities following the 2012 elections focusing on polling place accessibility and voting experiences.  While the 2009 GAO report provided valuable information, it only addressed physical impediments to voting, and did not measure other potential problems that people with disabilities may face, such as reading or seeing the ballot, understanding how to vote or use the voting equipment, or standing in long lines.  The second survey allows us to investigate the full range of difficulties that people may face for those who voted in 2012 or the prior 10 years, and any expected difficulties in voting among those who have not voted at a polling place in the past 10 years.   
+      Following a brief description of the data sources in section II, we present results on 2012 voter turnout by disability status in section III, polling place difficulties in section IV, the need for assistance and the use of extra devices or features in section V, perceived treatment by election officials in section VI, and preferences over voting methods in the next election in section VII.  The conclusion is in section VIII. 
+ 
+                                                                               II.      Data Sources 
+      The first data source is the Census Bureau's Voting Research Supplement, conducted as a supplement to the monthly Current Population Survey (CPS) following national elections in November of even-numbered years. The CPS is a monthly representative survey of the U.S. population designed primarily to obtain employment information.    The Bureau of Labor Statistics added six questions to identify disability status starting in June 2008.[5]  The sample sizes for the supplement were 92,360 in 2008, 94,208 in 2010, and 94,311 in 2012.  The data and further description are available at http://www.census.gov/hhes/www/socdemo/voting/.   
+      The second data source comes from a survey of 3,022 voting-eligible citizens following the November 2012 elections.  Voter turnout questions were used from the U.S. Census Bureau's Voting Research Supplement, and the demographic questions and six of the disability questions 
+came from the Current Population Survey and American Community Survey (see 
+http://www.bls.gov/cps/cpsdisability.htm/).  In order to catch impairments or conditions that may not have been covered in these six questions, a seventh question asked about any conditions that limit one's major life activities (to address potential limitations of the Census measure identified by Burkhauser et al., forthcoming).  This seventh question was taken from 1998 and 2000 national surveys on disability and voter turnout (Schur et al., 2002).  The seven disability questions are in Appendix 1.  Since there are very few extant questions about voting experiences inside the polling place, we developed and tested new questions with other members of the Research Alliance for Accessible Voting.  The questions about voter turnout, difficulties in voting, and polling place experiences are contained in Appendix 2.  Questions about actual polling place difficulties were asked only of those who had voted in a polling place since 2002, and the remainder were asked parallel questions about what types of difficulties the respondent would expect to encounter if he or she wanted to vote in a polling place. 
+      The survey was conducted by a professional survey firm (Survey Research and Technology), overseen by researchers at Rutgers and Syracuse Universities.  It was a representative random-digit telephone survey, including both landlines and cell phones in the 48 contiguous states, of 3,022 U.S. citizens who were eligible to vote in the 2012 elections.  Each person contacted was first asked a series of questions to establish the number of people in the household who were eligible to vote in 2012, and was then asked seven questions to establish the number of people with a disability.  The households were divided into disability and nondisability households, and in the disability households the interviewer asked to speak with the person with a disability (or if there was more than one, the person with the most recent birthday to ensure random selection).  People with disabilities were oversampled for the remainder of the questions so that they represent 2000 of the final respondents, while people without disabilities represent the remaining 1022 respondents.  The oversampling helped ensure both that the disability sample is large enough to reach solid conclusions about their experiences and to do analysis of subgroups within the disability sample.  
+      We use the large sample from the Census Bureau dataset to analyze voter turnout in section III, and then use the additional questions asked in the second survey to analyze voting difficulties and other issues in sections IV to VII. 
+ 
+                                                                              III.    Voter turnout 
+A. Voter turnout in 2008-2012 
+      People with disabilities were less likely to report voting in 2012 relative to people without disabilities, consistent with surveys for prior elections.  As shown in Table 1, 56.8% reported voting, compared to 62.5% of eligible citizens without disabilities.[6]  This difference is strong enough to reject sampling error as an explanation. 
+      An estimated total of 15.6 million people with disabilities voted in 2012.  This is comparable to the number of African-Americans who voted (17.8 million) and the number of Hispanics who voted (11.2 million)(File, 2013). 
+      When broken down by type of disability, the turnout gap for people with hearing impairments is very small and we cannot reject sampling error as an explanation, but the other disability gaps are large and strong enough to reject sampling error.  The lowest rate was among those with a cognitive impairment (29.6%).   
+      The disability turnout gaps were 7.2% in 2008 and 3.1% in 2010 compared to 5.7% in 2012.  The smaller gap in 2010 reflects especially low turnout in midterm elections by younger voters, who are less likely in general to have disabilities.  When age and other demographic characteristics (gender, race/ethnicity, and marital status) are held constant, the adjusted disability gap is close to 12 points in each year, and when education is also held constant, the adjusted disability gap is close to 8 points in each year.  This means that people with disabilities were 8 percentage points less likely to vote than people without disabilities who are otherwise similar in demographic characteristics and educational status. 
+      Given the size of the voting-eligible disability population, these numbers imply that there would be 3.0 million more voters with disabilities if they voted at the same rate as people without disabilities with similar age, gender, race/ethnicity, and marital status.  About one-fourth of this gap, or 0.8 million people, is accounted for by educational levels, indicating that improvement in the educational levels of people with disabilities could help reduce but not close the disability gap in voter turnout.   
+      One important factor in the lower turnout is economic and social resources.  This is shown by the finding in Table 2 that there was no gap in voter turnout between employed people with and without disabilities, indicating that employment helps provide resources and social contact that encourage voting.[7]  The disability voting gap was concentrated among the non-employed.  Table 2 also provides a breakdown of disability and voter turnout by gender, age, and region, showing that the disability turnout gap was:   
+•      larger among women (8.3%) than among men (2.9%), reflecting especially high voter turnout among women without disabilities; 
+•      larger among those age 35-49 (18.1%) than among other age groups; and 
+•      larger in the Northeast (8.8%) than in the Midwest (5.7%), West (5.1%), and South (4.9%). 
+      A state-level breakdown of disability and voter turnout is presented in Table 3.  While the possibility of sampling error is higher due to the smaller sample sizes at the state level, the disability gap is large enough to reject sampling error in 21 of the states and in the District of Columbia. 
+B. Voting early and by mail 
+      People with disabilities may especially benefit from more flexible opportunities to vote, including the chance to vote before election day at a more convenient time (e.g., when accessible transportation is more easily available) or to vote by mail, which may be of special value for those with mobility impairments who have difficulty getting to a polling place.  Table 4 shows that voters with disabilities in 2012 were no more likely to vote early in a polling place or election office (14.8% did so compared to 14.2% of voters without disabilities), and this varied only slightly by type of disability.  Voting by mail was, however, substantially higher among those with disabilities:  over one-fourth (28.4%) of voters with disabilities did so, compared to one-sixth (17.3%) of voters without disabilities.  Voting by mail was high among people with each of the impairments, and was especially high among those with difficulty dressing or bathing (39.6%), or difficulty going outside alone (36.0%).   
+      A separate analysis of the 2008 and 2010 Census Bureau data also revealed that voters with disabilities were more likely than those without disabilities to vote by mail (Schur and Kruse, 2012).  A striking finding was that relative voter turnout was especially high among people with disabilities in jurisdictions that a) had everyone vote by mail (in Washington and Oregon states), or b) made "no-excuse" mail ballots available, so that citizens would not have to report having a disability in order to be given a mail ballot. 
+ 
+                                                                     IV.    Difficulties in voting 
+      We now turn from the Census Bureau survey to the second data source:  a national household survey with 3,022 respondents that asked a number of additional questions about voting difficulties and experiences. 
+ 
+A. Difficulties at polling place in 2012 
+      People with disabilities who voted in a polling place in 2012 were more likely than those without disabilities to report some type of difficulty in voting. As shown in column 1 of Table 8, over one-tenth (11.7%) reported difficulty in reading or seeing the ballot, while just slightly fewer (10.3%) reported difficulty understanding how to vote or operate the voting equipment.  These difficulties were much less common among voters without disabilities (0.9% and 1.3% respectively, in column 2) and the differences are strong enough to reject sampling error.  The next most common difficulties among voters with disabilities were waiting in line (8.3%), finding or getting to the polling place (5.9%), writing on the ballot (4.5%), and getting inside the polling place (3.6%). 
+      For several of these difficulties, respondents were asked to describe the difficulty, and the answers were recorded verbatim.  Typical answers regarding the difficulty in finding or getting to the polling place were:  
+•      problems in transportation (e.g., "needed a ride," "waiting for a ride") 
+•      problems in basic mobility (e.g., "barely able to walk") 
+•      problems finding the polling place (e.g., "just didn't know where to go," "they had relocated to another building and had not put up signs," "major lack of communication as to where the polling place was") 
+Among those reporting difficulty getting inside the polling place, typical descriptions were: 
+•      steps or stairs (e.g., "there was no ramp so I had to go up steps," "there were about 20 steps") 
+•      walking distances (e.g., "parking was too far from the building," "there was an incline in the parking lot which I had to climb"). 
+ 
+There was a wide range of problems reported in understanding how to vote or use the voting equipment, mostly concerning the technology (e.g., "unfamiliar with computers," "didn't know how to use the machine") but some expressing more general difficulties (e.g., "understanding the process," "too much information that I couldn't handle," "the place was unorganized and confusing").  Problems in actually recording the vote included: 
+•      being able to reach the machine (e.g., "the machine was up too high." "voting machine not made for handicapped people-it's about 6 feet high") 
+•      machine malfunctions (e.g., "screen started rolling," "the machine did not work," "it would take multiple tries for the touchscreen") 
+•      difficulty operating the machine (e.g., "trouble pulling final large handle of voting machine," "getting the knob to put the indicator in the right box") 
+      In total, almost one-third (30.1%) of voters with disabilities reported one or more difficulties in voting, compared to about one-twelfth (8.4%) of voters without disabilities.  This difference is large enough to strongly reject sampling error as an explanation (at the 99.9999% level).  Applied to the population of voters with disabilities, this indicates that about 3.4 million voters with disabilities experienced some type of difficulty in voting in a polling place. 
+      Do these difficulties vary by type or severity of disability?  As shown in Table 8, each of the major impairments (vision, hearing, cognitive, and mobility) was linked to greater difficulties in reading or seeing the ballot, and all except hearing impairments were significantly linked to difficulty in understanding how to vote or use the voting equipment.  Not surprisingly, people with mobility impairments were the most likely to report difficulty getting inside the polling place, or difficulty waiting in line.  The last row shows that the likelihood of reporting any difficulty was higher for people with each type of impairment relative to people without disabilities.   
+      One measure of disability severity is the need for assistance in activities of daily living.  Those who reported the need for such assistance were about twice as likely as those not needing assistance to have some type of voting difficulty (39.7% compared to 21.1%), but both numbers were significantly above the figure for people without disabilities (8.4%). 
+      Different voting technologies may present different challenges.  Voters were asked how they recorded their vote, and if they encountered any difficulty in doing that.  As shown in Table 9, close to half of voters marked their choices on a paper ballot (48.9% of voters with disabilities and 52.4% of voters without disabilities), while about one-eighth punched buttons on a machine (12.2% and 13.1% respectively), about one-third touched a computer screen (36.9% and 31.8% respectively), and about 2% flipped switches on a machine or used some other method.  Table 9 also shows that for each of the three common voting methods, people with disabilities were more likely than those without disabilities to report difficulty reading or seeing the ballot, and difficulty understanding how to vote or use the voting equipment.  Comparing among those who used the different technologies, the reported difficulties are slightly higher among those who wrote on a ballot, but the differences from those using other methods were not strong enough to reject sampling error as an explanation.  There appear to be no noteworthy differences in reported voting difficulties among those using the different voting technologies. 
+      For a summary measure of their voting experiences, respondents were asked "Overall, how easy or difficult was your experience in voting at the polling place?"  As shown in Table 10, among those who voted at a polling place in 2012, close to three-fourths (76.0%) of voters with disabilities said it was very easy, which is lower than among voters without disabilities (86.4%).  The difference is mostly accounted for by a higher likelihood that voters with disabilities said the experience was "somewhat easy" (17.6% compared to 11.2%), but they were also more likely than those without disabilities to say it was somewhat or very difficult (5.8% compared to 1.7%).  While the 5.8% and 1.7% figures may seem small, given the size of the populations, these represent about 1.5 million people with disabilities and 1.5 million people without disabilities, or 3 million people total, which is enough to swing an election if these people decide not to vote. 
+      The reports that voting was very easy were lower among people who had visual or cognitive impairments, and among those who need help with daily activities (all close to 70%), and these groups were the most likely to say that voting was somewhat or very difficult (6.7%, 9.7%, and 9.8% respectively). 
+      What types of problems were experienced by voters with disabilities who found the overall voting process difficult?  It is worth focusing on this group since they are likely to be the most discouraged from voting in the future.  Table 11 shows that the most common problems in this group were difficulty in understanding how to vote or use the voting equipment (68.1%) and difficulty reading or seeing the ballot (58.6%), while nearly half cited difficulty writing on the ballot (49.7%), difficulty finding or getting to the polling place  (47.6%) or another type of difficulty in voting (49.7%).   
+B. Difficulties at polling place in past 10 years 
+How do these reported difficulties compare between those who voted at a polling place in 
+2012 and those who did so only in prior years?  These are reported in columns 3 and 4 of Table 12.  A noteworthy finding is that the pattern of difficulties in both the disability and non-disability samples is very similar to the pattern in 2012.  In addition, the overall percentages who reported any type of difficulty is similar between this group (28.6% of voters with disabilities and 10.2% of voters without disabilities) and those who voted in 2012 (30.1% and 8.4% respectively).  On the face of it, this indicates little change in the likelihood of voting difficulties over the past 10 years, although it must be cautioned that the two groups may be different in other ways that affect the reporting of voting difficulties. 
+ 
+C.     Expected difficulties if have not voted at polling place in past 10 years 
+            If respondents had not voted in a polling place in the past 10 years, either because they voted by mail or did not vote, they were asked a hypothetical question about any difficulties they would expect if they wanted to vote inside a polling place.  As shown in Table 13, two-fifths (40.1%) of people with disabilities in this group said they would expect some type of difficulty, compared to 1.2% of people without disabilities.  This figure is high among people with all the major impairments.  The most commonly expected problems are:  getting to the polling place for people with hearing problems (28.8%), reading or seeing the ballot for people with vision impairments (22.0%), understanding how to vote or use the voting equipment for people with cognitive impairments (15.1%), and getting to the polling place for people with mobility problems is (16.6%).  Not surprisingly, the figure for any expected difficulty is smaller among people who do not need help with daily activities (19.0%) compared to people who do need help (56.3%). 
+      It is clearly possible that these reports are upwardly biased-that people who have not voted at a polling place are more likely to cite polling place difficulties as a way to justify their decision.  This is not, however, likely to impart a strong bias.  Based on actual reported difficulties from otherwise-similar people who voted, almost one-third (31.6%) of the non-voters answering the hypothetical question would be predicted to experience voting difficulties if they tried to vote, which is very close to the overall figure among people who voted in a polling place.[8]  Therefore while the high rate of hypothetical difficulties (40.1%) may represent some upward bias, the majority of these reports appear to reflect realistic expectations of polling place difficulties, and the overall level of voting difficulties would be at least as high if these citizens were to decide to vote in polling places.   
+D.    Difficulties in voting by mail 
+            Voters with disabilities were more likely than those without disabilities to vote by mail in the 2012 elections, as noted earlier.  Table 14 shows that among people who voted by mail, about one-eighth of those with disabilities (13.3%) reported some difficulty in doing so, compared to only 2.2% of mail voters without disabilities.  Similarly, mail voters with disabilities were more likely to report needing assistance in filling out or sending their mail ballots (11.3% compared to 
+0.4%).[9] 
+            Most of the reported problems with mail ballots concerned the ability to read them.  Some examples of these problems were "can't read small print because of vision problems," and "had to use a magnifier."  A number of respondents also reported difficulty in understanding the written material, such as "I could not understand some of the propositions" and "too complicated."  Several respondents also noted physical difficulties such as "checking off the squares on the ballot" and "I have a hand tremor from a previous surgery and it was difficult to mark the ballot easily."   
+ 
+                    V.      Need for Assistance and Use of Extra Devices or Features 
+      Among those who voted in a polling place in 2012, Table 15 shows that almost one-third of people with disabilities (29.9%) reported needing some type of assistance, compared to onetenth (10.7%) of people without disabilities.  For people with disabilities, the needed assistance was equally likely to be provided by family members or election officials (42.2% for each), while only a small percentage used friends, home care aides, or others.  For people without disabilities, the needed assistance was most commonly provided by election officials (71.6%), followed by family members (18.8%).  Among both groups, just over two percent said that they needed assistance but none was provided.  The verbatim descriptions of the provided assistance ranged widely, from help getting into the polling place (e.g., "access in getting there") to help with understanding the process (e.g., "they just explained how to use the machine and how the process worked") and operating the equipment (e.g., "physical assistance in pulling the large mechanical handle," "needed help pushing the buttons"). 
+      A variety of features and devices are available to help people with disabilities vote, and the Help America Vote Act (HAVA) requires each polling place to have at least one fully accessible voting machine that enables confidential voting by people of all abilities.  In the disability sample, Table 15 shows that 6.5% reported using one or more of these extra features or devices.  Among those who used these, the most commonly used features were large displays (58.1%) and magnifiers (32.7%), followed by earphones (10.1%) and adjustment of the seating or lowering of the machine for people in wheelchairs (2.2%).  These features or devices can create extra delays if they are not set up in advance or the election officials do not know how to use them.  Among voters using these features or devices, three-fourths (75.4%) said that they were set up and ready to use, and almost all (96.9%) said that the election officials knew how to set up and use the features and there were no problems. 
+ 
+                                                       VI.    Treatment by Election Officials 
+      Apart from issues of physical access and understanding and using the voting equipment, the voting experience can be affected by how voters feel they are treated.  Table 16 shows that among people who voted at a polling place in 2012, the large majority said they were treated very respectfully, and the percentages were very similar between people with and without disabilities (86.8% and 84.7% respectively).  Only a small minority said they were treated somewhat or very disrespectfully, and this was also similar between people with and without disabilities (1.7% and 3.2%).  The pattern of reported treatment did not vary substantially by type of impairment or need for help with daily activities (columns 3 to 8). 
+      To complement the question on need for assistance reported in Table 15, voters were asked a more general question about the helpfulness of the election officials.  As shown in Table 16, most people said they did not need any help, particularly among people without disabilities (79.8% compared to 59.8% among people with disabilities).   Among those who needed help, close to nine-tenths of people reported that the election officials were very helpful, and this was similar between people with and without disabilities (92.6% and 87.4% respectively) and across the disability categories.  Only 1.7% of people with disabilities who needed help said the officials were not helpful at all, compared to 8.0% of people without disabilities.  The rates of dissatisfaction was highest among people who need help with daily activities (2.4%) and lowest among people with hearing and cognitive impairments (0.5% and 0.8% respectively).   
+ 
+VII. Preferences for How to Vote 
+      There has been increasing public debate over how voter turnout may be affected by increased availability of alternative methods such as voting by mail or on the Internet.  To assess preferences over voting methods, all respondents-whether they voted or not in 2012-were asked ""If you wanted to vote in the next election, how would you prefer to cast your vote?"  
+      The majority of people both with and without disabilities said they would prefer to vote in person in a polling place, as shown in Table 17.  This figure is somewhat lower among people with disabilities (58.0% compared to 67.7% among people with disabilities).  One-fourth (25.0%) of people with disabilities said they would prefer to vote by mail, compared to about half that number (13.6%) among people without disabilities.  People with disabilities were also relatively more likely to prefer voting by telephone (5.0% compared to 1.5%), and less likely to prefer voting on the Internet (9.6% compared to 16.1%).  This latter result probably reflects the lower rates of computer use and Internet access among people with disabilities:  a 2011 U.S. Department of Commerce report found that more than half (54%) of households headed by someone with a disability had no Internet access from home, compared with 25% of households headed by someone without a disability (U.S. Department of Commerce 2011: 16). 
+      The preferences over voting method vary by impairment and severity.  People with hearing or vision impairments, and those who do not need help with daily activities, were about as likely as people without disabilities to say they prefer voting in a polling place (66.1%, 67.9%, and 65.5% respectively), while people with cognitive or mobility impairments, or who need help with daily activities are the least likely to prefer this (57.7%, 55.0%, and 51.5%).  The relatively high likelihood of preferring to vote by mail, however, exists across all of the impairments and levels of severity, with especially high likelihoods among those with mobility impairments (29.0%) and those who need help with daily activities (28.1%).  Similarly, the relatively low likelihood of preferring to vote by Internet exists across all of the impairments and levels of severity. 
+VIII. Conclusion 
+      In conclusion, we have found that there is a significant gap in voter turnout between people with and without disabilities, and that people with disabilities experience greater problems with accessibility when it comes to voting.  Prior studies have consistently found such a gap as well, suggesting more needs to be done to encourage voting by people with disabilities.  While our findings suggest that the help provided at polling places is viewed favorably, many people with disabilities prefer alternative forms of voting because of perceived challenges that they may face at polling sites. These perceptions are not unwarranted as they are consistent with the problems reported by those who actually voted at polling sites.  To ensure that every citizen has an unrestricted right to vote, it is important to eliminate these challenges or barriers and make it clear to people that they will not experience them.  Fortunately, the problems that were reported are not difficult to remediate, mostly requiring simple changes such as making ballots easier to read, simplifying instructions, communicating clearly the location of polling sites, providing accessible parking close to polling sites, ensuring the polling site is accessible without navigating stairs, providing seats for those who have difficulty standing in line, and making any machinery easier to operate.  For those who find it easier to vote by mail, the adoption of no-excuse systems for requesting mail ballots appears to increase their likelihood of voting. 
+ 
+      Simple solutions like these can help eliminate barriers that keep many people with disabilities from voting.  They can combine with stronger get-out-the-vote campaigns by disability organizations plus other efforts that increase turnout through enhancing the economic and social inclusion of people with disabilities.  Closing the disability turnout gap would add 3.0 million more voters, which could increase the voice of people with disabilities and make the political system more representative of American citizens. 
+References 
+ 
+Anderson, Marian. R. 2009. "Community Psychology, Political Efficacy, and Trust." Political Psychology 31(1): 59-84. 
+Anspach, Renee. 1979.  "From stigma to identity politics: political activism among the physically disabled and former mental patients."  Social Science and Medicine 13A: 765-773. 
+Baldwin, Marjorie L., and Steven C. Marcus.  2007.  "Labor Market Outcomes of Persons with Mental Disorders,"  Industrial Relations 46(3): 481-510. 
+Brault, Matthew W.  2008.  "Americans with Disabilities 2005," Current Population Reports, P70117, U.S. Census Bureau, Washington, D.C., http://www.census.gov/prod/2008pubs/p70117.pdf 
+Burkhauser , R. V. , Houtenville , A. J. , & Tennant , J. R. (Forthcoming). Using the ACS and CPS-BMS to track prevalence and the employment of working-age people with disabilities: A case of throwing the baby out with the bathwater? Journal of Disability Policy Studies . 
+Clarke, Harold, David Sanders, Marianne Stewart, and Paul Whiteley.  2006.  "Taking the Bloom off New Labour's Rose: Party Choice and Voter Turnout in Britain, 2005," Journal of Elections, Public Opinions, and Parties 16(1): 3-36. 
+Clausen, Aage. 1968. "Response Validity: Vote Report," Public Opinion Quarterly 32: 588-606. 
+Conway, M. Margaret.  2000.  Political Participation in the United States.  Washington, DC: Congressional Quarterly.  
+Erickson, W., C. Lee, and S. von Schrader. 2009. 2008 Disability Status Report: the United States. Ithaca, NY: Cornell University Rehabilitation Research and Training Center on Disability Demographics and Statistics.  
+File, Thom. 2013. "The Diversifying Electorate-Voting Rates by Race and Hispanic Origin in 2012 (and Other Recent Elections)." Current Population Survey Reports, P20-569. U.S. Census Bureau, Washington, DC.  
+Gastil, John. 2000. "The political beliefs and orientations of people with disabilities," Social Science Quarterly, 81, 588-603. 
+GAO  2009. More Polling Places Had No Potential Impediments than in 2000, but Challenges Remain.  GAO-09-685.  Washington, D.C.: General Accounting Office. 
+Holbrook, Allyson L., and Jon A. Krosnick. 2008. "Social Desirability Bias in Voter Turnout Reports: Tests Using the Item Count Technique." Public Opinion Quarterly 74: 37-67. 
+Jolls, Christine. 2004. "Identifying the Effects of the Americans with Disabilities Act Using State-Law Variation: Preliminary Evidence on Educational Participation Effects."  American Economic Review, 94: 447-453. 
+Karlawish J.H., Bonnie R.J. 2007.  Voting by elderly persons with cognitive impairment: 
+Lessons from other democratic nations. McGeorge Law Review. Vol. 38. pp. 880-916. 
+Kaye, H. Stephen. 2000. "Disability and the Digital Divide," Disability Statistics Report No. 22.  San Francisco: University of California, Disability Statistics Center. 
+Kruse, Douglas. 1998. "Persons with Disabilities:  Demographic, Income, and Health Care Characteristics."  Monthly Labor Review, 121(9): 13-22. 
+Kruse, Douglas, Lisa Schur, Kay Schriner, and Todd Shields.  2001. "Fact Sheet on Voter Turnout, Voting Difficulties, and Disability in the 2000 Elections."  School of Management and Labor Relations, Rutgers University, New Brunswick, NJ. 
+LoBianca, Anthony F. 1998. "Are the Costs Too High? Political Participation Among Disabled 
+Americans."  Draft, Department of Political Science, University of Kentucky 
+McMenamin, Terence, S.M. Miller, and Anna Polivka. 2006. "Discussion and Presentation of the Disability Test Results from the Current Population Survey," Working Paper 396, U.S. Bureau of Labor Statistics, August. 
+Miller, Warren E., and J. Merrill Shanks. 1996. The New American Voter.  Cambridge, MA:  Harvard University Press. 
+Harris.  2004.  2004 N.O.D./Harris Survey of Americans with Disabilities.  New York, NY:  Harris Interactive. 
+Harris.  2010.  The ADA: 20 Years Later, Kessler Foundation/NOD Survey of Americans with Disabilities.   New York, NY:  Harris Interactive. 
+Rosenstone, Steven, and John Hansen.  1993.  Mobilization, Participation and Democracy in America.  New York: Macmillan Publishing Company. 
+Schneider, Anne, and Helen Ingram. 1993. "Social Construction of Target Populations:  
+Implications for Politics and Policy." American Political Science Review 87(2): 334-347. 
+Schriner, Kay, Lisa Ochs, and Todd Shields.  1997.  "The last suffrage movement: Voting rights for people with cognitive and emotional disabilities," Publius, 27 (3), 75-96. 
+Schur, L. 2003. "Contending with the 'Double Handicap': Political Activism Among Women with Disabilities."  Women and Politics, 15(2): 31-62. 
+Schur, Lisa, and Douglas Kruse. 2000. "What determines voter turnout?  Lessons from citizens with disabilities."  Social Science Quarterly 81(2): 571-587. 
+Schur, Lisa, Douglas Kruse, and Peter Blanck. 2013.  People with Disabilities: Sidelined or Mainstreamed?  Cambridge, England: Cambridge University Press. 
+Schur, Lisa, Todd Shields, Douglas Kruse, and Kay Schriner. 2002. "Enabling democracy: Disability and voter turnout."  Political Research Quarterly 55(1): 167-190. 
+Schur, Lisa, Todd Shields, and Kay Schriner.  2003. "Can I Make A Difference?  Efficacy, Employment, and Disability."  Political Psychology, 24(1), 119-149. 
+Schur, Lisa, Todd Shields, and Kay Schriner. 2005. "Voting."  In G. Albrecht (Ed.), Encyclopedia of Disability.  Thousand Oaks, CA: Sage Publications. 
+Scotch, Richard. 1988. "Disability as the basis for a social movement: advocacy and the politics of definition."   Journal of Social Issues 44: 159-172. 
+Shields, Todd, Kay Schriner, and Ken Schriner.  1998. "The disability voice in American politics:  Political participation of people with disabilities in the 1994 election."  Journal of Disability Policy Studies 9: 33-52.  
+Shapiro, Joseph. 1993. No Pity: People With Disabilities Forging a New Civil Rights Movement. New York: Random House. 
+StatsRRTC.  2011.   2011 Annual Disability Statistics Compendium.  Durham, NH: Institute on Disability, University of New Hampshire. 
+Tokaji, Daniel P., and Ruth Colker.  2007.  "Absentee Voting by People with Disabilities: Promoting Access and Integrity," McGeorge Law Review 38:  1015-1064. 
+Traugott, Michael W., and John P. Katosh. 1979. "Response Validity in Surveys of Voting Behavior," The Public Opinion Quarterly 43 (3): 359-377. 
+U.S. Commission on Civil Rights.  1983.  Accommodating the Spectrum of Individual Abilities, Clearinghouse Publication 81.  Washington, D.C.:  U.S. Commission on Civil Rights. 
+U.S. Department of Commerce. 2011. Exploring the digital nation: Computer and internet use at home. Washington, D.C.: U.S. Department of Commerce. 
+Verba, Sidney, Kay Schlozman, and Henry Brady. 1995. Voice and Equality: Civic Voluntarism in American Life.  Cambridge, MA:  Harvard University Press. 
+Yuker, Harold, ed.  1988.  Attitudes Toward Persons with Disabilities.  New York: Springer. 
+Appendix 1: Survey questions to identify disability status 
+ 
+ 
+If not all household residents are citizens:  "For our study we're focusing on citizens, so for the following questions I'd like to know just about those who are citizens." 
+ 
+1.      "(Of those 18 or older,) (are you/is anyone) deaf or (do you/does anyone) have serious difficulty hearing?" 
+  
+2.      "(Of those 18 or older,)(are you/is anyone) blind or (do you/does anyone) have serious difficulty seeing even when wearing glasses?"    
+ 
+3.      "Because of a physical, mental, or emotional condition, (do you/does anyone age 18 or older) have serious difficulty concentrating, remembering, or making decisions?"   
+ 
+4.      "(Do you/Does anyone age 18 or older) have serious difficulty walking or climbing stairs?"  
+ 
+5.      "(Do you/Does anyone age 18 or older) have difficulty dressing or bathing?"  
+ 
+6.      "Because of a physical, mental, or emotional condition, (do you/does anyone age 18 or older) have difficulty doing errands alone such as visiting a doctor's office or shopping?" 
+ 
+7.      "(Do you/Does anyone age 18 or older) have a long-term health problem or impairment that limits the kind or amount of work, housework, or other activities he or she can do?" 
+ 
+"For the following questions, I'd like to (talk to the/talk to just one) person with the impairments or conditions I've mentioned - (the person with the most recent birthday). "  
+             
+Appendix  2:  Survey questions on voting 
+ 
+[Note:  --all questions were put into CATI (Computer-Aided Telephone Interviewing) software using the indicated skip logic.] 
+             
+Now, I'd like to ask you some questions about elections. 
+C-1. In any election, some people are not able to vote because they are sick or busy or have  some other reason, and others do not want to vote. Did you vote in the election held on Tuesday, November 6, 2012?  
+             
+1.      Yes                        Skip to question C-3. 
+2.      No                           
+8.      Don't know             
+9.      Refused                    
+C-2.  Were you registered to vote in the November 6, 2012 election?  
+ 
+1.      Yes                        
+2.      No                        Skip to question C-5. 
+8.      Don't know            Skip to question C-5. 
+9.      Refused                 Skip to question C-5. 
+ 
+             C-2a.  Did you try to vote in the November 6, 2012 election but were unable to? 
+ 
+1.       Yes                       Skip to question C-4a. 
+2.       No                        Skip to question C-5. 
+8.       Don't know            Skip to question C-5. 
+9.       Refused                 Skip to question C-5. 
+ 
+C-3.  Did you vote in person or did you vote by mail? 
+ 
+1.    In person  Skip to question C-4. 
+2.    By mail                    Ask question C-3a. 
+8.       Don't know            Skip to question C-4. 
+9.       Refused                  Skip to question C-4. 
+ 
+            C-3a.  Did you have any type of difficulty in reading or filling out the mail-in ballot? 
+ 
+1.       Yes                       Ask question C-3b. 
+2.       No                        Skip to question C-4. 
+8.       Don't know            Skip to question C-4. 
+9.       Refused                 Skip to question C-4. 
+ 
+C-3b.  What type of difficulty did you have? (coded verbatim) 
+ 
+ 
+C-3c.  Did you receive any assistance in completing your mail-in ballot? 
+ 
+1.      Yes                        
+2.      No                         
+8.      Don't know             
+9.      Refused                  
+ 
+C-4.  Was that on election day or before election day?  
+1.      On election day           If C3=1 then ask C-4a, else ask C5. 
+2.      Before election day  If C3=1 then ask C-4a, else ask C5. 
+8.      Don't know            If C3=1 then ask C-4a, else ask C5. 
+9.      Refused                  If C3=1 then ask C-4a, else ask C5. 
+ 
+C-4a.  Was there any problem with your voter registration when you tried to vote? 
+ 
+1.       Yes          Ask C-4b.                      
+2.       No                        If C3=1 then skip to C-6, else skip to question C-5. 
+8.       Don't know            If C3=1 then skip to C-6, else skip to question C-5. 
+9.       Refused                 If C3=1 then skip to C-6, else skip to question C-5. 
+ 
+             C-4b.  What type of problem did you have? (coded verbatim) 
+ 
+                         If C1 = "Yes" then ask 
+                         C4c1. Did you vote by regular or provisional ballot? 
+1.      Yes                        
+2.      No                         
+8.      Don't know             
+9.      Refused 
+                  
+             If C1 = "No" then ask (READ LIST)             C4c2. Were you offered a provisional ballot? 
+1.      Yes, but I chose not to vote using it                         
+2.      No, I was not allowed to vote   
+3.      Other (code verbatim)                         
+8.      Don't know             
+9.      Refused                  
+ 
+C-5.  Have you voted inside a polling place in any previous national election?  
+ 
+1.      Yes  
+2.      No                 Skip to question C-13. 
+  8. Don't know    Skip to question C-13. 9.   Refused          Skip to question C-13. 
+ 
+                       C5a. What year was the last election in which you voted inside a polling place? 
+ 
+/____/____/____/____/     
+IF LATER THAN 2002- Ask question C-6 
+IF 2002 OR EARLIER - Skip to question C-13 
+IF DON'T KNOW OR REFUSED - Skip to question C-13 
+ 
+ 
+C-6.  When you voted in the polling place did you have any: 
+ 
+a.       Difficulty in finding or getting to the polling place (yes/no/don't know/refused)   
+IF yes:  What type of difficulty did you have (coded verbatim) 
+b.      Difficulty in getting inside the polling place (for example, steps)(yes/no/don't know/refused)  
+IF yes:  What type of difficulty did you have (coded verbatim) 
+c.       Difficulty waiting in line (yes/no/don't know/refused) 
+d.      Difficulty reading or seeing the ballot (yes/no/don't know/refused) 
+e.       Difficulty understanding how to vote or use the voting equipment (yes/no/don't know/refused) 
+IF yes:  What type of difficulty did you have (coded verbatim) 
+f.        Difficulty in communicating with poll workers or other officials at the polling place  
+ 
+C-7.  How did you record your vote?  Did you: 
+1.      Write on a ballot    Ask C-7a 
+2.      Punch buttons on a machine    Ask C-7b 
+3.      Flip switches on a machine    Ask C-7b 
+4.      Touch a computer screen    Ask C-7b 
+5.      Use some other method [coded verbatim]_____________________    Ask C-7b 
+8.      Don't know     ASK C-7b 
+9.      Refused           ASK C-7b 
+ 
+C-7a,  Did you have any difficulty writing on the ballot?  GO TO C-7c 
+1.      Yes                        
+2.      No                         
+   8.      Don't know             
+   9.      Refused                   
+C-7b.  Did you have any difficulty using the voting machine? 
+1.      Yes                        
+2.      No                         
+8.      Don't know             
+9.      Refused                  
+ 
+IF yes:  What type of difficulty did you have (coded verbatim) 
+ 
+C-7c.  Did you have any other type of difficulty in voting? 
+1.      Yes                        
+2.      No                         
+8.      Don't know             
+9.      Refused                  
+ 
+IF yes:  What type of difficulty did you have (coded verbatim) 
+ 
+ 
+C-8.  How easy or difficult was it to record your vote? 
+ 
+1.      Very easy 
+2.      Somewhat easy 
+3.      Not easy or difficult 
+4.      Somewhat difficult 
+5.      Very difficult 
+8.      Don't know          
+9.      Refused                
+ 
+C-9.  If you needed any assistance in voting, who provided the assistance? 
+ 
+1.      Did not need any assistance  If in disability sample ask C-9c, else skip to C-10. 
+2.      An election official 
+3.      A family member 
+4.      A friend 
+5.      A home care aide or health aide 
+6.      Someone else 
+7.      Needed assistance but no one provided Go To C9c 
+ 
+             C-9b.  What type of assistance did you receive? [coded verbatim] 
+ 
+If in disability sample ask C-9c, else skip to C-10. 
+ 
+C-9c.  In addition to standard voting equipment, were there any extra features or devices that helped you vote, such as a magnifier, large visual display, special keypad, or earphones? 
+ 
+1.      Yes  
+2.      No                 Skip to question C-10. 
+  8. Don't know    Skip to question C-10. 9.   Refused          Skip to question C-10. 
+ 
+                       C-9d.  What type of extra features or devices did you use? (coded verbatim) 
+              
+                    C-9e.  Were those extra features or devices set up and ready to use when you arrived? 
+ 
+1.      Yes                    
+2.      No                   
+ 
+C9f.  Did the election officials know how to set up and use the extra features or devices? 
+1.      Yes, there were no problems 
+2.      Yes, but there was some delay or problems 
+3.      No, they did not know how to set up and use the features or devices 
+ 
+C-10.  How helpful were the election officials? 
+1.      I did not need any help 
+2.      I needed help, but they were not helpful at all 
+3.      I needed for help, and they were somewhat helpful 
+4.      I needed for help, and they were very helpful 
+ 
+C-11.  In your opinion, how respectful were the election officials to you?  Were they ...?   
+ 
+1.      Very disrespectful 
+2.      Somewhat disrespectful 
+3.      Neither respectful nor disrespectful 
+4.      Somewhat respectful 
+5.      Very respectful 
+ 
+ 
+C-12.  Overall, how easy or difficult was your experience in voting at the polling place? 
+ 
+1.      Very easy                skip to C-14. 
+2.      Somewhat easy        skip to C-14. 
+3.      Not easy or difficult  skip to C-14. 
+4.      Somewhat difficult   skip to C-14. 
+5.      Very difficult           skip to C-14. 
+  
+[For those who haven't voted at polling place in past 10 years] 
+ 
+C-13.  If you wanted to vote in person inside the polling place, do you think you would experience any difficulty in getting to the polling place or in using the ballot or voting machine? 
+ 
+1.      Yes              Ask question C-13a 
+2.      No                skip to C-14. 
+8.      Don't know   skip to C-14. 
+9.      Refused        Skip to C-14. 
+ 
+             C-13a. What type of difficulty do you think you would experience? 
+[interviewer coding-do not read options] 
+[more than one answer may be coded] 
+ 
+1.      Finding polling place 
+2.      Getting to polling place 
+3.      Getting inside polling place (stairs/steps) 
+4.      Long lines 
+5.      Difficulty seeing or reading ballot 
+6.      Difficulty understanding how to vote or use voting machine 
+7.      Other difficulty using ballot or voting machine:  [coded verbatim]:_______________________ 
+8.      Other problem: [coded verbatim]__________________ 
+ 
+ __________________________________________________________________ 
+ 
+C-14.  How likely are you to vote in the next Presidential election four years from now? 
+ 
+1.      Will definitely vote                 
+2.      Very likely                  
+3.      Somewhat likely 
+4.      Not very likely 
+5.      Not at all likely 
+8.      Don't know or depends (DNR)     
+9.      Refused                  
+ 
+C-15.   If you wanted to vote in the next election, how would you prefer to cast your vote? 
+ 
+1.      In person inside the polling place  
+2.      Mail-in ballot 
+3.      On the Internet 
+4.      By telephone 
+8.      Don't know 
+9.      Refused
+
+ 
+ Table 1:  Voting by disability status, 2008-2012                        Voter turnoutDisability gap Number of voters 
+(millions)             2008 2010 2012 2012 2012No disability64.5% 45.9% 62.5%   117.3Any disability57.3% 42.8% 56.8%   15.6Disability gap-7.2%**-3.1%**-5.7%**-5.7%**             Type of disability:          Hearing impairment63.1% 50.0% 63.2% 0.7% 5.0 Visual impairment56.8%**39.5%**57.3%**-5.2%**2.4 Cognitive impairment46.1%**29.6%**44.8%**-17.7%**3.7 Mobility impairment56.8%**43.5%**56.3%**-6.2%**9.3 Difficulty dressing or bathing46.4%**32.4%**46.7%**-15.8%**2.2 Difficulty going outside alone45.7%**32.9%**47.3%**-15.2%**4.6* Difference from non-disability sample is significant at 95% level  ** 99% level      
+Table 2:  Voter Turnout by Employment Status and Demographics      Voter turnout in 2012    DisabilityNo DisabilityDisability Gap      Overall56.8%62.5%-5.7%**     Employed64.6%64.2%0.4% Not employed55.0%59.2%-4.2%**     Women56.5%64.8%-8.3%**Men57.2%60.1%-2.9%**     Age 18-3432.6%48.8%-16.2%**Age 35-4945.4%63.5%-18.1%**Age 50-6458.1%71.0%-12.9%**Age 65+64.4%75.4%-11.0%**     Northeast54.5%63.3%-8.8%**Midwest60.1%65.8%-5.7%**South56.4%61.3%-4.9%**West55.6%60.7%-5.1%*** Difference from non-disability sample is significant at 95% level  ** 99% level 
+ Table 3:  Voter Turnout by State                 No disabilityDisabilityDisability Gap  No disabilityDisabilityDisability GapAlabama62.7%57.8%-4.9% Montana65.8%64.9%-0.9% Alaska58.3%59.1%0.9% Nebraska61.5%62.2%0.7% Arizona56.9%48.1%-8.9% Nevada57.9%58.5%0.7% Arkansas54.7%46.2%-8.4%*New Hampshire70.8%59.0%-11.9%**California58.4%50.4%-8.0%**New Jersey62.5%56.8%-5.7%           Colorado71.1%65.6%-5.5% New Mexico62.1%57.7%-4.5% Connectic63.8%52.7%-11.1%**New York59.7%50.2%-9.5%**Delaware66.8%71.1%4.3% North Carolina69.8%62.5%-7.3%*Florida60.7%62.0%1.3% North Dakota64.7%57.2%-7.6% Georgia62.9%54.9%-8.0%*Ohio63.9%58.3%-5.6%*          Hawaii51.7%51.4%-0.2% Oklahoma53.0%49.4%-3.6% Idaho64.9%56.6%-8.3% Oregon67.8%66.6%-1.1% Illinois61.6%60.4%-1.2% Pennsylvania62.6%54.9%-7.7%**Indiana59.9%54.8%-5.2% Rhode Island62.7%61.0%-1.7% Iowa70.2%63.9%-6.3% South Carolina65.5%59.8%-5.7%           Kansas63.3%63.0%-0.3% South Dakota60.4%64.7%4.2% Kentucky61.4%48.5%-12.9%**Tennessee57.4%47.9%-9.5%**Louisiana67.6%58.7%-8.9%*Texas53.5%55.8%2.3% Maine71.0%55.9%-15.1%**Utah56.7%59.8%3.1% Maryland66.0%58.3%-7.7%*Vermont63.4%62.1%-1.3%           Massachus        72.3%59.7%-12.6%**Virginia68.2%57.1%-11.1%**Michigan68.0%60.7%-7.3%**Washington 66.0%63.6%-2.4% Minnesota        74.2%65.7%-8.4%**Washington, D.C.77.6%63.8%-13.8%**Mississipp75.9%67.9%-8.0%*West Virginia48.8%42.9%-5.8% Missouri65.8%53.5%-12.2%**Wisconsin74.7%66.5%-8.2%**     Wyoming58.7%59.7%1.0% * Difference from non-disability sample is significant at 95% level  ** 99% level     Table 4: Voted Early or by Mail               Among those who reported voting in 2012          Voted early in polling place or election office Voted by mail   No disability14.2% 17.3%   Any disability14.8% 28.1%   Disability gap0.6% 10.8%**           By type of disability:       Hearing impairment15.4% 28.4%**   Visual impairment15.2% 26.5%**   Cognitive impairment12.9% 30.1%**   Mobility impairment14.6% 31.0%**   Difficulty dressing or bathing12.3% 39.6%**   Difficulty going outside alone12.8% 36.0%**  * Difference from non-disability sample is significant at 95% level  ** 99% level              
+ Table 5: Voter Registration             DisabilityNo DisabilityDisability Gap      Registered to vote69.2%71.5%-2.3%**Voted if registered82.1%87.5%-5.4%**How registered to vote:    Went to a town hall or county/ government registration office31.5%22.4%9.1%**At a department of motor vehicles21.9%30.9%-9.0%**At a public assistance agency2.7%1.3%1.4%**Registered by mail15.8%16.3%-0.5% Registered at polling place8.8%7.7%1.1%**Filled out form at a registration drive7.2%6.1%1.1%**At a school, hospital, or on campus4.9%7.1%-2.2%**Registered using the Internet or online1.3%3.9%-2.6%**Other6.0%4.3%1.7%*** Difference from non-disability sample is significant at 95% level  ** 99% level              
+ Table 6: Why Not Registered to Vote      If not registered to vote, why not:DisabilityNo DisabilityDisability Gap      Not interested in the election or not involved in politics32.1%45.2%-13.1%**Permanent illness or disability24.5%1.2%23.3%**Did not meet registration deadlines9.0%15.6%-6.6%**Not eligible to vote6.0%7.5%-1.6%**     My vote would not make a difference4.3%4.8%-0.5% Did not know where or how to register4.1%4.8%-0.8% Did not meet residency requirements/did not live here long enough1.2%3.5%-2.3%**Difficulty with English1.5%1.6%-0.1% Other reason17.4%15.8%1.6% * Difference from non-disability sample is significant at 95% level  ** 99% level              
+                                                Table 7: Why People Did Not Vote if Registered       Why didn't voteDisabilityNo DisabilityDisability Gap      Illness or disability (own or family's)43.6%8.2%35.4%**Not interested, felt my vote wouldn't make a difference12.3%17.0%-4.7%**Didn't like candidates or campaign issues9.7%13.8%-4.1%**Too busy, conflicting work or school schedule5.9%22.4%-16.5%**Forgot to vote (or send in absentee ballot)2.8%4.3%-1.5%**     Transportation problems6.1%2.8%3.3%**Out of town or away from home3.1%10.1%-7.0%**Registration problems (i.e. didn't receive absentee ballot, not registered in current location)4.0%6.0%-2.0%**Inconvenient hours, polling place or hours or lines too long2.0%2.9%-1.0% Bad weather conditions0.6%0.9%-0.2% Other10.0%11.8%-1.8% * Difference from non-disability sample is significant at 95% level  ** 99% level               
+  Table 8:  Polling Place Difficulties in 2012                               Type of Impairment Disability Severity  Any 
+Disability No 
+disabilityHearing Visual Cognitive Mobility No need for help in daily activities Need help in daily activities   (1) (2)(3) (4) (5) (6) (7) (8) When you voted in the polling place, did you have any:              1Difficulty in finding or getting to the polling place5.9% 1.6%1.6% 11.2% 11.6% 3.8% 1.6% 10.5% 2Difficulty in getting inside the polling place (for example, steps)3.6%**0.2%6.4% 3.2%*4.1% 4.4%**2.0%**5.4%**3Difficulty waiting in line8.3%*3.5%8.9% 4.6% 7.7% 9.4%*10.6%*5.8%                  4Difficulty reading or seeing the ballot11.7%**0.9%12.6%**21.5%**20.0%**8.2%**6.5%*17.2%**5Difficulty understanding how to vote or use the voting equipment10.3%**1.3%6.4% 14.6%*20.1%**9.7%**3.7%*17.3%**6Difficulty communicating with poll workers or other officials at the polling place1.6% 1.2%2.0% 2.1% 1.0% 1.6% 1.6% 1.6%                  7Difficulty writing on the ballot4.5% 0.3%0.7% 2.9%*7.8% 1.0% 2.0% 7.2% 8Difficulty operating the voting machine1.3% 0.9%2.6% 1.8% 1.4% 1.8% 0.5% 2.2% 9Other type of difficulty in voting3.8% 0.6%0.9% 1.2% 7.2% 1.6% 1.5% 6.3%                  "Yes" to any of above30.1%**8.4%26.9%**44.3%**43.2%**31.2%**21.1%**39.7%**                 Sample size1040 710264 197 344 651 562 478 * Difference from non-disability sample is significant at 95% level  ** 99% level            
+             
+ 
+ Table 9: Voting Methods and Difficulties         Any 
+Disability No 
+disability  (1) (2)How did you record your vote?  Did you:    Write on a ballot48.9% 52.4% Punch buttons on a machine12.2% 13.1% Flip switches on a machine1.4% 1.8% Touch a computer screen36.9% 31.8% Use some other method0.6% 0.8%     If wrote on ballot:    Difficulty reading or seeing the ballot13.8%**0.8% Difficulty understanding how to vote or use the voting equipment12.8%*1.3% Difficulty writing on ballot9.6% 0.5%     If punched buttons on machine:    Difficulty reading or seeing the ballot10.8%**0.0% Difficulty understanding how to vote or use the voting equipment8.0%**0.0% Difficulty using voting machine4.1%*0.3%     If touched a computer screen:    Difficulty reading or seeing the ballot9.9%*1.5% Difficulty understanding how to vote or use the voting equipment8.3% 2.0% Difficulty using voting machine2.1% 2.9%* Difference from non-disability sample is significant at 95% level  ** 99% leve 
+  Table 10:  Overall Ease or Difficulty of Voting                               Type of Impairment Disability Severity  Any 
+Disability No 
+disabilityHearing Visual Cognitive Mobility No need for help in daily activities Need help in daily activities   (1) (2)(3) (4) (5) (6) (7) (8) Overall ease or difficulty of voting                Very easy76.0%**86.4%79.8% 71.8%*69.4%*76.4%*81.8% 70.0%** Somewhat easy17.6% 11.2%14.8% 20.7% 20.7% 17.8% 15.5% 19.7%  Neither easy nor difficult0.6% 0.7%0.5% 0.8% 0.2% 1.1% 0.8% 0.4%  Somewhat difficult2.7%*0.8%4.5% 5.8% 3.3% 4.0%*1.6% 3.8%* Very difficult3.1% 0.9%0.4% 0.9% 6.4% 0.7% 0.4% 6.0%                   Somewhat or very difficult5.8% 1.7%4.9% 6.7% 9.7% 4.7% 2.0% 9.8%                  Sample size1037 709263 195 343 650 559 478 * Difference from non-disability sample is significant at 95% level  ** 99% level                      
+ 
+Table 11:  Specific Difficulties for Those Who Found Overall Process Difficult      All figures refer to voters with disabilities in 2012     Overall voting process was:  Somewhat or very difficultSomewhat easyVery easy  (1)(2)(3)When you voted in the polling place, did you have any:   1Difficulty in finding or getting to the polling place47.6%7.9%2.3%2Difficulty in getting inside the polling place (for example, steps)12.9%6.1%2.3%3Difficulty waiting in line22.8%15.4%5.5%     4Difficulty reading or seeing the ballot58.6%11.6%8.1%5Difficulty understanding how to vote or use the voting equipment68.1%7.6%6.4%6Difficulty communicating with poll workers or other officials at the polling place8.1%2.5%0.7%     7Difficulty writing on the ballot49.7%5.0%1.2%8Difficulty operating the voting machine3.2%3.7%0.4%9Other type of difficulty in voting47.7%1.8%1.0%     "Yes" to any of above93.7%46.8%21.1%     Sample size56149817 
+ Table 12:  Polling Place Difficulties  in Past 10 Years                If voted at polling place in 2012If voted at polling place in last 10 years but not in 2012  Disability No disabilityDisability No disability  (1) (2)(3) (4)When you voted in the polling place, did you have any:      1Difficulty in finding or getting to the polling place5.9% 1.6%3.3% 1.5%2Difficulty in getting inside the polling place (for example, steps)3.6%**0.2%5.4%**0.0%3Difficulty waiting in line8.3%*3.5%9.4% 2.8%        4Difficulty reading or seeing the ballot11.7%**0.9%14.9%**1.8%5Difficulty understanding how to vote or use the voting equipment10.3%**1.3%10.5%**2.7%6Difficulty communicating with poll workers or other officials at the polling place1.6% 1.2%5.0% 1.4%        7Difficulty writing on the ballot4.5% 0.3%1.3%*0.0%8Difficulty operating the voting machine1.3% 0.9%5.0%*0.0%9Other type of difficulty in voting3.8% 0.6%2.5%*0.0%        "Yes" to any of above30.1%**8.4%28.6%**10.2%        Sample size1040 710403 116* Difference from non-disability sample is significant at 95% level  ** 99% level                
+  Table 13: Expected Polling Place Difficulties if Have Not Voted at Polling Place in 10 Years                               Type of ImpairmentDisability Severity   Any 
+Disability No 
+disabilityHearing Visual Cognitive Mobility No need for help in daily activities Need help in daily activities    (1) (2)(3) (4) (5) (6) (7) (8) Any expected difficulty if wanted to vote at polling place40.1%**1.2%55.9%**44.1%**40.7%**48.8%**19.0%**56.3%**Expected difficulty in:                Finding polling place2.3%*0.0%0.0% 2.7% 2.7% 2.8% 0.9% 3.5%  Getting to the polling place12.8%**0.2%28.8%*11.2%**11.4%**16.6%**5.0%**18.8%** Getting inside the polling place7.4%**0.0%21.3% 5.4%**3.7%**11.4%**2.1%*11.5%** Waiting in line3.4%**0.0%5.6%*4.0%*3.9%**5.0%**2.3%*4.2%**                   Reading or seeing the ballot6.4%**0.6%12.7%**22.0%**8.4%**7.3%**3.4% 8.8%** Understanding how to vote or use the voting equipment10.3%**0.0%12.8%**5.9% 15.1%**8.2%**7.4% 12.5%**                   Other difficulty recording vote4.3%**0.5%4.4% 4.0% 4.6%**7.6%**0.0% 7.6%** Any other problem9.8%**0.0%5.7%*6.9%*10.4%**13.7%**4.3%**14.0%**                  Sample size556 196124 122 236 392 229 327 * Difference from non-disability sample is significant at 95% level  ** 99% level                       
+ Table 14: Problems in mail voting            Any 
+Disability No 
+disability   (1) (2)Voted by mail in 201223.8% 16.4%If voted by mail:    Any difficulty in reading or filling out mail-in ballot13.4% 2.2% Need for assistance in completing mail-in ballot11.3% 0.4%* Difference from non-disability sample is significant at 95% level  ** 99% level             
+
+ Table 15: Need for Assistance and Use of Special Features       Among those who voted at polling place in 2012      Disability No disability   (1) (2)Needed assistance in voting29.5%**10.7% If yes, who provided assistance     Election official42.2%**71.6%  Family member42.2%**18.8%  Friend9.0%**2.1%  Home care aide0.5% 0.0%  Other3.6%*5.2%  Needed but none provided2.5% 2.3%      Used extra features or devices to help vote6.5%   If yes, what features or devices     Large display58.1%    Magnifier or visual aid32.7%    Earphones10.1%    Seating/lowered machine2.2%    Other1.0%   Features or devices were set up and ready to use75.4%   Election officials knew how to set up and use features     Yes, no problems96.9%    Yes, but some delay or problem1.7%    No1.4%  Sample sizes    Total 1034 708 If needed assistance in voting431 69 If used extra features or devices54  * Difference from non-disability sample is significant at 95% level  ** 99% level 
+ Table 16:  Treatment by Election Officials                               Among those who voted at polling place in 2012                   Type of ImpairmentDisability Severity  Any 
+Disability No 
+disabilityHearing Visual Cognitive Mobility No need for help in daily activities Need 
+ help in daily activities   (1) (2)(3) (4) (5) (6) (7) (8) How respectful were election officials                Very respectful86.8% 84.7%86.4% 84.2% 88.5% 82.2% 85.3% 88.3%  Somewhat respectful8.2% 6.8%10.2% 12.2% 8.5% 11.2% 8.5% 7.9%  Neither respectful nor disrespectful3.2% 5.3%2.0%*1.4%*1.5%*4.5% 4.4% 2.0%* Somewhat or very disrespectful1.7% 3.2%1.5% 2.2% 1.5% 2.1% 1.7% 1.8%                  How helpful were election officials                Did not need help59.8%**79.8%59.7%**45.5%**48.6%**60.5%**65.0%**54.2%** If needed help:                   Very helpful92.6% 87.4%94.5% 92.5% 94.1% 91.1% 92.6% 92.5%     Somewhat helpful5.7% 4.6%5.0% 6.1% 5.1% 7.0% 6.5% 5.0%     Not helpful at all1.7% 8.0%0.5%*1.5% 0.8%*1.8% 0.9%*2.4%                  Sample size1037 709263 195 343 650 559 478 * Difference from non-disability sample is significant at 95% level  ** 99% level                      
+  Table 17: Preference for How to Vote                             "If you wanted to vote in the next election, how would you prefer to cast your vote?"        All respondents (whether or not voted in 2012)                 Type of Impairment Disability Severity  Any 
+Disability No 
+disabilityHearing Visual Cognitive Mobility No need for help in daily activities Need 
+ help in daily activities   (1) (2)(3) (4) (5) (6) (7) (8)  In person in polling place58.0%**67.7%66.1% 67.9% 57.7%*55.0%**65.5% 51.5%** By mail25.0%**13.6%22.6%*21.0%*23.7%**29.0%**21.4%**28.1%** On the Internet9.6%**16.1%4.1%**4.1%**10.7% 7.7%**9.3%**9.9%* By telephone5.0%**1.5%5.4% 3.5% 4.5%**6.1%*1.6% 7.9%** Don't know2.4%*1.0%1.8% 3.4% 3.5%**2.2% 2.2% 2.6%*                  Sample size 2000 1022496 401 731 1331 929 1051  * Difference from non-disability sample is significant at 95% level  ** 99% level          
+
+
+
+[1] Based on data from the Census Bureau's American Community Survey in StatsRRTC (2011). A larger estimate of 46 million people with disabilities age 21 or older is based on a more expansive disability definition using the 2005 Survey of Income and Program Participation in Brault (2008). 
+[2] Among the 10 surveys, 7  are based on broad samples of people with disabilities (Harris 2004, 2010; Schur et al. 2002; Schur et al. 2005), while two are based on non-employed respondents who answered an employment question by saying they have a disability (Shields, Schriner, and Schriner 1998a; LoBianca 1998); and one is based on New Jersey residents with spinal cord injuries (Schur and Kruse 2000).  See review in Schur and Adya (2012) and Schur, Kruse, and Blanck (2013). 
+[3] The Harris surveys show a disability turnout gap of 17 percentage points in 1996 decreasing to zero in 2008, although the much larger sample from the Census Bureau data indicates a continuing significant disability turnout gap in 2008. 
+[4]  Also see the recent 2-13 GAO statement at http://www.gao.gov/assets/660/654099.pdf. 
+[5] The questions are presented by the Bureau of Labor Statistics at  http://www.bls.gov/cps/cpsdisability_faq.htm#Identified. 
+[6] The overall rate of turnout is higher than the rate calculated on actual votes cast, which was 57.5%, http://bipartisanpolicy.org/news/press-releases/2012/11/2012-election-turnout-dips-below-2008and-2004-levels-number-eligible-vo   This likely reflects the well-known problem of overreporting that affects nearly all voting surveys, as people overreport socially desirable activities like voting (Clausen, 1968; Holbrook, & Krosnick, 2010; Traugott & Katosh, 1979).  See further discussion of upward and downward biases in File (2013).  Examining the disability turnout gap remains valid, however, because it does not appear that people with disabilities are more or less likely to overreport voting, which means there is no obvious bias in the estimated turnout gap between people with and without disabilities.  While studies have not specifically analyzed the relation of disability to overrreporting, it does not appear to be linked to age or other variables associated with disability, as discussed in Schur et al. (2002). 
+[7] This is consistent with other research on the role of employment summarized in Lisa Schur, Todd Shields, and Kay Schriner, "Voting," in Gary Albrecht, ed., Encyclopedia of Disability (Thousand Oaks, CA: Sage Publications, 2005) 
+[8] This estimate was based on a probit regression in the sample that had voted at a polling place in the past 10 years. The regression  predicted any voting difficulty with disability types, severity, and demographic characteristics, and the coefficients were used to impute the likelihood of voting difficulty for those who answered the hypothetical question. 
+[9] See Tokaji and Colker (2007) for a discussion of problems faced by people with disabilities in voting by mail. 

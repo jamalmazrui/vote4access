@@ -1,0 +1,2480 @@
+﻿<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<title>Designing an accessible iPad voting case</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	color:black;}
+h1
+	{mso-style-link:"Heading 1 Char";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:1.0pt;
+	margin-left:.5pt;
+	text-indent:-.5pt;
+	line-height:106%;
+	page-break-after:avoid;
+	font-size:48.0pt;
+	font-family:"Arial",sans-serif;
+	color:#181717;}
+h2
+	{mso-style-link:"Heading 2 Char";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:3.25pt;
+	margin-left:9.5pt;
+	text-indent:-.5pt;
+	line-height:107%;
+	page-break-after:avoid;
+	background:#5E5F5F;
+	font-size:30.0pt;
+	font-family:"Arial",sans-serif;
+	color:#FFFEFD;
+	font-weight:normal;}
+h3
+	{mso-style-link:"Heading 3 Char";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:3.25pt;
+	margin-left:9.5pt;
+	text-indent:-.5pt;
+	line-height:107%;
+	page-break-after:avoid;
+	background:#5E5F5F;
+	font-size:30.0pt;
+	font-family:"Arial",sans-serif;
+	color:#FFFEFD;
+	font-weight:normal;}
+span.Heading1Char
+	{mso-style-name:"Heading 1 Char";
+	mso-style-link:"Heading 1";
+	font-family:"Arial",sans-serif;
+	color:#181717;
+	font-weight:bold;}
+span.Heading2Char
+	{mso-style-name:"Heading 2 Char";
+	mso-style-link:"Heading 2";
+	font-family:"Arial",sans-serif;
+	color:#FFFEFD;}
+span.Heading3Char
+	{mso-style-name:"Heading 3 Char";
+	mso-style-link:"Heading 3";
+	font-family:"Arial",sans-serif;
+	color:#FFFEFD;}
+.MsoPapDefault
+	{margin-bottom:8.0pt;
+	line-height:107%;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:11.0in 8.5in;
+	margin:1.0in 40.05pt 1.0in 40.05pt;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:11.0in 8.5in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection2
+	{page:WordSection2;}
+@page WordSection3
+	{size:11.0in 8.5in;
+	margin:14.1pt .25in 14.2pt .25in;}
+div.WordSection3
+	{page:WordSection3;}
+@page WordSection4
+	{size:11.0in 8.5in;
+	margin:.25in 17.15pt 27.15pt 17.3pt;}
+div.WordSection4
+	{page:WordSection4;}
+@page WordSection5
+	{size:11.0in 8.5in;
+	margin:43.95pt 27.0pt 14.2pt .35in;}
+div.WordSection5
+	{page:WordSection5;}
+@page WordSection6
+	{size:11.0in 8.5in;
+	margin:1.0in 105.5pt 1.0in 41.2pt;}
+div.WordSection6
+	{page:WordSection6;}
+@page WordSection7
+	{size:11.0in 8.5in;
+	margin:43.95pt 84.05pt 1.0in 27.0pt;}
+div.WordSection7
+	{page:WordSection7;}
+@page WordSection8
+	{size:11.0in 8.5in;
+	margin:1.0in 29.65pt 1.0in .35in;}
+div.WordSection8
+	{page:WordSection8;}
+@page WordSection9
+	{size:11.0in 8.5in;
+	margin:43.95pt 27.0pt 35.15pt .35in;}
+div.WordSection9
+	{page:WordSection9;}
+@page WordSection10
+	{size:11.0in 8.5in;
+	margin:37.35pt 27.0pt .45in 49.9pt;}
+div.WordSection10
+	{page:WordSection10;}
+@page WordSection11
+	{size:11.0in 8.5in;
+	margin:14.1pt .25in 14.2pt 184.1pt;}
+div.WordSection11
+	{page:WordSection11;}
+@page WordSection12
+	{size:11.0in 8.5in;
+	margin:43.95pt 27.0pt 14.5pt 27.55pt;}
+div.WordSection12
+	{page:WordSection12;}
+@page WordSection13
+	{size:11.0in 8.5in;
+	margin:14.1pt .25in 14.2pt .25in;}
+div.WordSection13
+	{page:WordSection13;}
+@page WordSection14
+	{size:11.0in 8.5in;
+	margin:.25in 1.0in .25in 1.0in;}
+div.WordSection14
+	{page:WordSection14;}
+@page WordSection15
+	{size:11.0in 8.5in;
+	margin:14.1pt .25in 14.2pt .25in;}
+div.WordSection15
+	{page:WordSection15;}
+@page WordSection16
+	{size:11.0in 8.5in;
+	margin:.25in 1.0in .25in 1.0in;}
+div.WordSection16
+	{page:WordSection16;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+
+</head>
+
+<body lang=EN-US>
+
+<div class=WordSection1>
+
+<h1 style='margin-left:108.55pt;text-indent:-109.3pt'><img width=1056
+height=624
+src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image001.gif"><br
+clear=ALL>
+Designing an Accessible iPad Voting Case</h1>
+
+</div>
+
+<span style='font-size:11.0pt;line-height:107%;font-family:"Calibri",sans-serif;
+color:black'><br clear=all style='page-break-before:always'>
+</span>
+
+<div class=WordSection2>
+
+<p class=MsoNormal style='margin-bottom:0in'>&nbsp;</p>
+
+</div>
+
+<span style='font-size:11.0pt;line-height:107%;font-family:"Calibri",sans-serif;
+color:black'><br clear=all style='page-break-before:always'>
+</span>
+
+<div class=WordSection3>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:165.55pt;margin-bottom:
+13.05pt;margin-left:176.55pt;text-indent:-.5pt;line-height:106%'><span
+style='font-size:24.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>Thank you to Whitney Quesenbery and Daniel Castro of ITIF,
+without whom this project would not have been possible.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:160.4pt;margin-bottom:
+13.05pt;margin-left:176.55pt;text-indent:-.5pt;line-height:106%'><span
+style='font-size:24.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>Jorge Silva, of Komodo OpenLab, also deserves much thanks for
+his immense help with the Tecla Shield.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:.25pt;margin-bottom:.2pt;
+margin-left:176.55pt;text-indent:-.5pt;line-height:106%'><span
+style='font-size:24.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>Thank you, finally, to my coworkers at GTRI: </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:143.05pt;margin-bottom:
+108.2pt;margin-left:176.55pt;text-indent:-.5pt;line-height:106%'><span
+style='font-size:24.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>Brad Fain, Linda Harley, Carrie Bell, Cara Fausset, Christina
+Harrington and Patrick Lambert. You guys are awesome!</span></p>
+
+<p class=MsoNormal align=right style='margin-top:0in;margin-right:-.75pt;
+margin-bottom:.15pt;margin-left:.5pt;text-align:right;text-indent:-.5pt'><span
+style='font-size:18.0pt;line-height:107%;font-family:"Arial",sans-serif;
+color:#181717'>i</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:224.8pt;
+margin-left:180.35pt'><img width=527 height=125 id="Group 21011"
+src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image002.gif"></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:.15pt;
+margin-left:-.25pt;text-indent:-.5pt;line-height:108%'><span style='font-size:
+18.0pt;line-height:108%;font-family:"Arial",sans-serif;color:#181717'>ii</span></p>
+
+<h2 style='margin-top:0in;margin-right:0in;margin-bottom:.55pt;margin-left:
+86.0pt;line-height:106%;background:transparent'><b><span style='color:#181717'>table
+of contents</span></b></h2>
+
+<table class=TableGrid border=0 cellspacing=0 cellpadding=0 width=772
+ style='width:578.7pt;margin-left:91.8pt;border-collapse:collapse'>
+ <tr style='height:259.3pt'>
+  <td width=733 valign=top style='width:549.9pt;padding:0in 0in 0in 0in;
+  height:259.3pt'>
+  <p class=MsoNormal style='margin-top:0in;margin-right:-12.4pt;margin-bottom:
+  0in;margin-left:0in;line-height:130%'><span style='font-size:30.0pt;
+  line-height:130%;font-family:"Arial",sans-serif;color:#181717'>introduction </span><img
+  width=574 height=1 id="Group 21492"
+  src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image003.gif"><span
+  style='font-size:30.0pt;line-height:130%;font-family:"Arial",sans-serif;
+  color:#181717'>the problem </span><img width=572 height=1 id="Group 21499"
+  src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image004.gif"></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:130%'><span
+  style='font-size:30.0pt;line-height:130%;font-family:"Arial",sans-serif;
+  color:#181717'>designing for accessibility </span><img width=350 height=1
+  id="Group 21507"
+  src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image005.gif"><span
+  style='font-size:30.0pt;line-height:130%;font-family:"Arial",sans-serif;
+  color:#181717'>electronics </span><img width=571 height=1 id="Group 21517"
+  src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image006.gif"></p>
+  <p class=MsoNormal style='margin-bottom:0in'><span style='font-size:30.0pt;
+  line-height:107%;font-family:"Arial",sans-serif;color:#181717'>form design +
+  prototyping </span><img width=346 height=1 id="Group 21530"
+  src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image007.gif"><span
+  style='font-size:30.0pt;line-height:107%;font-family:"Arial",sans-serif;
+  color:#181717'>final concept </span><img width=542 height=1 id="Group 21531"
+  src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image008.gif"></p>
+  </td>
+  <td width=38 valign=top style='width:.4in;padding:0in 0in 0in 0in;height:
+  259.3pt'>
+  <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:7.75pt;
+  margin-left:13.9pt;text-align:justify;text-justify:inter-ideograph'><img
+  width=1 height=2
+  src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image009.gif"><span
+  style='font-size:30.0pt;line-height:107%;font-family:"Arial",sans-serif;
+  color:#181717'>1</span></p>
+  <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:7.75pt;
+  margin-left:13.9pt;text-align:justify;text-justify:inter-ideograph'><img
+  width=1 height=1
+  src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image010.gif"><span
+  style='font-size:30.0pt;line-height:107%;font-family:"Arial",sans-serif;
+  color:#181717'>8</span></p>
+  <p class=MsoNormal style='margin-bottom:7.75pt;text-align:justify;text-justify:
+  inter-ideograph'><span style='font-size:30.0pt;line-height:107%;font-family:
+  "Arial",sans-serif;color:#181717'>12</span></p>
+  <p class=MsoNormal style='margin-bottom:7.75pt;text-align:justify;text-justify:
+  inter-ideograph'><span style='font-size:30.0pt;line-height:107%;font-family:
+  "Arial",sans-serif;color:#181717'>18</span></p>
+  <p class=MsoNormal style='margin-bottom:7.75pt;text-align:justify;text-justify:
+  inter-ideograph'><span style='font-size:30.0pt;line-height:107%;font-family:
+  "Arial",sans-serif;color:#181717'>22</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph'><span style='font-size:30.0pt;line-height:107%;font-family:
+  "Arial",sans-serif;color:#181717'>30</span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal align=right style='margin-top:0in;margin-right:-.75pt;
+margin-bottom:.15pt;margin-left:.5pt;text-align:right;text-indent:-.5pt'><span
+style='font-size:18.0pt;line-height:107%;font-family:"Arial",sans-serif;
+color:#181717'>iii</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:.15pt;
+margin-left:-.25pt;text-indent:-.5pt;line-height:108%'><span style='font-size:
+18.0pt;line-height:108%;font-family:"Arial",sans-serif;color:#181717'>iv</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in'><img width=1009 height=772
+src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image011.gif"></p>
+
+<p class=MsoNormal align=right style='margin-top:0in;margin-right:6.45pt;
+margin-bottom:.4pt;margin-left:305.95pt;text-align:right;text-indent:-.5pt;
+line-height:106%'><span style='font-size:30.0pt;line-height:106%;font-family:
+"Arial",sans-serif;color:#181717'>For individuals with disabilities, voting </span></p>
+
+<p class=MsoNormal align=right style='margin-top:0in;margin-right:6.45pt;
+margin-bottom:.4pt;margin-left:305.95pt;text-align:right;text-indent:-.5pt;
+line-height:106%'><span style='font-size:30.0pt;line-height:106%;font-family:
+"Arial",sans-serif;color:#181717'>at a polling place can be a <b>self-</b></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:6.1pt;margin-bottom:14.0pt;
+margin-left:307.15pt;text-align:justify;text-justify:inter-ideograph;
+text-indent:76.45pt;line-height:105%'><b><span style='font-size:30.0pt;
+line-height:105%;font-family:"Arial",sans-serif;color:#181717'>conscious,
+anxiety-ridden, and frustrating </span></b><span style='font-size:30.0pt;
+line-height:105%;font-family:"Arial",sans-serif;color:#181717'>experience.
+Sometimes, even getting to a polling location can be a physical impossibility. </span></p>
+
+<p class=MsoNormal align=right style='margin-top:0in;margin-right:6.45pt;
+margin-bottom:12.75pt;margin-left:305.95pt;text-align:right;text-indent:-.5pt;
+line-height:106%'><span style='font-size:30.0pt;line-height:106%;font-family:
+"Arial",sans-serif;color:#181717'>For these reasons and others, over <b>26% of
+Americans</b> chose to participate in early or absentee voting in 2012.</span></p>
+
+<p class=MsoNormal align=right style='margin-top:0in;margin-right:6.45pt;
+margin-bottom:.4pt;margin-left:305.95pt;text-align:right;text-indent:-.5pt;
+line-height:106%'><span style='position:relative;z-index:-1895824384'><span
+style='left:0px;position:absolute;left:0px;top:-474px;width:1008px;height:768px'><img
+width=1008 height=768
+src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image012.gif"></span></span><span
+style='font-size:30.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>But what happens when one’s condition is such that even the
+absentee and early voting <b>alternatives</b> are <b>not a viable option</b>?
+How can we <b>ensure</b> that <b>all</b> voters have <b>equal access</b> to
+this fundamental right? </span></p>
+
+<p class=MsoNormal style='margin-bottom:0in'><img width=1009 height=770
+src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image013.gif"></p>
+
+<p class=MsoNormal style='margin-bottom:0in'><img width=1009 height=768
+src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image014.gif"></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:212.55pt;margin-bottom:
+.05pt;margin-left:246.2pt;text-indent:-10.25pt;line-height:105%'><span
+style='font-size:30.0pt;line-height:105%;font-family:"Arial",sans-serif;
+color:#181717'>However, the <b>iPad isn’t a perfect device</b>. If it will be
+used repeatedly for </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:212.55pt;margin-bottom:
+.05pt;margin-left:235.3pt;text-indent:-18.9pt;line-height:105%'><span
+style='position:relative;z-index:-1895823360'><span style='left:0px;position:
+absolute;left:0px;top:-159px;width:1008px;height:768px'><img width=1008
+height=768
+src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image015.gif"></span></span><span
+style='font-size:30.0pt;line-height:105%;font-family:"Arial",sans-serif;
+color:#181717'>individuals with a wide range of abilities, it <b>needs to be
+augmented to quickly </b></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:149.35pt;margin-bottom:
+12.95pt;margin-left:344.7pt;text-indent:-120.45pt;line-height:106%'><b><span
+style='font-size:30.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>and efficiently work</span></b><span style='font-size:30.0pt;
+line-height:106%;font-family:"Arial",sans-serif;color:#181717'> for all users.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:212.55pt;margin-bottom:
+.05pt;margin-left:235.95pt;text-indent:11.75pt;line-height:105%'><span
+style='font-size:30.0pt;line-height:105%;font-family:"Arial",sans-serif;
+color:#181717'> Therefore, an idea was proposed in an OpenIDEO challenge to
+design a </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:212.55pt;margin-bottom:
+.05pt;margin-left:232.1pt;text-indent:-6.95pt;line-height:105%'><span
+style='font-size:30.0pt;line-height:105%;font-family:"Arial",sans-serif;
+color:#181717'>specialized case that would <b>enhance and expand the </b></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:132.85pt;margin-bottom:
+.55pt;margin-left:310.8pt;text-indent:-85.8pt;line-height:106%'><b><span
+style='font-size:30.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>iPad’s existing accessible feature set.</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:4.8pt;margin-bottom:194.3pt;
+margin-left:7.7pt;text-indent:-.5pt;line-height:108%'><img width=814
+height=620
+src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image016.gif"
+align=left hspace=12><span style='font-size:18.0pt;line-height:108%;font-family:
+"Arial",sans-serif;color:#181717'>The image on this page is the original idea
+that was submitted to OpenIDEO in early 2012. It was one of 11 winning concepts
+chosen.</span></p>
+
+<h3 style='margin-left:8.75pt'>the OpenIDEO winning concept</h3>
+
+<p class=MsoNormal align=right style='margin-top:0in;margin-right:-.75pt;
+margin-bottom:7.65pt;margin-left:.5pt;text-align:right;text-indent:-.5pt'><span
+style='font-size:18.0pt;line-height:107%;font-family:"Arial",sans-serif;
+color:#181717'>7</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:33.45pt;
+margin-left:7.7pt;text-indent:-.5pt;line-height:108%'><span style='font-size:
+18.0pt;line-height:108%;font-family:"Arial",sans-serif;color:#181717'>The
+OpenIDEO challenge was sponsored by the Information Technology &amp; Innovation
+Foundation (ITIF) who released a call for proposals for their Accessible Voting
+Technology Initiative soon after. GTRI proposed and was awarded a grant to
+continue work on the iPad voting case concept.  </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:3.8pt;
+margin-left:161.5pt;text-indent:-.5pt;line-height:106%'><b><span
+style='font-size:30.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>Goal:</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:114.9pt;margin-bottom:
+6.15pt;margin-left:161.5pt;text-indent:-.5pt;line-height:105%'><span
+style='font-size:30.0pt;line-height:105%;font-family:"Arial",sans-serif;
+color:#181717'>Design a case that extends the Apple iPad’s integrated
+accessibility features, enabling it to serve as a universal absentee ballot
+marking device.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:145.55pt;margin-bottom:
+0in;margin-left:176.05pt;text-indent:-17.75pt;line-height:104%'><span
+style='font-size:24.0pt;line-height:104%;font-family:"Arial",sans-serif;
+color:#181717'>•<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:24.0pt;line-height:104%;font-family:"Arial",sans-serif;
+color:#181717'>Portable design allows the case to be brought to voters, rather
+than the other way around.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:145.55pt;margin-bottom:
+66.8pt;margin-left:176.05pt;text-indent:-17.75pt;line-height:104%'><span
+style='font-size:24.0pt;line-height:104%;font-family:"Arial",sans-serif;
+color:#181717'>•<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:24.0pt;line-height:104%;font-family:"Arial",sans-serif;
+color:#181717'>Ballot marking device can be deployed to hospitals, rehab
+clinics, and assisted living facilities, among other locations.</span></p>
+
+<p class=MsoNormal align=right style='margin-top:0in;margin-right:8.25pt;
+margin-bottom:18.05pt;margin-left:.5pt;text-align:right;text-indent:-.5pt;
+background:#5E5F5F'><span style='font-size:30.0pt;line-height:107%;font-family:
+"Arial",sans-serif;color:#FFFEFD'>the project goal</span></p>
+
+</div>
+
+<span style='font-size:11.0pt;line-height:107%;font-family:"Calibri",sans-serif;
+color:black'><br clear=all style='page-break-before:always'>
+</span>
+
+<div class=WordSection4>
+
+<h1 style='margin-left:164.6pt'>THE PROBLEM</h1>
+
+<p class=MsoNormal style='margin-bottom:13.4pt;line-height:110%'>                        <span
+style='font-size:18.0pt;line-height:110%;color:#191915'>U.S. Population                               Adults
+aged 65+</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:.25pt;margin-bottom:.2pt;
+margin-left:16.7pt;text-indent:-.5pt;line-height:106%'><img width=569
+height=253
+src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image017.gif"
+align=left hspace=12><span style='font-size:24.0pt;line-height:106%;font-family:
+"Arial",sans-serif;color:#181717'>Of the entire U.S. population, 12.2% (~38
+million) are living with a disability, whereas </span></p>
+
+<table class=TableGrid border=0 cellspacing=0 cellpadding=0 align=left
+ width=1008 style='width:10.5in;border-collapse:collapse;margin-left:-2.25pt;
+ margin-right:-2.25pt'>
+ <tr style='height:1.2in'>
+  <td width=311 valign=top style='width:233.15pt;background:#5E5F5F;padding:
+  3.2pt 9.0pt 0in 0in;height:1.2in'>
+  <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.1in'><span style='font-size:14.0pt;line-height:107%;font-family:
+  "Arial",sans-serif;color:#FFFEFD'>Annual Disability Statistics </span></p>
+  <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:13.5pt;
+  margin-left:.1in;text-align:justify;text-justify:inter-ideograph;line-height:
+  104%'><span style='font-size:14.0pt;line-height:104%;font-family:"Arial",sans-serif;
+  color:#FFFEFD'>Compendium, from 2011 American Community Survey</span></p>
+  <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.1in'><span style='font-size:14.0pt;line-height:107%;font-family:
+  "Arial",sans-serif;color:#FFFEFD'>www.DisabilityCompendium.org</span></p>
+  </td>
+  <td width=288 valign=top style='width:216.1pt;background:#5E5F5F;padding:
+  3.2pt 9.0pt 0in 0in;height:1.2in'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=409 style='width:306.75pt;background:#5E5F5F;padding:3.2pt 9.0pt 0in 0in;
+  height:1.2in'>
+  <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph'><span style='font-size:30.0pt;line-height:107%;font-family:
+  "Arial",sans-serif;color:#FFFEFD'>the state of disability today</span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:.25pt;margin-bottom:25.7pt;
+margin-left:16.7pt;text-indent:-.5pt;line-height:106%'><span style='font-size:
+24.0pt;line-height:106%;font-family:"Arial",sans-serif;color:#181717'>36.7%
+(~14 million) of the 65+ population are living with a disability.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:233.85pt'><span style='font-size:12.0pt;line-height:107%;
+font-family:"Arial",sans-serif;color:#191915'>Hearing Disability</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:86.95pt'><img width=582 height=292
+src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image018.gif"></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:31.25pt;
+margin-left:-.25pt;text-indent:-.5pt;line-height:108%'><span style='font-size:
+18.0pt;line-height:108%;font-family:"Arial",sans-serif;color:#181717'>57.3% of
+the eligible disabled voting population voted (14.7 million people), while 64%
+of people without disability voted (116.4 million people), a 7% disparity,
+though there was only a 3% gap in the voter registration rate.</span></p>
+
+<p class=MsoNormal style='margin-bottom:43.0pt;line-height:110%'>                        <span
+style='font-size:18.0pt;line-height:110%;color:#191915'>With A Disability                        With
+No Disability</span></p>
+
+<p class=MsoNormal align=right style='margin-top:0in;margin-right:61.15pt;
+margin-bottom:20.8pt;margin-left:5.75pt;text-align:right;text-indent:-.5pt;
+line-height:110%'><img width=701 height=288
+src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image019.gif"
+align=left hspace=12><b><span style='font-size:15.0pt;line-height:110%;
+font-family:"Arial",sans-serif;color:#191915'>By mail before election day</span></b></p>
+
+<table class=TableGrid border=0 cellspacing=0 cellpadding=0 align=left
+ width=1008 style='width:10.5in;border-collapse:collapse;margin-left:-2.25pt;
+ margin-right:-2.25pt'>
+ <tr style='height:1.2in'>
+  <td width=658 style='width:493.15pt;background:#5E5F5F;padding:0in 3.85pt 0in 0in;
+  height:1.2in'>
+  <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:9.0pt'><span style='font-size:30.0pt;line-height:107%;font-family:
+  "Arial",sans-serif;color:#FFFEFD'>how individuals voted, 2008 election</span></p>
+  </td>
+  <td width=350 style='width:262.85pt;background:#5E5F5F;padding:0in 3.85pt 0in 0in;
+  height:1.2in'>
+  <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:19.85pt;text-align:justify;text-justify:inter-ideograph;
+  text-indent:-19.85pt;line-height:104%'><span style='font-size:14.0pt;
+  line-height:104%;font-family:"Arial",sans-serif;color:#FFFEFD'>Sidelined or
+  Mainstreamed? Political Participation and Attitudes of People with
+  Disabilities in the </span></p>
+  <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:6.1pt'><span style='font-size:14.0pt;line-height:107%;font-family:
+  "Arial",sans-serif;color:#FFFEFD'>United States, Lisa Schur and Meera Adya,
+  2012</span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal align=right style='margin-top:0in;margin-right:12.0pt;
+margin-bottom:23.05pt;margin-left:5.75pt;text-align:right;text-indent:-.5pt;
+line-height:110%'><b><span style='font-size:15.0pt;line-height:110%;font-family:
+"Arial",sans-serif;color:#191915'>At polling place before election day</span></b></p>
+
+<p class=MsoNormal align=right style='margin-top:0in;margin-right:84.0pt;
+margin-bottom:20.8pt;margin-left:5.75pt;text-align:right;text-indent:-.5pt;
+line-height:110%'><b><span style='font-size:15.0pt;line-height:110%;font-family:
+"Arial",sans-serif;color:#191915'>By mail on election day</span></b></p>
+
+<p class=MsoNormal align=right style='margin-top:0in;margin-right:35.6pt;
+margin-bottom:42.55pt;margin-left:5.75pt;text-align:right;text-indent:-.5pt;
+line-height:110%'><b><span style='font-size:15.0pt;line-height:110%;font-family:
+"Arial",sans-serif;color:#191915'>At polling place on election day</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:319.45pt;margin-bottom:
+.15pt;margin-left:21.95pt;text-indent:-.5pt;line-height:108%'><span
+style='font-size:18.0pt;line-height:108%;font-family:"Arial",sans-serif;
+color:#181717'>Almost 25% of the disabled voting community voted by mail/
+absentee (~3.6 million people), compared to only 14.4% of the non-disabled
+population (~16.8 million people). Many of the individuals with disabilities
+cited transportation problems as their reason for not voting or for voting
+absentee. </span></p>
+
+</div>
+
+<span style='font-size:11.0pt;line-height:107%;font-family:"Calibri",sans-serif;
+color:black'><br clear=all style='page-break-before:always'>
+</span>
+
+<div class=WordSection5>
+
+<h2 align=right style='margin-top:0in;margin-right:-.75pt;margin-bottom:0in;
+margin-left:.5pt;text-align:right;background:transparent'>voting equipment type
+by state</h2>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:9.1pt;
+margin-left:31.25pt'><img width=906 height=523 id="Picture 464"
+src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image020.jpg"></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:.15pt;
+margin-left:-.25pt;text-indent:-.5pt;line-height:108%'><span style='font-size:
+18.0pt;line-height:108%;font-family:"Arial",sans-serif;color:#181717'>The Help
+America Vote Act (HAVA) requires every polling location to have at least one
+voting system that is accessible to people with disabilities. However, this
+requirement does not guarantee that these machines are ready for use or that
+the poll workers are familiar with these machines. Direct Recording Electronic
+(DRE) systems are the most accessible option, but there are still 18 states
+where these systems are unavailable. </span></p>
+
+<h1 style='margin-left:151.05pt;text-indent:-15.15pt'>DESIGNING FOR
+ACCESSIBILITY</h1>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:.15pt;
+margin-left:315.35pt;text-indent:-.5pt'><span style='font-size:30.0pt;
+line-height:107%;font-family:"Arial",sans-serif;color:#FFFEFD'>target
+populations for iPad voting case</span></p>
+
+</div>
+
+<span style='font-size:11.0pt;line-height:107%;font-family:"Calibri",sans-serif;
+color:black'><br clear=all style='page-break-before:auto'>
+</span>
+
+<div class=WordSection6>
+
+<h2 style='margin-top:0in;margin-right:0in;margin-bottom:.55pt;margin-left:
+2.45pt;line-height:106%;background:transparent'><b><span style='color:#181717'>mobility
+impaired</span></b></h2>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.4pt;
+margin-left:-.25pt;text-indent:-.5pt;line-height:108%'><span style='font-size:
+18.0pt;line-height:108%;font-family:"Arial",sans-serif;color:#181717'>examples:
+para-, tetra-, or hemiplegia, amputation, CP, MS, dexterity issues etc.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:.25pt;margin-bottom:.2pt;
+margin-left:17.75pt;text-indent:-17.75pt;line-height:106%'><span
+style='font-size:24.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>•<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:24.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>switch access (including sip + puff)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:.25pt;margin-bottom:.2pt;
+margin-left:17.75pt;text-indent:-17.75pt;line-height:106%'><span
+style='font-size:24.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>•<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:24.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>large target sizes (touchscreen)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:.25pt;margin-bottom:35.45pt;
+margin-left:17.75pt;text-indent:-17.75pt;line-height:106%'><span
+style='font-size:24.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>•<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:24.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>low physical effort</span></p>
+
+<h2 style='margin-top:0in;margin-right:0in;margin-bottom:.55pt;margin-left:
+2.45pt;line-height:106%;background:transparent'><b><span style='color:#181717'>cognitively
+impaired</span></b></h2>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:.15in;
+margin-left:-.25pt;text-indent:-.5pt;line-height:108%'><span style='font-size:
+18.0pt;line-height:108%;font-family:"Arial",sans-serif;color:#181717'>examples:
+learning disabilities, head injury, etc.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:.25pt;margin-bottom:0in;
+margin-left:17.75pt;text-indent:-17.75pt;line-height:146%'><span
+style='font-size:24.0pt;line-height:146%;font-family:"Arial",sans-serif;
+color:#181717'>•<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:24.0pt;line-height:146%;font-family:"Arial",sans-serif;
+color:#181717'>highly intuitive interface• low reliance on memory </span><b><span
+style='font-size:30.0pt;line-height:146%;font-family:"Arial",sans-serif;
+color:#181717'>older adults</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.3pt;
+margin-left:-.25pt;text-indent:-.5pt;line-height:108%'><span style='font-size:
+18.0pt;line-height:108%;font-family:"Arial",sans-serif;color:#181717'>examples:
+65+ individuals, arthritis, etc.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:.25pt;margin-bottom:.2pt;
+margin-left:17.75pt;text-indent:-17.75pt;line-height:106%'><span
+style='font-size:24.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>•<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:24.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>approachable technology</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:.25pt;margin-bottom:.2pt;
+margin-left:17.75pt;text-indent:-17.75pt;line-height:106%'><span
+style='font-size:24.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>•<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:24.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>simple interface</span></p>
+
+<h2 style='margin-top:0in;margin-right:0in;margin-bottom:.55pt;margin-left:
+2.45pt;line-height:106%;background:transparent'><b><span style='color:#181717'>visually
+impaired</span></b></h2>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.3pt;
+margin-left:-.25pt;text-indent:-.5pt;line-height:108%'><span style='font-size:
+18.0pt;line-height:108%;font-family:"Arial",sans-serif;color:#181717'>examples:
+blindness, glaucoma, cataracts</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:.25pt;margin-bottom:.2pt;
+margin-left:17.75pt;text-indent:-17.75pt;line-height:106%'><span
+style='font-size:24.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>•<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:24.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>audio interface</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:.25pt;margin-bottom:.2pt;
+margin-left:17.75pt;text-indent:-17.75pt;line-height:106%'><span
+style='font-size:24.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>•<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:24.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>tactile controls</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:.25pt;margin-bottom:.2pt;
+margin-left:17.75pt;text-indent:-17.75pt;line-height:106%'><span
+style='font-size:24.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>•<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:24.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>high contrast display</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:.25pt;margin-bottom:.2pt;
+margin-left:17.75pt;text-indent:-17.75pt;line-height:106%'><span
+style='font-size:24.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>•<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:24.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>large font</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:.25pt;margin-bottom:.2pt;
+margin-left:17.75pt;text-indent:-17.75pt;line-height:187%'><span
+style='font-size:24.0pt;line-height:187%;font-family:"Arial",sans-serif;
+color:#181717'>•<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:24.0pt;line-height:187%;font-family:"Arial",sans-serif;
+color:#181717'>braille display support</span><b><span style='font-size:30.0pt;
+line-height:187%;font-family:"Arial",sans-serif;color:#181717'>hearing impaired</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:85.5pt;margin-bottom:
+.2pt;margin-left:-.25pt;text-indent:-.5pt;line-height:106%'><span
+style='font-size:18.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>examples: deafness </span><span style='font-size:24.0pt;
+line-height:106%;font-family:"Arial",sans-serif;color:#181717'>• easy to read
+screen</span></p>
+
+</div>
+
+<span style='font-size:11.0pt;line-height:107%;font-family:"Calibri",sans-serif;
+color:black'><br clear=all style='page-break-before:always'>
+</span>
+
+<div class=WordSection7>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:24.05pt;
+margin-left:-.25pt;text-indent:-.5pt'><span style='font-size:30.0pt;line-height:
+107%;font-family:"Arial",sans-serif;color:#FFFEFD'>needs analysis: visual
+impairment focus group</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:.25pt;margin-bottom:20.6pt;
+margin-left:57.2pt;text-indent:-.5pt;line-height:106%'><span style='font-size:
+24.0pt;line-height:106%;font-family:"Arial",sans-serif;color:#181717'>With a
+very visual and non-tactile device like an iPad, designing for the visually
+impaired population is one of the most difficult challenges. Because of this, a
+focus group was run with 10 individuals with varied visual impairments to
+better understand the inherent barriers and difficulties that they face while
+using iOS devices and while voting.  </span></p>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:0in;
+margin-bottom:0in;margin-left:57.05pt;text-align:center'><span
+style='font-size:24.0pt;line-height:107%;font-family:"Arial",sans-serif;
+color:#181717'>participant quotes</span></p>
+
+</div>
+
+<span style='font-size:11.0pt;line-height:107%;font-family:"Calibri",sans-serif;
+color:black'><br clear=all style='page-break-before:auto'>
+</span>
+
+<div class=WordSection8>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:11.0pt;margin-bottom:
+13.15pt;margin-left:-.25pt;text-indent:-.5pt;line-height:106%'><span
+style='font-size:18.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>On the benefits of the iPad’s screen size: <i>“The iPad –
+because of the size of the screen – gives me with my limited vision a sense of
+the shape or layout of something that I’m not able to do with magnification.”</i></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:.15pt;
+margin-left:-.25pt;text-indent:-.5pt;line-height:108%'><span style='font-size:
+18.0pt;line-height:108%;font-family:"Arial",sans-serif;color:#181717'>On using
+a touchscreen and VoiceOver:</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:13.15pt;
+margin-left:-.25pt;text-indent:-.5pt;line-height:106%'><i><span
+style='font-size:18.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>“I was very skeptical about the touchscreen because of the lack
+of tactile stimulation, but once I began to play with it I realized that having
+this software so well integrated into the system was something that was an
+improvement.”</span></i></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:.15pt;
+margin-left:-.25pt;text-indent:-.5pt;line-height:108%'><span style='font-size:
+18.0pt;line-height:108%;font-family:"Arial",sans-serif;color:#181717'>On
+bringing someone to help at the voting polls:</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:13.15pt;
+margin-left:-.25pt;text-indent:-.5pt;line-height:106%'><i><span
+style='font-size:18.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>“Who’s to say everyone has someone to help them?”</span></i></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:13.15pt;
+margin-left:-.25pt;text-indent:-.5pt;line-height:106%'><span style='font-size:
+18.0pt;line-height:106%;font-family:"Arial",sans-serif;color:#181717'>On not
+wanting to feel different or disabled: <i>“And that’s another beauty – that
+we’re not using a different device than sighted people.”</i></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:4.3pt;margin-bottom:13.15pt;
+margin-left:-.25pt;text-indent:-.5pt;line-height:106%'><span style='font-size:
+18.0pt;line-height:106%;font-family:"Arial",sans-serif;color:#181717'>On making
+the non-visual voting process easier: <i>“What about just a forward and back
+button – you know because you’re just going down box for box for box... That
+would make it very simple and not reinvent the whole wheel.”</i></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:.15pt;
+margin-left:-.25pt;text-indent:-.5pt;line-height:108%'><span style='font-size:
+18.0pt;line-height:108%;font-family:"Arial",sans-serif;color:#181717'>On the
+benefits of the iPad’s screen size:</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:13.15pt;
+margin-left:-.25pt;text-indent:-.5pt;line-height:106%'><i><span
+style='font-size:18.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>“There’s just a little more room for error; you can be touching
+in a bigger quadrant and still be touching a letter.”</span></i></p>
+
+</div>
+
+<span style='font-size:11.0pt;line-height:107%;font-family:"Calibri",sans-serif;
+color:black'><br clear=all style='page-break-before:auto'>
+</span>
+
+<div class=WordSection9>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:.15pt;
+margin-left:261.2pt;text-indent:-.5pt'><span style='font-size:30.0pt;
+line-height:107%;font-family:"Arial",sans-serif;color:#FFFEFD'>functional
+requirements of iPad voting case</span></p>
+
+<table class=TableGrid border=0 cellspacing=0 cellpadding=0 width=958
+ style='width:718.85pt;margin-left:15.25pt;border-collapse:collapse'>
+ <tr style='height:64.05pt'>
+  <td width=37 valign=top style='width:27.6pt;border:solid #181717 1.0pt;
+  padding:0in 3.55pt 0in 3.45pt;height:64.05pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=331 style='width:247.9pt;border:solid #181717 1.0pt;border-left:
+  none;padding:0in 3.55pt 0in 3.45pt;height:64.05pt'>
+  <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.75pt'><span style='font-size:18.0pt;line-height:107%;
+  font-family:"Arial",sans-serif;color:#181717'>Functional Requirements</span></p>
+  </td>
+  <td width=139 valign=top style='width:1.45in;border:solid #181717 1.0pt;
+  border-left:none;padding:0in 3.55pt 0in 3.45pt;height:64.05pt'>
+  <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.75pt'><span style='font-size:18.0pt;line-height:107%;
+  font-family:"Arial",sans-serif;color:#181717'>Current iPad </span></p>
+  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><span
+  style='font-size:18.0pt;line-height:107%;font-family:"Arial",sans-serif;
+  color:#181717'>Accessibility Features</span></p>
+  </td>
+  <td width=183 valign=top style='width:137.0pt;border:solid #181717 1.0pt;
+  border-left:none;padding:0in 3.55pt 0in 3.45pt;height:64.05pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.1pt;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>Functional
+  </span></p>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:3.7pt;
+  margin-bottom:0in;margin-left:8.1pt;text-align:center'><span
+  style='font-size:18.0pt;line-height:107%;font-family:"Arial",sans-serif;
+  color:#181717'>Improvements via voting case</span></p>
+  </td>
+  <td width=269 style='width:201.95pt;border:solid #181717 1.0pt;border-left:
+  none;padding:0in 3.55pt 0in 3.45pt;height:64.05pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:9.5pt;
+  margin-bottom:0in;margin-left:9.6pt;text-align:center'><span
+  style='font-size:18.0pt;line-height:107%;font-family:"Arial",sans-serif;
+  color:#181717'>How to address technology gaps?</span></p>
+  </td>
+ </tr>
+ <tr style='height:20.85pt'>
+  <td width=37 valign=top style='width:27.6pt;border-top:none;border-left:solid #181717 1.0pt;
+  border-bottom:none;border-right:solid #181717 1.0pt;background:#F5F2F0;
+  padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=331 valign=top style='width:247.9pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.75pt'><span style='font-size:18.0pt;line-height:107%;
+  font-family:"Arial",sans-serif;color:#181717'>touchscreen</span></p>
+  </td>
+  <td width=139 valign=top style='width:1.45in;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.1pt;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>• </span></p>
+  </td>
+  <td width=183 valign=top style='width:137.0pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=269 valign=top style='width:201.95pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+ </tr>
+ <tr style='height:20.85pt'>
+  <td width=37 valign=top style='width:27.6pt;border-top:none;border-left:solid #181717 1.0pt;
+  border-bottom:none;border-right:solid #181717 1.0pt;background:#F5F2F0;
+  padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=331 valign=top style='width:247.9pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.75pt'><span style='font-size:18.0pt;line-height:107%;
+  font-family:"Arial",sans-serif;color:#181717'>switch access</span></p>
+  </td>
+  <td width=139 valign=top style='width:1.45in;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=183 valign=top style='width:137.0pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.1pt;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+  <td width=269 valign=top style='width:201.95pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.75pt'><span style='font-size:14.0pt;line-height:107%;
+  font-family:"Arial",sans-serif;color:#181717'>???</span></p>
+  </td>
+ </tr>
+ <tr style='height:34.8pt'>
+  <td width=37 valign=top style='width:27.6pt;border-top:none;border-left:solid #181717 1.0pt;
+  border-bottom:none;border-right:solid #181717 1.0pt;background:#F5F2F0;
+  padding:0in 3.55pt 0in 3.45pt;height:34.8pt'>
+  <p class=MsoNormal style='margin-bottom:0in'><img width=27 height=94
+  src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image021.gif"></p>
+  </td>
+  <td width=331 style='width:247.9pt;border-top:none;border-left:none;
+  border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:0in 3.55pt 0in 3.45pt;height:34.8pt'>
+  <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.75pt'><span style='font-size:18.0pt;line-height:107%;
+  font-family:"Arial",sans-serif;color:#181717'>tactile controls</span></p>
+  </td>
+  <td width=139 valign=top style='width:1.45in;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:0in 3.55pt 0in 3.45pt;height:34.8pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=183 style='width:137.0pt;border-top:none;border-left:none;
+  border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:0in 3.55pt 0in 3.45pt;height:34.8pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.1pt;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+  <td width=269 valign=top style='width:201.95pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:0in 3.55pt 0in 3.45pt;height:34.8pt'>
+  <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.75pt'><span style='font-size:14.0pt;line-height:107%;
+  font-family:"Arial",sans-serif;color:#181717'>hardware controls built in to
+  navigate ballot</span></p>
+  </td>
+ </tr>
+ <tr style='height:20.85pt'>
+  <td width=37 valign=top style='width:27.6pt;border:solid #181717 1.0pt;
+  border-top:none;background:#F5F2F0;padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=331 valign=top style='width:247.9pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.75pt'><span style='font-size:18.0pt;line-height:107%;
+  font-family:"Arial",sans-serif;color:#181717'>stylus interaction</span></p>
+  </td>
+  <td width=139 valign=top style='width:1.45in;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.1pt;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+  <td width=183 valign=top style='width:137.0pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=269 valign=top style='width:201.95pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+ </tr>
+ <tr style='height:20.85pt'>
+  <td width=37 rowspan=4 valign=top style='width:27.6pt;border:solid #181717 1.0pt;
+  border-top:none;padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal style='margin-bottom:0in'><img width=27 height=50
+  src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image022.gif"></p>
+  </td>
+  <td width=331 valign=top style='width:247.9pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.75pt'><span style='font-size:18.0pt;line-height:107%;
+  font-family:"Arial",sans-serif;color:#181717'>screen reading/audio interface</span></p>
+  </td>
+  <td width=139 valign=top style='width:1.45in;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.1pt;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+  <td width=183 valign=top style='width:137.0pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=269 valign=top style='width:201.95pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.75pt'><span style='font-size:14.0pt;line-height:107%;
+  font-family:"Arial",sans-serif;color:#181717'>via Apple VoiceOver</span></p>
+  </td>
+ </tr>
+ <tr style='height:34.8pt'>
+  <td width=331 style='width:247.9pt;border-top:none;border-left:none;
+  border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:0in 3.55pt 0in 3.45pt;height:34.8pt'>
+  <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.75pt'><span style='font-size:18.0pt;line-height:107%;
+  font-family:"Arial",sans-serif;color:#181717'>hardware volume controls</span></p>
+  </td>
+  <td width=139 style='width:1.45in;border-top:none;border-left:none;
+  border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:0in 3.55pt 0in 3.45pt;height:34.8pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.1pt;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+  <td width=183 style='width:137.0pt;border-top:none;border-left:none;
+  border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:0in 3.55pt 0in 3.45pt;height:34.8pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.1pt;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+  <td width=269 valign=top style='width:201.95pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:0in 3.55pt 0in 3.45pt;height:34.8pt'>
+  <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.75pt'><span style='font-size:14.0pt;line-height:107%;
+  font-family:"Arial",sans-serif;color:#181717'>case enlarges volume controls
+  and makes them more accessible</span></p>
+  </td>
+ </tr>
+ <tr style='height:20.85pt'>
+  <td width=331 valign=top style='width:247.9pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.75pt'><span style='font-size:18.0pt;line-height:107%;
+  font-family:"Arial",sans-serif;color:#181717'>mono audio</span></p>
+  </td>
+  <td width=139 valign=top style='width:1.45in;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.1pt;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+  <td width=183 valign=top style='width:137.0pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=269 valign=top style='width:201.95pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+ </tr>
+ <tr style='height:20.85pt'>
+  <td width=331 valign=top style='width:247.9pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.75pt'><span style='font-size:18.0pt;line-height:107%;
+  font-family:"Arial",sans-serif;color:#181717'>braille support</span></p>
+  </td>
+  <td width=139 valign=top style='width:1.45in;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.1pt;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+  <td width=183 valign=top style='width:137.0pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=269 valign=top style='width:201.95pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+ </tr>
+ <tr style='height:34.8pt'>
+  <td width=37 valign=top style='width:27.6pt;border-top:none;border-left:solid #181717 1.0pt;
+  border-bottom:none;border-right:solid #181717 1.0pt;background:#F5F2F0;
+  padding:0in 3.55pt 0in 3.45pt;height:34.8pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=331 style='width:247.9pt;border-top:none;border-left:none;
+  border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:0in 3.55pt 0in 3.45pt;height:34.8pt'>
+  <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.75pt'><span style='font-size:18.0pt;line-height:107%;
+  font-family:"Arial",sans-serif;color:#181717'>angle screen (reduce glare)</span></p>
+  </td>
+  <td width=139 valign=top style='width:1.45in;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:0in 3.55pt 0in 3.45pt;height:34.8pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=183 style='width:137.0pt;border-top:none;border-left:none;
+  border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:0in 3.55pt 0in 3.45pt;height:34.8pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.1pt;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+  <td width=269 valign=top style='width:201.95pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:0in 3.55pt 0in 3.45pt;height:34.8pt'>
+  <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.75pt'><span style='font-size:14.0pt;line-height:107%;
+  font-family:"Arial",sans-serif;color:#181717'>included stand to achieve
+  optimal viewing angle</span></p>
+  </td>
+ </tr>
+ <tr style='height:20.85pt'>
+  <td width=37 valign=top style='width:27.6pt;border-top:none;border-left:solid #181717 1.0pt;
+  border-bottom:none;border-right:solid #181717 1.0pt;background:#F5F2F0;
+  padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal style='margin-bottom:0in'><img width=27 height=52
+  src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image023.gif"></p>
+  </td>
+  <td width=331 valign=top style='width:247.9pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.75pt'><span style='font-size:18.0pt;line-height:107%;
+  font-family:"Arial",sans-serif;color:#181717'>high contrast display</span></p>
+  </td>
+  <td width=139 valign=top style='width:1.45in;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.1pt;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+  <td width=183 valign=top style='width:137.0pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=269 valign=top style='width:201.95pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+ </tr>
+ <tr style='height:20.85pt'>
+  <td width=37 valign=top style='width:27.6pt;border:solid #181717 1.0pt;
+  border-top:none;background:#F5F2F0;padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=331 valign=top style='width:247.9pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.75pt'><span style='font-size:18.0pt;line-height:107%;
+  font-family:"Arial",sans-serif;color:#181717'>screen zooming</span></p>
+  </td>
+  <td width=139 valign=top style='width:1.45in;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.1pt;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+  <td width=183 valign=top style='width:137.0pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=269 valign=top style='width:201.95pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+ </tr>
+ <tr style='height:20.85pt'>
+  <td width=37 rowspan=4 valign=top style='width:27.6pt;border:solid #181717 1.0pt;
+  border-top:none;padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal style='margin-bottom:0in'><img width=27 height=48
+  src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image024.gif"></p>
+  </td>
+  <td width=331 valign=top style='width:247.9pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.75pt'><span style='font-size:18.0pt;line-height:107%;
+  font-family:"Arial",sans-serif;color:#181717'>lightweight</span></p>
+  </td>
+  <td width=139 valign=top style='width:1.45in;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.1pt;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+  <td width=183 valign=top style='width:137.0pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=269 valign=top style='width:201.95pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+ </tr>
+ <tr style='height:34.8pt'>
+  <td width=331 style='width:247.9pt;border-top:none;border-left:none;
+  border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:0in 3.55pt 0in 3.45pt;height:34.8pt'>
+  <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.75pt'><span style='font-size:18.0pt;line-height:107%;
+  font-family:"Arial",sans-serif;color:#181717'>easy to grasp</span></p>
+  </td>
+  <td width=139 valign=top style='width:1.45in;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:0in 3.55pt 0in 3.45pt;height:34.8pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=183 style='width:137.0pt;border-top:none;border-left:none;
+  border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:0in 3.55pt 0in 3.45pt;height:34.8pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.1pt;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+  <td width=269 valign=top style='width:201.95pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:0in 3.55pt 0in 3.45pt;height:34.8pt'>
+  <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.75pt'><span style='font-size:14.0pt;line-height:107%;
+  font-family:"Arial",sans-serif;color:#181717'>added thickness and contouring
+  of case will aid in holding</span></p>
+  </td>
+ </tr>
+ <tr style='height:20.85pt'>
+  <td width=331 valign=top style='width:247.9pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.75pt'><span style='font-size:18.0pt;line-height:107%;
+  font-family:"Arial",sans-serif;color:#181717'>drop protection</span></p>
+  </td>
+  <td width=139 valign=top style='width:1.45in;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=183 valign=top style='width:137.0pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.1pt;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+  <td width=269 valign=top style='width:201.95pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.75pt'><span style='font-size:14.0pt;line-height:107%;
+  font-family:"Arial",sans-serif;color:#181717'>robust plastic construction</span></p>
+  </td>
+ </tr>
+ <tr style='height:20.85pt'>
+  <td width=331 valign=top style='width:247.9pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.75pt'><span style='font-size:18.0pt;line-height:107%;
+  font-family:"Arial",sans-serif;color:#181717'>disable home key </span></p>
+  </td>
+  <td width=139 valign=top style='width:1.45in;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.1pt;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+  <td width=183 valign=top style='width:137.0pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=269 valign=top style='width:201.95pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:0in 3.55pt 0in 3.45pt;height:20.85pt'>
+  <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.75pt'><span style='font-size:14.0pt;line-height:107%;
+  font-family:"Arial",sans-serif;color:#181717'>prevents accidental presses</span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:42.75pt;
+margin-left:-.25pt;text-indent:-.5pt'><span style='font-size:30.0pt;line-height:
+107%;font-family:"Arial",sans-serif;color:#FFFEFD'>switch access: partnering
+with Komodo OpenLab</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:.25pt;margin-bottom:13.05pt;
+margin-left:-.25pt;text-indent:-.5pt;line-height:106%'><img width=717
+height=635
+src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image025.gif"
+align=left hspace=12><span style='font-size:24.0pt;line-height:106%;font-family:
+"Arial",sans-serif;color:#181717'>Komodo OpenLab currently makes a device
+called the Tecla Shield, which provides reliable bluetooth switch access to iOS
+devices. </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:.25pt;margin-bottom:.2pt;
+margin-left:-.25pt;text-indent:-.5pt;line-height:106%'><span style='font-size:
+24.0pt;line-height:106%;font-family:"Arial",sans-serif;color:#181717'>Komodo
+provided GTRI with a prototype of the circuit board that powers the Tecla
+Shield. Having this makes both switch access and tactile controls possible.</span></p>
+
+<h3 align=right style='margin-top:0in;margin-right:-.75pt;margin-bottom:2.55pt;
+margin-left:.5pt;text-align:right;background:transparent'>iPad + Komodo
+functionality</h3>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:2.2pt;
+margin-left:2.8pt'><img width=981 height=581 id="Group 20757"
+src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image026.gif"></p>
+
+<p class=MsoNormal style='margin-bottom:.15pt;line-height:108%'>         <span
+style='font-size:18.0pt;line-height:108%;font-family:"Arial",sans-serif;
+color:#181717'>audio output         switch access           sip and puff access voiceover
+screen reading</span></p>
+
+</div>
+
+<span style='font-size:11.0pt;line-height:107%;font-family:"Calibri",sans-serif;
+color:black'><br clear=all style='page-break-before:always'>
+</span>
+
+<div class=WordSection10>
+
+<h1 style='margin-left:138.25pt'>ELECTRONICS</h1>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:2.55pt;
+margin-left:401.55pt;text-indent:-.5pt'><span style='font-size:30.0pt;
+line-height:107%;font-family:"Arial",sans-serif;color:#FFFEFD'>notional
+electronics diagram</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:12.5pt'><img width=933 height=615 id="Picture 24897"
+src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image027.gif"></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:15.75pt;margin-bottom:
+13.05pt;margin-left:-.25pt;text-indent:-.5pt;line-height:106%'><img width=564
+height=617
+src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image028.jpg"
+align=left hspace=12><span style='font-size:24.0pt;line-height:106%;font-family:
+"Arial",sans-serif;color:#181717'>After mapping the electronics, a rudimentary
+assembly was constructed using the Tecla Shield board to test its
+functionality. The switch access technology was leveraged to connect a small
+accessibility switch. </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:112.55pt;margin-bottom:
+56.3pt;margin-left:-.25pt;text-align:justify;text-justify:inter-ideograph;
+text-indent:-.5pt;line-height:104%'><span style='font-size:24.0pt;line-height:
+104%;font-family:"Arial",sans-serif;color:#181717'>A secondary function of the
+Tecla Shield allowed for 3 additional controls to be connected that can control
+the forward, backward, and select operations in the voting ballot application.</span></p>
+
+<p class=MsoNormal align=right style='margin-top:0in;margin-right:0in;
+margin-bottom:18.05pt;margin-left:.5pt;text-align:right;text-indent:-.5pt;
+background:#5E5F5F'><span style='font-size:30.0pt;line-height:107%;font-family:
+"Arial",sans-serif;color:#FFFEFD'>prototyping the electronics</span></p>
+
+</div>
+
+<span style='font-size:11.0pt;line-height:107%;font-family:"Calibri",sans-serif;
+color:black'><br clear=all style='page-break-before:always'>
+</span>
+
+<div class=WordSection11>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:.15pt;
+margin-left:-142.75pt;text-indent:-.5pt;line-height:108%'><img width=949
+height=773
+src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image029.gif"><span
+style='font-size:18.0pt;line-height:108%;font-family:"Arial",sans-serif;
+color:#181717'> 21</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:1.0pt;
+margin-left:-.25pt;text-indent:-.5pt;line-height:106%'><b><span
+style='font-size:48.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>FORM DESIGN </span></b></p>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:194.15pt;
+margin-bottom:0in;margin-left:0in;text-align:center'><b><span style='font-size:
+48.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>+ </span></b></p>
+
+<h1 style='margin-left:-.25pt'>PROTOTYPING</h1>
+
+<p class=MsoNormal align=right style='margin-top:0in;margin-right:-.75pt;
+margin-bottom:25.55pt;margin-left:.5pt;text-align:right;text-indent:-.5pt'><img
+width=1010 height=629
+src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image030.gif"
+align=left hspace=12><span style='font-size:18.0pt;line-height:107%;font-family:
+"Arial",sans-serif;color:#181717'>23</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:.25pt;margin-bottom:395.95pt;
+margin-left:246.6pt;text-indent:-.5pt;line-height:106%'><span style='font-size:
+24.0pt;line-height:106%;font-family:"Arial",sans-serif;color:#181717'>With the
+electronics plan validated, the next step is to package those components into a
+final case design.</span></p>
+
+<p class=MsoNormal align=right style='margin-top:0in;margin-right:8.25pt;
+margin-bottom:18.05pt;margin-left:.5pt;text-align:right;text-indent:-.5pt;
+background:#5E5F5F'><span style='font-size:30.0pt;line-height:107%;font-family:
+"Arial",sans-serif;color:#FFFEFD'>notional voting case design</span></p>
+
+</div>
+
+<span style='font-size:11.0pt;line-height:107%;font-family:"Calibri",sans-serif;
+color:black'><br clear=all style='page-break-before:always'>
+</span>
+
+<div class=WordSection12>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:.15pt;
+margin-left:-.25pt;text-indent:-.5pt'><span style='font-size:30.0pt;line-height:
+107%;font-family:"Arial",sans-serif;color:#FFFEFD'>tactile control concepts</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-8.1pt;margin-bottom:
+0in;margin-left:-8.7pt'><img width=1006 height=648 id="Group 22096"
+src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image031.gif"></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:.15in;
+margin-left:445.35pt;text-indent:-.5pt'><span style='font-size:30.0pt;
+line-height:107%;font-family:"Arial",sans-serif;color:#FFFEFD'>pros and cons
+comparison</span></p>
+
+<table class=TableGrid border=0 cellspacing=0 cellpadding=0 width=883
+ style='width:662.1pt;margin-left:41.35pt;border-collapse:collapse'>
+ <tr style='height:64.05pt'>
+  <td width=318 colspan=2 style='width:238.55pt;border:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:64.05pt'>
+  <p class=MsoNormal style='margin-top:0in;margin-right:132.7pt;margin-bottom:
+  0in;margin-left:0in'><span style='font-size:14.0pt;line-height:107%;
+  font-family:"Arial",sans-serif;color:#181717'>high = ••• average = •• low = •</span></p>
+  </td>
+  <td width=139 style='width:1.45in;border:solid #181717 1.0pt;border-left:
+  none;padding:.1pt 5.75pt 0in 11.2pt;height:64.05pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><span
+  style='font-size:18.0pt;line-height:107%;font-family:"Arial",sans-serif;
+  color:#181717'>Concept 1 - Built In</span></p>
+  </td>
+  <td width=134 style='width:1.4in;border:solid #181717 1.0pt;border-left:none;
+  padding:.1pt 5.75pt 0in 11.2pt;height:64.05pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><span
+  style='font-size:18.0pt;line-height:107%;font-family:"Arial",sans-serif;
+  color:#181717'>Concept 2 Pivoting</span></p>
+  </td>
+  <td width=136 style='width:102.25pt;border:solid #181717 1.0pt;border-left:
+  none;padding:.1pt 5.75pt 0in 11.2pt;height:64.05pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><span
+  style='font-size:18.0pt;line-height:107%;font-family:"Arial",sans-serif;
+  color:#181717'>Concept 3 Detachable</span></p>
+  </td>
+  <td width=155 style='width:116.15pt;border:solid #181717 1.0pt;border-left:
+  none;padding:.1pt 5.75pt 0in 11.2pt;height:64.05pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>Concept
+  4- </span></p>
+  <p class=MsoNormal style='margin-bottom:0in'><span style='font-size:18.0pt;
+  line-height:107%;font-family:"Arial",sans-serif;color:#181717'>Hard Mounted</span></p>
+  </td>
+ </tr>
+ <tr style='height:20.85pt'>
+  <td width=318 colspan=2 valign=top style='width:238.55pt;border:solid #181717 1.0pt;
+  border-top:none;background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:
+  20.85pt'>
+  <p class=MsoNormal style='margin-bottom:0in'><span style='font-size:18.0pt;
+  line-height:107%;font-family:"Arial",sans-serif;color:#181717'>Usability</span></p>
+  </td>
+  <td width=139 valign=top style='width:1.45in;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=134 valign=top style='width:1.4in;border-top:none;border-left:none;
+  border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=136 valign=top style='width:102.25pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=155 valign=top style='width:116.15pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+ </tr>
+ <tr style='height:20.85pt'>
+  <td width=33 valign=top style='width:24.7pt;border:solid #181717 1.0pt;
+  border-top:none;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=285 valign=top style='width:213.85pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal style='margin-bottom:0in'><span style='font-size:18.0pt;
+  line-height:107%;font-family:"Arial",sans-serif;color:#181717'>tactile
+  control simplicity</span></p>
+  </td>
+  <td width=139 valign=top style='width:1.45in;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>••</span></p>
+  </td>
+  <td width=134 valign=top style='width:1.4in;border-top:none;border-left:none;
+  border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>••</span></p>
+  </td>
+  <td width=136 valign=top style='width:102.25pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>••</span></p>
+  </td>
+  <td width=155 valign=top style='width:116.15pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>••</span></p>
+  </td>
+ </tr>
+ <tr style='height:20.85pt'>
+  <td width=33 valign=top style='width:24.7pt;border:solid #181717 1.0pt;
+  border-top:none;background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:
+  20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=285 valign=top style='width:213.85pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal style='margin-bottom:0in'><span style='font-size:18.0pt;
+  line-height:107%;font-family:"Arial",sans-serif;color:#181717'>tactile
+  control flexibility</span></p>
+  </td>
+  <td width=139 valign=top style='width:1.45in;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+  <td width=134 valign=top style='width:1.4in;border-top:none;border-left:none;
+  border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+  <td width=136 valign=top style='width:102.25pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•••</span></p>
+  </td>
+  <td width=155 valign=top style='width:116.15pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>••</span></p>
+  </td>
+ </tr>
+ <tr style='height:20.85pt'>
+  <td width=33 valign=top style='width:24.7pt;border:solid #181717 1.0pt;
+  border-top:none;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=285 valign=top style='width:213.85pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal style='margin-bottom:0in'><span style='font-size:18.0pt;
+  line-height:107%;font-family:"Arial",sans-serif;color:#181717'>low weight</span></p>
+  </td>
+  <td width=139 valign=top style='width:1.45in;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>••</span></p>
+  </td>
+  <td width=134 valign=top style='width:1.4in;border-top:none;border-left:none;
+  border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+  <td width=136 valign=top style='width:102.25pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•••</span></p>
+  </td>
+  <td width=155 valign=top style='width:116.15pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+ </tr>
+ <tr style='height:20.85pt'>
+  <td width=33 valign=top style='width:24.7pt;border:solid #181717 1.0pt;
+  border-top:none;background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:
+  20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=285 valign=top style='width:213.85pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal style='margin-bottom:0in'><span style='font-size:18.0pt;
+  line-height:107%;font-family:"Arial",sans-serif;color:#181717'>minimal
+  accessories needed</span></p>
+  </td>
+  <td width=139 valign=top style='width:1.45in;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•••</span></p>
+  </td>
+  <td width=134 valign=top style='width:1.4in;border-top:none;border-left:none;
+  border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•••</span></p>
+  </td>
+  <td width=136 valign=top style='width:102.25pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>••</span></p>
+  </td>
+  <td width=155 valign=top style='width:116.15pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>••</span></p>
+  </td>
+ </tr>
+ <tr style='height:20.85pt'>
+  <td width=33 valign=top style='width:24.7pt;border:solid #181717 1.0pt;
+  border-top:none;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=285 valign=top style='width:213.85pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal style='margin-bottom:0in'><span style='font-size:18.0pt;
+  line-height:107%;font-family:"Arial",sans-serif;color:#181717'>flexible
+  screen angle</span></p>
+  </td>
+  <td width=139 valign=top style='width:1.45in;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+  <td width=134 valign=top style='width:1.4in;border-top:none;border-left:none;
+  border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•••</span></p>
+  </td>
+  <td width=136 valign=top style='width:102.25pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+  <td width=155 valign=top style='width:116.15pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+ </tr>
+ <tr style='height:20.85pt'>
+  <td width=33 valign=top style='width:24.7pt;border:solid #181717 1.0pt;
+  border-top:none;background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:
+  20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=285 valign=top style='width:213.85pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal style='margin-bottom:0in'><span style='font-size:18.0pt;
+  line-height:107%;font-family:"Arial",sans-serif;color:#181717'>versatility
+  for users</span></p>
+  </td>
+  <td width=139 valign=top style='width:1.45in;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+  <td width=134 valign=top style='width:1.4in;border-top:none;border-left:none;
+  border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>••</span></p>
+  </td>
+  <td width=136 valign=top style='width:102.25pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•••</span></p>
+  </td>
+  <td width=155 valign=top style='width:116.15pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>••</span></p>
+  </td>
+ </tr>
+ <tr style='height:20.85pt'>
+  <td width=318 colspan=2 valign=top style='width:238.55pt;border:solid #181717 1.0pt;
+  border-top:none;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal style='margin-bottom:0in'><span style='font-size:18.0pt;
+  line-height:107%;font-family:"Arial",sans-serif;color:#181717'>Engineering</span></p>
+  </td>
+  <td width=139 valign=top style='width:1.45in;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=134 valign=top style='width:1.4in;border-top:none;border-left:none;
+  border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=136 valign=top style='width:102.25pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=155 valign=top style='width:116.15pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+ </tr>
+ <tr style='height:20.85pt'>
+  <td width=33 valign=top style='width:24.7pt;border:solid #181717 1.0pt;
+  border-top:none;background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:
+  20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=285 valign=top style='width:213.85pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal style='margin-bottom:0in'><span style='font-size:18.0pt;
+  line-height:107%;font-family:"Arial",sans-serif;color:#181717'>case
+  simplicity</span></p>
+  </td>
+  <td width=139 valign=top style='width:1.45in;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•••</span></p>
+  </td>
+  <td width=134 valign=top style='width:1.4in;border-top:none;border-left:none;
+  border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+  <td width=136 valign=top style='width:102.25pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•••</span></p>
+  </td>
+  <td width=155 valign=top style='width:116.15pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+ </tr>
+ <tr style='height:20.85pt'>
+  <td width=33 valign=top style='width:24.7pt;border:solid #181717 1.0pt;
+  border-top:none;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=285 valign=top style='width:213.85pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal style='margin-bottom:0in'><span style='font-size:18.0pt;
+  line-height:107%;font-family:"Arial",sans-serif;color:#181717'>electronics
+  simplicity</span></p>
+  </td>
+  <td width=139 valign=top style='width:1.45in;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•••</span></p>
+  </td>
+  <td width=134 valign=top style='width:1.4in;border-top:none;border-left:none;
+  border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+  <td width=136 valign=top style='width:102.25pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>••</span></p>
+  </td>
+  <td width=155 valign=top style='width:116.15pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+ </tr>
+ <tr style='height:20.85pt'>
+  <td width=33 valign=top style='width:24.7pt;border:solid #181717 1.0pt;
+  border-top:none;background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:
+  20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=285 valign=top style='width:213.85pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal style='margin-bottom:0in'><span style='font-size:18.0pt;
+  line-height:107%;font-family:"Arial",sans-serif;color:#181717'>kiosk mounting
+  potential</span></p>
+  </td>
+  <td width=139 valign=top style='width:1.45in;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•••</span></p>
+  </td>
+  <td width=134 valign=top style='width:1.4in;border-top:none;border-left:none;
+  border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+  <td width=136 valign=top style='width:102.25pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•••</span></p>
+  </td>
+  <td width=155 valign=top style='width:116.15pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•••</span></p>
+  </td>
+ </tr>
+ <tr style='height:20.85pt'>
+  <td width=33 valign=top style='width:24.7pt;border:solid #181717 1.0pt;
+  border-top:none;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=285 valign=top style='width:213.85pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal style='margin-bottom:0in'><span style='font-size:18.0pt;
+  line-height:107%;font-family:"Arial",sans-serif;color:#181717'>ease of
+  manufacture</span></p>
+  </td>
+  <td width=139 valign=top style='width:1.45in;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•••</span></p>
+  </td>
+  <td width=134 valign=top style='width:1.4in;border-top:none;border-left:none;
+  border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+  <td width=136 valign=top style='width:102.25pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•••</span></p>
+  </td>
+  <td width=155 valign=top style='width:116.15pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+ </tr>
+ <tr style='height:20.85pt'>
+  <td width=318 colspan=2 valign=top style='width:238.55pt;border:solid #181717 1.0pt;
+  border-top:none;background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:
+  20.85pt'>
+  <p class=MsoNormal style='margin-bottom:0in'><span style='font-size:18.0pt;
+  line-height:107%;font-family:"Arial",sans-serif;color:#181717'>Usage</span></p>
+  </td>
+  <td width=139 valign=top style='width:1.45in;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=134 valign=top style='width:1.4in;border-top:none;border-left:none;
+  border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=136 valign=top style='width:102.25pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=155 valign=top style='width:116.15pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+ </tr>
+ <tr style='height:20.85pt'>
+  <td width=33 valign=top style='width:24.7pt;border:solid #181717 1.0pt;
+  border-top:none;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=285 valign=top style='width:213.85pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal style='margin-bottom:0in'><span style='font-size:18.0pt;
+  line-height:107%;font-family:"Arial",sans-serif;color:#181717'>repairability</span></p>
+  </td>
+  <td width=139 valign=top style='width:1.45in;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+  <td width=134 valign=top style='width:1.4in;border-top:none;border-left:none;
+  border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+  <td width=136 valign=top style='width:102.25pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•••</span></p>
+  </td>
+  <td width=155 valign=top style='width:116.15pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+ </tr>
+ <tr style='height:20.85pt'>
+  <td width=33 valign=top style='width:24.7pt;border:solid #181717 1.0pt;
+  border-top:none;background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:
+  20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=285 valign=top style='width:213.85pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal style='margin-bottom:0in'><span style='font-size:18.0pt;
+  line-height:107%;font-family:"Arial",sans-serif;color:#181717'>durability</span></p>
+  </td>
+  <td width=139 valign=top style='width:1.45in;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>••</span></p>
+  </td>
+  <td width=134 valign=top style='width:1.4in;border-top:none;border-left:none;
+  border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+  <td width=136 valign=top style='width:102.25pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•••</span></p>
+  </td>
+  <td width=155 valign=top style='width:116.15pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+ </tr>
+ <tr style='height:20.85pt'>
+  <td width=33 valign=top style='width:24.7pt;border:solid #181717 1.0pt;
+  border-top:none;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=285 valign=top style='width:213.85pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal style='margin-bottom:0in'><span style='font-size:18.0pt;
+  line-height:107%;font-family:"Arial",sans-serif;color:#181717'>ease of
+  charging</span></p>
+  </td>
+  <td width=139 valign=top style='width:1.45in;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>••</span></p>
+  </td>
+  <td width=134 valign=top style='width:1.4in;border-top:none;border-left:none;
+  border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>••</span></p>
+  </td>
+  <td width=136 valign=top style='width:102.25pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>••</span></p>
+  </td>
+  <td width=155 valign=top style='width:116.15pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>••</span></p>
+  </td>
+ </tr>
+ <tr style='height:20.85pt'>
+  <td width=33 valign=top style='width:24.7pt;border:solid #181717 1.0pt;
+  border-top:none;background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:
+  20.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width=285 valign=top style='width:213.85pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal style='margin-bottom:0in'><span style='font-size:18.0pt;
+  line-height:107%;font-family:"Arial",sans-serif;color:#181717'>anticipated
+  reliability</span></p>
+  </td>
+  <td width=139 valign=top style='width:1.45in;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•••</span></p>
+  </td>
+  <td width=134 valign=top style='width:1.4in;border-top:none;border-left:none;
+  border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>••</span></p>
+  </td>
+  <td width=136 valign=top style='width:102.25pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•••</span></p>
+  </td>
+  <td width=155 valign=top style='width:116.15pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  background:#F5F2F0;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>•</span></p>
+  </td>
+ </tr>
+ <tr style='height:20.85pt'>
+  <td width=318 colspan=2 valign=top style='width:238.55pt;border:solid #181717 1.0pt;
+  border-top:none;padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal style='margin-bottom:0in'><span style='font-size:18.0pt;
+  line-height:107%;font-family:"Arial",sans-serif;color:#181717'>TOTAL</span></p>
+  </td>
+  <td width=139 valign=top style='width:1.45in;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>30</span></p>
+  </td>
+  <td width=134 valign=top style='width:1.4in;border-top:none;border-left:none;
+  border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>22</span></p>
+  </td>
+  <td width=136 valign=top style='width:102.25pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>36</span></p>
+  </td>
+  <td width=155 valign=top style='width:116.15pt;border-top:none;border-left:
+  none;border-bottom:solid #181717 1.0pt;border-right:solid #181717 1.0pt;
+  padding:.1pt 5.75pt 0in 11.2pt;height:20.85pt'>
+  <p class=MsoNormal align=center style='margin-top:0in;margin-right:5.45pt;
+  margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:
+  18.0pt;line-height:107%;font-family:"Arial",sans-serif;color:#181717'>21</span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:42.75pt;
+margin-left:-.25pt;text-indent:-.5pt'><span style='font-size:30.0pt;line-height:
+107%;font-family:"Arial",sans-serif;color:#FFFEFD'>refining the design
+direction</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:60.2pt;margin-bottom:
+13.35pt;margin-left:47.1pt;text-indent:-.5pt;line-height:105%'><span
+style='font-size:30.0pt;line-height:105%;font-family:"Arial",sans-serif;
+color:#181717'>The control concepts were brought to a number of voting and
+accessibility experts to obtain an outside opinion on their usability. Experts
+preferred the pivoting concept above all, followed by the hard mounted control
+concept. Their feedback led to a number of recommendations moving forward:</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:45.1pt;margin-bottom:
+.15pt;margin-left:69.85pt;text-indent:-22.2pt;line-height:106%'><span
+style='font-size:30.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>•<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:30.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>Ability to slant screen is a must.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:45.1pt;margin-bottom:
+.15pt;margin-left:69.85pt;text-indent:-22.2pt;line-height:106%'><span
+style='font-size:30.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>•<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:30.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>Laptop form factor is familiar and easy to use, but unnecessary
+for the majority of users.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:45.1pt;margin-bottom:
+.15pt;margin-left:69.85pt;text-indent:-22.2pt;line-height:106%'><span
+style='font-size:30.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>•<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:30.0pt;line-height:106%;font-family:"Arial",sans-serif;
+color:#181717'>Having detachable controls increases the device’s serviceability
+if anything were to break.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:.15pt;
+margin-left:453.9pt;text-indent:-.5pt'><span style='font-size:30.0pt;
+line-height:107%;font-family:"Arial",sans-serif;color:#FFFEFD'>further ideation
+sketching</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-9.0pt;margin-bottom:
+0in;margin-left:-9.55pt'><img width=1008 height=648 id="Picture 1650"
+src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image032.jpg"></p>
+
+</div>
+
+<span style='font-size:11.0pt;line-height:107%;font-family:"Calibri",sans-serif;
+color:black'><br clear=all style='page-break-before:always'>
+</span>
+
+<div class=WordSection13>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:5.05pt;
+margin-left:16.3pt'><img width=964 height=193 id="Picture 1659"
+src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image033.jpg"></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:17.75pt;margin-bottom:
+.15pt;margin-left:23.95pt;text-indent:-.5pt;line-height:108%'><span
+style='font-size:18.0pt;line-height:108%;font-family:"Arial",sans-serif;
+color:#181717'>The first pass of modeling was completed using “pink” foam, a
+lightweight, easy to shape foam. Shape was further examined, as were critical
+thicknesses and affordances for holding the case. </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:5.05pt;
+margin-left:54.25pt'><img width=863 height=205 id="Picture 1662"
+src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image034.jpg"></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:81.95pt;
+margin-left:83.6pt;text-indent:-.5pt;line-height:108%'><span style='font-size:
+18.0pt;line-height:108%;font-family:"Arial",sans-serif;color:#181717'>Another
+level of refinement was done using “sign” foam, a heavier, machineable foam. </span></p>
+
+<h2 style='margin-left:8.75pt'>voting case form and shape modeling</h2>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.75pt;margin-bottom:
+3.3pt;margin-left:0in'> <img width=860 height=196 id="Picture 1671"
+src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image035.jpg"><span
+style='font-size:18.0pt;line-height:107%;font-family:"Arial",sans-serif;
+color:#181717'>                                                                       29</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:56.65pt;margin-bottom:
+12.3pt;margin-left:70.5pt;text-indent:-.5pt;line-height:108%'><span
+style='font-size:18.0pt;line-height:108%;font-family:"Arial",sans-serif;
+color:#181717'>Eventually, a sliding control concept was developed. A quick
+study model was made from foam core and hot glue to understand the nuances of
+the idea.</span></p>
+
+<p class=MsoNormal style='margin-top:3.05pt;margin-right:42.8pt;margin-bottom:
+53.45pt;margin-left:93.4pt;text-indent:-.5pt;line-height:108%'><img width=579
+height=355
+src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image036.jpg"
+align=left hspace=12><img width=191 height=235
+src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image037.gif"
+align=left hspace=12><span style='font-size:18.0pt;line-height:108%;font-family:
+"Arial",sans-serif;color:#181717'>A form model was then developed in CAD and 3D
+printed to ensure a good size and hand feel. </span></p>
+
+<p class=MsoNormal align=right style='margin-top:0in;margin-right:8.25pt;
+margin-bottom:18.05pt;margin-left:.5pt;text-align:right;text-indent:-.5pt;
+background:#5E5F5F'><span style='font-size:30.0pt;line-height:107%;font-family:
+"Arial",sans-serif;color:#FFFEFD'>functional modeling and 3d printing</span></p>
+
+<p class=MsoNormal align=right style='margin-top:0in;margin-right:139.9pt;
+margin-bottom:211.25pt;margin-left:0in;text-align:right'><b><span
+style='font-size:48.0pt;line-height:107%;font-family:"Arial",sans-serif;
+color:#181717'>FINAL CONCEPT</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:.15pt;
+margin-left:-.25pt;text-indent:-.5pt;line-height:108%'><span style='font-size:
+18.0pt;line-height:108%;font-family:"Arial",sans-serif;color:#181717'>30</span></p>
+
+</div>
+
+<span style='font-size:11.0pt;line-height:107%;font-family:"Calibri",sans-serif;
+color:black'><br clear=all style='page-break-before:always'>
+</span>
+
+<div class=WordSection14>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.75in;margin-bottom:
+0in;margin-left:-.75in'><img width=1008 height=768 id="Picture 24903"
+src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image038.gif"></p>
+
+</div>
+
+<span style='font-size:11.0pt;line-height:107%;font-family:"Calibri",sans-serif;
+color:black'><br clear=all style='page-break-before:always'>
+</span>
+
+<div class=WordSection15>
+
+<p class=MsoNormal style='margin-bottom:408.15pt'><img width=1002 height=1
+src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image039.gif"
+align=left hspace=12><span style='font-size:18.0pt;line-height:107%;font-family:
+"Arial",sans-serif;color:#191915'>Accessibility                                Headphone
+Port      Carry Handle</span></p>
+
+<p class=MsoNormal style='margin-bottom:64.1pt'>                                               <span
+style='font-size:18.0pt;line-height:107%;font-family:"Arial",sans-serif;
+color:#191915'>Charging Port                                    Tactile
+Controls</span></p>
+
+<h2 style='margin-left:8.75pt'>final components diagram</h2>
+
+<p class=MsoNormal align=right style='margin-top:0in;margin-right:-.75pt;
+margin-bottom:.15pt;margin-left:.5pt;text-align:right;text-indent:-.5pt'><span
+style='font-size:18.0pt;line-height:107%;font-family:"Arial",sans-serif;
+color:#181717'>33</span></p>
+
+<p class=MsoNormal style='margin-bottom:51.05pt'><img width=1008 height=593
+id="Picture 24909"
+src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image040.gif"></p>
+
+<h2 style='margin-left:345.8pt'>iPad case with attached accessories tactile
+controls</h2>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-3.8pt;margin-bottom:
+2.25pt;margin-left:12.25pt'><img width=997 height=610
+src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image041.gif"></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:.15pt;
+margin-left:-.25pt;text-indent:-.5pt;line-height:108%'><span style='font-size:
+18.0pt;line-height:108%;font-family:"Arial",sans-serif;color:#181717'>34</span></p>
+
+<p class=MsoNormal align=right style='margin-top:0in;margin-right:8.25pt;
+margin-bottom:18.05pt;margin-left:.5pt;text-align:right;text-indent:-.5pt;
+background:#5E5F5F'><span style='font-size:30.0pt;line-height:107%;font-family:
+"Arial",sans-serif;color:#FFFEFD'>case features</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:219.3pt;margin-bottom:
+36.9pt;margin-left:.75pt;text-indent:-.5pt;line-height:104%'><img width=437
+height=1
+src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image042.gif"
+align=left hspace=12><img width=316 height=1
+src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image043.gif"
+align=left hspace=12><span style='font-size:16.0pt;line-height:104%;font-family:
+"Arial",sans-serif;color:#181717'>Large power button is easy to actuate, but
+located on the rear of the case to prevent accidental contact.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:207.9pt;margin-bottom:
+36.15pt;margin-left:.75pt;text-indent:-.5pt;line-height:104%'><span
+style='font-size:16.0pt;line-height:104%;font-family:"Arial",sans-serif;
+color:#181717'>Hand affordance makes carrying and transporting the case safe
+and easy.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:212.3pt;margin-bottom:
+61.55pt;margin-left:.75pt;text-indent:-.5pt;line-height:104%'><span
+style='font-size:16.0pt;line-height:104%;font-family:"Arial",sans-serif;
+color:#181717'>Large cutout in the rear of the case allows for a comfortable
+grip during use.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:15.5pt;margin-bottom:
+13.5pt;margin-left:.75pt;text-indent:-.5pt;line-height:104%'><img width=663
+height=1
+src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image044.gif"
+align=left hspace=12><span style='font-size:16.0pt;line-height:104%;font-family:
+"Arial",sans-serif;color:#181717'>Both 3.5mm jacks (for headphones and
+accessibility switch) are placed in a non-intrusive location for table top or
+lap top use. </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:15.5pt;margin-bottom:
+13.5pt;margin-left:.75pt;text-indent:-.5pt;line-height:104%'><span
+style='font-size:16.0pt;line-height:104%;font-family:"Arial",sans-serif;
+color:#181717'>Furthermore, when either of these devices are plugged in, the
+wires will not interfere with the screen visibility.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:.25pt;margin-bottom:13.05pt;
+margin-left:7.7pt;text-indent:-.5pt;line-height:106%'><span style='font-size:
+24.0pt;line-height:106%;font-family:"Arial",sans-serif;color:#181717'>A fully
+functioning prototype is currently being built, however, there are already a
+number of lessons that have been learned while working with the final
+electronics and CAD model. Examples are:</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:21.5pt;text-indent:-17.75pt;line-height:104%'><span
+style='font-size:24.0pt;line-height:104%;font-family:"Arial",sans-serif;
+color:#181717'>•<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:24.0pt;line-height:104%;font-family:"Arial",sans-serif;
+color:#181717'>A separate on/off switch for the Tecla Shield is needed, as it
+draws power from the iPad whenever the iPad is powered on.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:92.2pt;
+margin-left:21.5pt;text-indent:-17.75pt;line-height:104%'><span
+style='font-size:24.0pt;line-height:104%;font-family:"Arial",sans-serif;
+color:#181717'>•<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:24.0pt;line-height:104%;font-family:"Arial",sans-serif;
+color:#181717'>Prototyped components are often larger than final production
+parts, resulting in increased case size (for the prototype).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:.25pt;margin-bottom:71.75pt;
+margin-left:7.7pt;text-indent:-.5pt;line-height:106%'><span style='font-size:
+24.0pt;line-height:106%;font-family:"Arial",sans-serif;color:#181717'>Upon
+completion of these functional prototypes, a focus group and usability tests will
+be completed. Further refinements are expected to emerge from these efforts.
+Hopefully, enough will be learned to bring this voting case from a prototype to
+a reality.</span></p>
+
+<h2 style='margin-left:8.75pt'>conclusions and future work</h2>
+
+</div>
+
+<span style='font-size:11.0pt;line-height:107%;font-family:"Calibri",sans-serif;
+color:black'><br clear=all style='page-break-before:always'>
+</span>
+
+<div class=WordSection16><br clear=all style='page-break-before:always'>
+
+<p class=MsoNormal style='margin-bottom:0in'>&nbsp;</p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.75in;margin-bottom:
+0in;margin-left:-.75in'><img width=1008 height=768 id="Picture 24914"
+src="Designing%20an%20Accessible%20iPad%20for%20Voting_files/image045.gif"></p>
+
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,511 @@
+﻿ 
+ 
+ 
+ 
+ 
+ 
+ 
+THE RUDERMAN WHITE PAPER  
+ 
+ 
+ON VOTING ACCESSIBILITY FOR PEOPLE WITH DISABILITIES  
+  
+ 
+ 
+ 
+Norman Ornstein 
+Kristina Kopić 
+ 
+September 2016 
+           
+ 
+  
+ 
+TABLE OF CONTENTS: 
+ 
+Executive Summary _______________________________________________________________________________ 1 
+ 
+Sections: 
+1.      Introduction _______________________________________________________________________________ 3 
+2.      Methodology _______________________________________________________________________________ 7 
+3.      Identifying the Problems _________________________________________________________________10 
+4.      Identifying the Solutions _________________________________________________________________17 
+5.      Resources _________________________________________________________________________________ 24 
+ 
+ 
+ 
+THE RUDERMAN FAMILY FOUNDATION 
+ 
+One of our goals at the Ruderman Family Foundation is to change the public's awareness of people with disabilities. More specifically, we make the argument that full inclusion of people with disabilities is not a matter of charity, but of civil rights. We researched this White Paper in order to further the awareness around this civil rights movement. We believe that the results we found will meaningfully contribute to the conversation of diversity in our election process as a civil rights issue that needs to be addressed more systematically by the media, election officials, and political leaders. 
+ 
+Our Mission 
+ 
+The Ruderman Family Foundation believes that inclusion and understanding of all people is essential to a fair and flourishing community. 
+ 
+Guided by our Jewish values, we support effective programs, innovative partnerships, and a dynamic approach to philanthropy in our core area of interest: advocating for and advancing the inclusion of people with disabilities in our society. 
+ 
+The Foundation provides funding, leadership, expertise and insight in the U.S. and Israel, with offices in both countries. Visit us at: http://www.rudermanfoundation.org 
+ 
+ 
+ 
+AUTHORS 
+ 
+Norman Ornstein is a long-time observer of Congress and politics. He is a contributing editor and columnist for National Journal and The Atlantic and is an election eve analyst for BBC News. He served as codirector of the AEI-Brookings Election Reform Project and participates in AEI's Election Watch series. He also served as a senior counselor to the Continuity of Government Commission. Mr. Ornstein led a working group of scholars and practitioners that helped shape the law, known as McCain-Feingold, that reformed the campaign financing system. He was elected as a fellow of the American Academy of Arts and Sciences in 2004. His many books include The Permanent Campaign and Its Future (AEI Press, 2000); The Broken Branch: How Congress Is Failing America and How to Get It Back on 
+Track, with Thomas E. Mann (Oxford University Press, 2006, named by the Washington Post one of the best books of 2006 and called by The Economist "a classic"); and, most recently, the New York Times bestseller, It's Even Worse Than It Looks: How the American Constitutional System Collided With the New Politics of Extremism, also with Tom Mann, published in May 2012 by Basic Books. It was named as one of 2012's best books on politics by The New Yorker and one of the best books of the year by the Washington Post. A new version was published earlier this year. 
+ 
+Kristina Kopić is the Advocacy Content Specialist at the Ruderman Family Foundation. Some of her chief research and pedagogic interests lie in deconstructing social constructs that govern cultural norms and behavior-in particular the constructs of race, gender, and disability. She has taught Research Writing, Rhetoric, and Composition at universities throughout the Greater Boston Area including Emerson College, Bentley University, and Boston Architectural College. Kristina has also served as a writing coach for MIT graduate students and a literary editor. Her focus in this project is to better understand how the common perceptions about disability impact access to elections for the disability community.  
+ 
+ 
+The views expressed in this document are solely those of the authors. 
+ 
+ 
+ 
+ 
+ 
+ 
+LANGUAGE DISCLAIMER 
+ 
+We at the Ruderman Family Foundation want to acknowledge that language use in the context of disabilities is an important issue that generates both strong discussion and strong feelings. The most frequent point of contention is whether people-first or identityfirst language should be used. While it is our policy at the Ruderman Family Foundation to use people-first language (i.e. a person with a disability), we acknowledge that several segments of the disability community prefer identity-first language (i.e. a disabled person). The authors of this Ruderman White Paper have chosen to use person-first language which is bound not to be favored by some segments of the disability community. We are aware of these differences and, in the absence of any consensus, acknowledge and respect both perspectives.  
+ 
+The Ruderman Family Foundation and the writers of the Ruderman White Paper denounce the use of any stigmatizing or derogatory language.  
+
+EXECUTIVE SUMMARY 
+ 
+ 
+Contents 
+ 
+People with disabilities in the U.S. regularly struggle to exercise their right to vote despite a patchwork of pieces of legislation that ensure their access to the electoral process. The Government Accountability Office reports that in the 2008 national election 73% of polling places had some potential barrier. A study conducted by Rutgers University and Syracuse University looked at the 2012 election and voters with disabilities and found that if voters with disabilities voted at the same rate as voters with the exact same demographics, but without disabilities, three more million people would have voted in the 2012 election. 
+ 
+Voting is a sacred trust in a democracy, and it is an obligation of the society to make it accessible to all eligible citizens. To better understand the obstacles that are creating this nation-wide problem and to identify ways to remedy them, we interviewed seven national and three international experts on election administration and accessibility. 
+ 
+Content Analysis 
+ 
+We have identified five primary recurring barriers to voting accessibility for people with disabilities: 
+•      Insufficient poll worker training 
+•      Access barriers to polls (including publicly available transportation) 
+•      Access barriers to elections material and registration material prior to elections   
+•      Stigma (including against developmental and psychiatric disabilities)  ( Limitations on resources available to election officials  
+ 
+In all these cases, the experts contended that we know and have the solutions to the problems and need to ensure rigorous implementation.  
+ 
+Many election officials and policy makers say they can solve the accessibility issues through actions that simply circumvent the barriers. Most frequent examples of such policies were relying on absentee ballots for people with disabilities rather than making polling places accessible, and relying on giving people with disabilities assistance with casting their ballots, which fundamentally compromises their right to a private and independent ballot. We do not find these adequate solutions in any way. 
+ 
+A final barrier we examined was the treatment of people with intellectual, developmental 
+(IDD), and psychological disabilities (PD). The U.S. compares relatively favorably to other Western countries in its inclusion of all its citizens, with one marked exception. While the trend in the rest of the world has been to move away from provisions that disenfranchise people with IDD or PD, more than half of U.S. states still have such provisions in their constitutions. Some states also disenfranchise person placed under guardianship. There is no evidence that such measures are reasonable or called for and as they stand, they constitute overt and systemic discrimination.  
+ 
+Conclusion 
+ 
+It is unacceptable to have 20% of our population being treated as second-class citizens with their rights to full participation in our democracy being routinely compromised. It is the duty of our democratic system to end this institutionalized discrimination against people with disabilities and focus on ensuring that each citizen has guaranteed access to a private and independent ballot in whichever manner they may choose to cast it.  
+
+SECTION ONE: INTRODUCTION 
+ 
+The Expanding Democracy of the U.S. 
+ 
+The United States of America is one of the oldest modern democracies in the world. With that, the right to vote is one of the core tenets of our government and our national identity. However, one of the core historical facts of our country is also that this right to fully participate in the electoral process has not been equally available to everyone.  A significant part of American history is the ongoing struggle to secure voting rights for more Americans. 
+ 
+Anyone who has taken a civics or social studies class is familiar with the Fifteenth Amendment to the US Constitution which ensured that citizens were no longer barred from voting on the basis of "race, color, or previous condition of servitude." It was ratified in 1870 in response to the abolition of slavery. It wasn't until 1920 that the Nineteenth Amendment was ratified, adding a citizen's sex to the list of things that were safe from voting discrimination. However, even though these two amendments ensured voting rights for ofage citizens regardless of sex or race in theory, they did not succeed in ensuring them in practice. For example, certain states implemented literacy tests and poll taxes that were designed solely to disenfranchise black voters. Partly in response to this continued discrimination, Congress passed the Voting Rights Act of 1965. It abolished literacy tests and poll taxes, and, among other provisions designed to secure equal voting rights for all citizens, section 208 also granted the right for a citizen with a disability to bring "a person of the voter's choice" into the polling booth with them to assist them in casting a ballot.  
+ 
+This is just a brief timeline that touches on some of the main legislative cornerstones, but it effectively illustrates that when it comes to citizens with disabilities, protecting their right to participate in the democratic process is a relatively recent addition. Even more recent is the Americans with Disabilities Act (ADA) which was passed in 1990. This piece of legislation is widely regarded as the nation-wide gold standard of disability inclusion. The ADA states that "Congress recognized that physical and mental disabilities in no way diminish a person's right to fully participate in all aspects of society, but that people with physical or mental disabilities are frequently precluded from doing so because of prejudice, antiquated attitudes, or the failure to remove societal and institutional barriers." It therefore provides a "clear and comprehensive national mandate for the elimination of discrimination against individuals with disabilities."  
+ 
+The role the ADA has played in the movement toward equality for people with disabilities is invaluable. However, in the entire text of the ADA (including all the amendments), one will not find any measures specifically addressing voting or elections (other than to note that people with disabilities are frequently excluded from having the opportunity to exercise their rights in the electoral process). That omission was addressed in the only piece of national legislation that regulated the conduct of elections, the Help America Vote Act (HAVA). Passed in 2002, HAVA states that casting a ballot needs to "be accessible for individuals with disabilities, including nonvisual accessibility for the blind and visually impaired, in a manner that provides the same opportunity for access and participation (including privacy and independence) as for other voters." It further mandates that every polling place have at least one accessible voting machine. In other words, this was the first time that federal legislation specifically guaranteed a private and independent ballot for people with disabilities.  
+ 
+As a point of comparison, all states in the U.S. had adopted a secret and independent ballot for elections around the beginning of the twentieth century. That is to say, it essentially took a century to extend this right to citizens with disabilities. While history is slowly moving in the right direction, the legislation itself-however well-intentioned and far-reaching-has not eradicated all barriers to voting for people with disabilities. 
+ 
+ 
+Still Existing Voting Barriers for People with Disabilities 
+ 
+It is important to note that the U.S. does not have a centralized election system. States make decisions about how to run elections (within federal guidelines) and in certain states counties, and even localities, actually make the operational decisions. This means that there are roughly six thousand election jurisdictions in the country and an untold number more actual polling places. These realities make it impossible to accurately make assertions about the accessibility of our electoral process at large. Election officials face different challenges in sparsely populated rural areas versus city centers, for example and certain areas even within states are doing better than others.  
+ 
+The Pew Election Performance Index (EPI) ranks states on various categories, including the availability of online registration, voter registration rates, voter turnout and others. The index allows the user to take a look at how individual states compare in the categories. There are only two categories that detail explicit problems voters encounter with the process- problems due to disability or illness and problems with registration and absentee ballots. Regarding the former, the latest available data (2014) shows a range of 9.7% of people encountering a problem when trying to register or obtain an absentee ballot at the high end (for Hawaii) and less than 1% encountering problems at the low end (Minnesota). However when we look at the problems encountered due to disability or illness, the statistics double. At the high end 19% of voters reported a problem in Mississippi and Washington State had the lowest rate at 4.8%. 
+ 
+These statistics are sobering in and of themselves, but if we look at them in terms of absolute numbers they become even more troubling. According to the US Census Bureau, there are about 56.7 million people in the U.S. who have a disability. It is assumed that this is a conservative estimate because many people may not feel comfortable self-identifying as having a disability on the census survey due to stigma. Nevertheless, 56.7 million people amounts to approximately 20% of the entire population of the country. Looking only at citizens of voting-age, the estimate is 34 million people, or 14% of all voting-age citizens. If we use the Pew EPI statistics as a heuristic for the country, and anywhere from 4.8% to 19% of people with disabilities encounter a problem with voting due to their disability, this means that anywhere from 1.6 to 6.46 million citizens are affected. While it's again important to emphasize that some areas are doing better than others, these numbers are still very troubling. 
+ 
+Additionally, several studies that look specifically at voters with disabilities confirmed disparities in voting between people with and without disabilities due to access barriers. One such study is the report: "Disability, Voter Turnout, and Voting Difficulties in the 2012 Elections" written by Lisa Shur and Douglas Cruse of Rutgers University, as well as Meera Adya of Syracuse University. Some of the key findings from this latest national presidential election were that people with disabilities, while registered to vote at almost the same rate as people without disabilities, do not vote at the same rate. The team states that "the voter turnout rate of people with disabilities was 5.7 percentage points lower than that of people without disabilities. There would be 3 million more voters with disabilities if they voted at the same rate as people without disabilities who are otherwise similar in age and other demographic characteristics." This gap was also consistently found by previous studies and the authors of the Rutgers/Syracuse report suggest that some of the main reasons that lead to the disparity are difficulties people with disabilities encounter at a polling place. The report notes that "almost one-third (30.1%) of voters with disabilities reported difficulty in voting at a polling place in 2012, compared to 8.4% of voters without disabilities." 
+ 
+The U.S. Government Accountability Office (GAO) unfortunately supports these findings. In their 2013 report "Voters with Disabilities: Challenges to Voting Accessibility", the GAO examined polling place accessibility improvement from 2000 to 2008. They estimated that 73% of all polling places in 2008 had "a potential impediment." While this was an improvement from the 84% in the 2000 elections, it is a stunning and troubling number. Furthermore, while the vast majority of polling places had an accessible voting machine available, the GAO notes that "46 percent of polling places had an accessible voting system that could pose a challenge to certain voters with disabilities, such as voting stations that were not arranged to accommodate voters using wheelchairs." 
+ 
+ 
+ 
+The Imperative to Ensure Voting Access for People with Disabilities 
+ 
+Commendably, as we outline above, there have been several pieces of legislation in recent history that were designed to afford citizens with disabilities equal opportunity to exercise their right to vote. However, we have also highlighted that in practice access to voting is still not equally afforded to people with disabilities. The disability community is not only notable due to its size, but also due to the fact that-unlike with other minority groups-any citizen could join this community at any point in their lives. As a matter of fact, every one of us is statistically likely to develop a disability in our lifetime. This fact of the human condition just cannot justify potential disenfranchisement. Given the size and scope of the disability community, it is clear that ensuring their access to our democratic process is one of the biggest civil rights matters of our time.  
+ 
+In this white paper, our goal is to examine more closely the cause of the gap between voting rights on paper and their exercise in practice and to make recommendations to eliminate said gap. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION TWO: METHODOLOGY 
+ 
+Qualitative Approach 
+ 
+We are less than two months away from the 2016 presidential election. Given that there is no quantitative data yet on accessibility for this election, our approach in this white paper is a qualitative sampling of top experts in the field of disability voting inclusion. We aimed to get a sense of the progress the U.S. has made as well as the problems it still faces. 
+ 
+We have interviewed a total of ten experts in the field. The majority of them were experts on U.S. elections and a few were in the field of monitoring election fairness abroad. In this way we were able to get some benchmarks for comparison with other countries. However, the key focus of the interviews was on voting accessibility in the U.S.  
+ 
+ 
+Interview Questions 
+ 
+While the interview questions were tailored to each interviewee based on their expertise, there were two questions everyone was asked: 
+ 
+•      What would you identify as the biggest obstacle to voting accessibility for people with disabilities? 
+•      What would be the best way to remove that obstacle? 
+ 
+Additionally, every expert on U.S. elections was also asked: 
+ 
+•      From your perspective, how would you describe the overall state of/problem with voting accessibility for people with disabilities? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Experts Interviewed 
+ 
+Name Title Primary Responsibilities Virginia Atkinson Senior Access and Inclusion 
+Specialist,  
+Program Development and 
+Innovation,  
+International Foundation for 
+Electoral Systems (IFES) Runs disability inclusion team internationally and ensures that democracy and governance programs are inclusive of all people. Michelle Bishop Disability Advocacy Specialist for 
+Voting Rights, 
+National Disability Rights 
+Network (NDRN) Provides training and technical assistance to the Protection & Advocacy (P&A) agencies network regarding voting rights and access for voters with disabilities.   Lou Ann Blake Deputy Executive Director, 
+Jernigan Institute 
+National Federation of the Blind 
+(NFB) Manages projects and programs that help to empower blind people to be fully integrated in society, including in matters of voting.  Douglas Chapin Director of the Program for 
+Excellence in Election 
+Administration at the 
+Humphrey School of Public 
+Affairs, University of Minnesota Develops programs in election administration and  works with elections officials, academics, and advocates on identifying ways to improve voting accessibility. Avery  
+Davis-Roberts Associate Director, Democracy 
+Program, 
+The Carter Center Manages some of the Carter Center's election and democracy and governance projects. Currently manages work on democratic election standards projects as well as activities around the observability of the U.S. election. James Dickson Co-Chair Voting Rights 
+Committee at National 
+Council on Independent Living 
+(NCIL) Works to make future more accessible to people with disabilities through civic engagement, increasing the voter participation of people with disabilities, and getting them to run for office with disability being part of their platform. Kathy Hoell Co-Chair Voting Rights 
+Committee at National 
+Council on Independent Living 
+(NCIL) Works to make future more accessible to people with disabilities through civic engagement, increasing the voter participation of people with disabilities, and getting them to run for office with disability being part of their platform. Jim Langevin U.S. Representative (D-RI) U.S. Congressman with a track record of disability inclusion. Richard Lappin  Deputy Head of the Elections 
+Department of the Office for 
+Democratic Institutions and 
+Human Rights (ODIHR) at the 
+Organization for Security and 
+Cooperation in Europe (OSCE) Observes elections throughout OSCE regional states to assess their commitment to OSCE and assists in further improving conduct of future elections. Leslie Reynolds Executive Director, National 
+Association of Secretaries of 
+State (NASS) Oversees the day-to-day operations of the NASS and all aspects of its management, including key member initiatives on election reform, digital government, business data collection, business identity theft and e-notarization.  
+ 
+ 
+ 
+
+SECTION THREE: IDENTIFYING THE PROBLEMS 
+ 
+ 
+Describing the Problem 
+ 
+From a broad perspective: 
+ 
+"We've made a lot of progress in making elections accessible for everyone," said Michelle Bishop, the Disability Advocacy Specialist for Voting Rights at the National Disability Rights Network. "But we still have a long way to go. There is a lack of understanding on what disability means and what we have to provide in terms of architecture and accommodation."  Bishop's comment encompasses the pervasive view among all our interviewees. It is important to acknowledge that "states and localities are eager to provide accessible voting systems in each polling place for people with disabilities, as required by federal law," said Leslie Reynolds, the Executive Director of the National Association of Secretaries of State.  "The challenge comes with providing equipment that accommodates the many types of disabilities to ensure access for all voters." Reynolds went on to note that an additional piece of the challenge is the limited resources election officials have at their disposal. 
+ 
+Avery Davis-Roberts, Associate Director of the Democracy Program at the Carter Center noted another crucial aspect of the difficulties to full inclusion. "There are many barriers to full access to electoral processes for persons with disabilities," she said. "Not just as voters, but also as candidates, as supporters of political parties and these barriers are not often visible barriers. They are also socio-cultural barriers." Along with socio-cultural barriers also come socio-economic barriers. According to the Rutgers/Syracuse report previously cited, researchers found that "employed people with disabilities were just as likely as employed people without disabilities to vote, suggesting that employment helps bring people with disabilities into mainstream political life." 
+ 
+ 
+From the perspective of people with disabilities: 
+ 
+James Dickson and Kathy Hoell, Co-Chairs of the Voting Rights Committee at the National Council on Independent Living are both people with disabilities. When asked to describe the problem of voting access from her perspective, Hoell said: "Basically just imagine in all probability you wouldn't be able to get into polls, you wouldn't be able to access web voting data and information, like sample ballots or any information like that. Imagine being treated like a second class citizen and then you would know the things we have to deal with." Dickson echoed the profound difficulties Hoell described. He said, "voting looks simple, but it's actually very complex. We face problems casting a secret ballot and we have problems even getting into the polling places. Lastly, most of the information that is available to you through the election office on the internet is not accessible to many of us." 
+ 
+Speaking primarily from the perspective of blind voters, Lou Ann Blake, the Deputy Executive Director at the Jernigan Institute at the National Federation of the Blind, also pointed out that there is a "lack of funds to upgrade accessible voting systems that are past their useful life or life expectancy." The lack of accessible voting machines of course not only impacts blind voters, but is a possible problem for a wide range of people with disabilities. 
+ 
+One person who is denied the right to vote is one too many: 
+ 
+When we spoke with Representative Jim Langevin (D-RI), he said, "If there are barriers to voting, then those barriers need to be eliminated. One person who is denied the right to vote is one too many." We feel this sentiment encompasses the core of our democracy well.  
+ 
+Doug Chapin, Director of the Program for Excellence in Election Administration at the Humphrey School of Public Affairs, University of Minnesota agreed. "One of the beauties of the U.S. system of democracy is that anyone who is eligible and wants to participate should have the ability to do so," he said. "So any barrier is something that we should address and overcome. ... Voters used to interaction with the election process might not realize how one or more disabilities make it not only difficult, but sometimes impossible to cast a ballot." 
+ 
+While it is clear that the pervasive view among our interviewees is that there is a big problem with voting accessibility for people with disabilities, there is good news, too, because "those problems are solvable," said Bishop. She is hopeful, but also critical: "Had we been making the commitment in solving the problems we could have eliminated them 10-15 years ago."  
+ 
+ 
+What is the Biggest Obstacle? 
+ 
+Given that all of the interviewees acknowledged that there are problems, the question becomes one of specifics. All interviewees were asked what the single biggest barrier to voting for citizens with disabilities was. Most of them had difficulty choosing only one obstacle. Overall, there was no consensus as different election jurisdictions in the U.S. face different challenges, but it was clear that we can group the obstacles into categories. The table below is a useful way to do so.  
+ 
+ 
+List of key obstacles for voters with disabilities: 
+Obstacle Direct Quotes Insufficient poll worker training "The biggest obstacle nationwide is a lack of expertise on what disability and access actually means to the entire disability community. ... People who run elections aren't aware of what solutions there are or even where to go to get them." - Bishop 
+ 
+"The biggest obstacle in my opinion is the poll workers. Their training is inadequate; they don't understand what accessibility means. ... Even now, their poll can be in an inaccessible location. I've been shown stairs repeatedly though I'm a person in a wheelchair. ... Under HAVA I am entitled to a private, unassisted ballot, but they don't see a problem with putting the machine right by the door with the screen to the door for everyone to see. That's happened to me every election since they had to buy the machine in 2002." - Hoell 
+ 
+"If I were to look at the point of view of people who have communication or intellectual disabilities, I'd say it's attitude. Poll workers will say 'you're drooling, you're not capable of voting.'" - Dickson 
+ 
+"Sometimes there are no opportunities to cast a ballot at a building that's inaccessible. Sometimes the election official is not aware that they need to make the process accessible." - Chapin 
+ 
+"Poll workers who don't know how to set up and operate the accessible voting machine has been, and remains, the largest obstacle that blind voters face." - Blake 
+ Access to polls (including publicly available transportation) "The biggest issue is still access to polls. Access to being able to vote first and foremost. This also applies to people with [developmental] disabilities." - Lappin 
+ 
+"The accessible entrance may be locked." - Hoell 
+ 
+"I'd say it's a combination of inaccessible polling places and for some standing in line." - Dickson 
+ 
+"One of the big obstacles would be an inaccessible location or inaccessible or unusable equipment. And third, not being able  
+ to physically get to the polling place. Public transportation is still a challenge and it's not a problem that has been solved completely yet." - Langevin 
+ Access to elections material and registration material prior to elections   "Online voter registration is a huge movement. Six years ago there wasn't a single place where you could register online. We now have 33 states with some form of online voter registration. Most are not accessible." - Dickson 
+ 
+"Probably the biggest barrier to participation is the availability of, or access to, information about how voters with disabilities can cast ballots." - Chapin 
+ 
+"How can you as a voter be informed? A lot of information isn't accessible for people with disabilities." - Lappin 
+ Stigma 
+(including against 
+developmental and 
+psychiatric disabilities)  "Stigma. The biggest obstacle is socio-cultural responses to disability. If you can change people's views on disability, other things will fall into place." - Davis-Roberts 
+ 
+"A consistent overarching problem is stigma. People with disabilities aren't presumed to want or need to participate in political life." - Atkinson 
+ 
+"Guardianship is being used deliberately or unintentionally to discriminate against marginalized communities. ... That goes further than elections. If you have systemic barriers they are only going to be heightened in elections." - Lappin 
+ 
+"Your competency to vote can still be challenged based on intellectual disability and mental illness. States are sometimes stripping people's right to vote based on a guardianship hearing. It's a whole other set of prejudice." - Bishop 
+ Resources available to election officials "Limited resources are always a problem for state and local governments.  New technologies are developed but have to be tested and certified to meet accessibility and security standards required by states.  Those new technologies are often slow to come to the market, because of the limited resources the states have to purchase them." - Reynolds 
+ 
+"The electoral process is intensely decentralized, [so] ... sometimes the challenge isn't that the responsible official doesn't know what they need to do, but that they don't have  control of the assets they need to make voting accessible." - Chapin  
+ 
+Broadly Comparing the U.S. to the Rest of the World 
+ 
+It may be scant comfort to those facing the obstacles, but in our research, as well as our conversations with the interviewees, it has become clear that overall, the U.S. is among the better countries to live in for voters with disabilities. We should note again that this is a generalization given that the U.S. has no centralized elections system and certain areas consistently perform better when it comes to inclusive elections than others. Furthermore, it's also important to state that it is very difficult to compare different countries fairly and clearly since so many aspects of elections differ from country to country. With that said, the Electoral Integrity Project-an independent study that focuses on why elections fail and what can be done about it-gives the U.S. a score of 65 on perception of electoral integrity. The project looks at concerns regarding "risks of potential suppression of voters' rights, impersonation at the polls, and technological vulnerability to hacking." While a 65 is on the lower end among Western countries, it still denotes a high level of electoral integrity.  
+ 
+Looking specifically at electoral integrity for the disability community, according to our conversations with Atkinson, Davis-Roberts, and Lappin, the U.S. also compares quite favorably, especially when it comes to the enforcement of the laws already in place. Our other interviewees nearly unanimously stated that there needs to be more enforcement to ensure compliance with already existing laws. So while we still need to improve in that regard, we nevertheless are comparing favorably with most other countries.  
+ 
+However, there is one area of barriers for people with disabilities where the US does not rank very highly, that we have found will need significant improvement: ensuring the voting rights of people with intellectual and psychiatric disabilities. "There is higher participation among blind and deaf voters," said Bishop. "But those are issues we've been more willing to solve. On the other end of the spectrum are people with intellectual and developmental disabilities and with mental illness. We are less willing to make the vote accessible to people with certain types of disabilities." The Bazelon Center for Mental Health Law has updated an earlier table detailing "State Laws Affecting the Voting Rights of People with Mental Disabilities." According to the list about twenty seven states bar people with mental and/or developmental disabilities from voting. In fact, there are only eight states whose State Constitutions or electoral statues do not disqualify people from voting on the basis of mental illness or intellectual disability (Colorado, Idaho, Illinois, Indiana, New Hampshire, North Carolina, Pennsylvania, Tennessee). However, even those states don't always have guardianship or conservatorship statues that preserve people's right to vote. For example, in Tennessee, the state "may remove the right to vote if placed under a conservatorship. 
+Petition for appointment of a conservator should include the rights that will be removed." 
+ 
+Bishop explains the problem with such provisions:  
+"It's a complete misunderstanding of what it means to have an intellectual disability or mental illness. Intellectual disability doesn't mean they're not capable of voting. It's outdated thinking. If I need a guardian it means I'm not competent, and that's just not true. The more you work with certain people with disabilities, the more you understand them. They can decide who to vote for and their reasons are no better or worse than those of non-disabled people. But nondisabled people are never questioned. We are holding certain people with disabilities to a higher standard than any other American* when a nondisabled person can just register. To me ... it's not American values to do that. It's an outdated mode of thinking. There is nothing to support that in terms of science or socially. That's not why families establish guardianship."  
+(*emphasis the authors') 
+ 
+In most cases, families establish guardianships in order to help their loved one with day-today living. As Bishop states, that is unrelated to one's ability to choose who to vote for. 
+ 
+Speaking from his work at the Office for Democratic Institutions and Human Rights at the Organization for Security and Cooperation in Europe, Lappin said:  
+ 
+"My last 5-10 years we've put increased emphasis on people with mental disabilities. This is where we've seen that the trend has been to remove restrictions to people with mental disabilities. There was a famous case in Hungary that held that there shouldn't be any voting restrictions on people with mental disabilities. That's because it becomes arbitrary, especially with blanket discriminations." 
+ 
+Some arguments in favor of limiting the voting rights of this population state that people with mental disabilities may be more vulnerable to voter coercion. In response to that, Lappin said, "if there is an issue with voter coercion, that's a separate issue that should be addressed separately, but there should be no automatic disenfranchisement." 
+ 
+There has also been a broad benchmark case which focused on guardianship laws and restrictions. Since then Lappin said that "we saw a lot of Western European states amending legislations. Canada too is incredibly progressive. They are a very positive example in the tradition of human rights." When asked about the U.S. though, his tone changed.  
+ 
+"In the U.S. the issue of mental disabilities is not talked about. In a country where you have so much civil society, investing in elections, and such numerous organizations working on accessibility for people with disabilities, the issue of mental disabilities doesn't come up." 
+ 
+The Review of Electoral Legislation and Practice in OSCE Participating States also notes that "there is an emerging trend to discontinue restrictions on voting rights for persons with mental disabilities."  
+ 
+The U.S. though has clearly not been among the countries following this trend. It is one of the problems we as a nation need to address. Citizens with developmental and psychological disabilities have a right to the electoral process as well. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION FOUR: IDENTIFYING THE SOLUTIONS 
+ 
+ 
+What are the Solutions? 
+ 
+As seen in section three, we have identified five categories of serious obstacles that people with disabilities face when trying to participate in our democracy. Given the complexity of the issue, there are no simple solutions, but the below table outlines some of the proposed suggestions to tackle these problems.  
+ 
+List of key suggestions to remove obstacles to voting access for people with disabilities:  
+Obstacle Solution Insufficient poll worker training •      Hire poll workers with disabilities 
+ 
+"We have encouraged election officials to hire poll workers with disabilities. What better way to ensure that the machine is operating other than hiring a poll worker with a disability?" - Blake  
+ 
+•      Build relationships with existing resources 
+ 
+"It's not about expecting [election officials] to know everything, but it's about building partnerships. They don't need to be experts. They're excellent, but they need to build partnerships between their administration and the disability community. It's not about one particular barrier as much as it's about that one divide. We need better relationships and clear and open communications. That would have a huge impact on removing obstacles nationwide." - Bishop 
+ 
+•      Ensure standardized poll worker training 
+ 
+"They need to develop standardized training for the entire country so that poll workers are aware of disability. ... Their training is inadequate." - Hoell 
+ 
+ Access to polls (including publicly available transportation) ( Have modifiable polling stations and accessible ballot options 
+ 
+"A lot of ballots are produced in braille format ... Large print and audio options would be solutions, too. Even the desk  
+ where you vote needs to be able to be moved to different heights." - Lappin  
+ 
+•      Have accessible voting machines and ensure that people with disabilities and without use the same machine 
+ 
+"Maryland believed strongly that we're not going to eliminate problems with the equipment until everybody is voting on the same machine. After every election the biggest problems for poll worker training and attitude is that the machine isn't set up. When you go up, every voter is asked at polling place do you want paper or machine. Depending on the election, about 25-40% of all votes will be cast on machine. I can tell you at my polling place, people will opt to wait in line to use the machine while there isn't line for paper." - Dickson 
+ 
+•      Ensure well in advance that all accessibility requirements have been met  
+ 
+"Making sure that every polling location way in advance is fully accessible. That poll workers are properly trained to work with and assist people with disabilities so they can vote privately and independently and making sure that the equipment is fully accessible." - Langevin   
+ 
+•      Encourage voters with disabilities to file complaints when they encounter problems to voting access  
+ 
+"We're now really encouraging blind voters when they're not able to vote privately and independently to file a complaint. There has been no enforcement by the Department of Justice. They are more focused on enforcing physical access." - Blake 
+ 
+•      Simplify the complaint filing procedure and ensure enforcement of and compliance with already existing laws 
+ 
+"HAVA is not being enforced, certainly not when it comes to voting privately and independently by a blind voter. ... The problem is also that complaints (for the ADA) have not been filed. The process is not easy. I just spoke with member from  
+ Alaska. He said the last four elections that he's gone to his polling center, there hasn't been an accessible machine set up. I looked at the complaint process. They require that you cite specifically in your complaint what section of the ADA they're in violation of. For someone who's not a lawyer, that's a daunting task. It's an onerous process. It also requires a notary signature." - Blake 
+ 
+( Have a range of options available 
+ 
+"Technology is changing what voters expect. Voters are more and more expecting there to be a range of options. Early voting, in addition to traditional voting. No excuses absentee voting. A lot of those things are happening because voters don't want to be limited. ... Access is a complicated thing. The more we are able to provide a range of options, the better we'll do with being accessible." - Bishop  
+ 
+ Access to elections material and registration material prior to elections   ( Ensure that all government websites and online materials are accessible for all assistive devices  
+ 
+"Jim [Dickson] and I have been working on the whole accessible website issue and there is an assumption that every screen reader can read a PDF-it's just not true. I was at a meeting about elections. There was a person who is blind at the table and we were talking about choosing different technologies. One [able-bodied] person overheard the conversation. His comment was 'I didn't realize all of you used different things.'" - Hoell 
+ Stigma 
+(including against developmental and 
+psychiatric disabilities)  •      Raise awareness through (social) media to change general attitudes 
+ 
+"A lot of the work the International Foundation for Electoral 
+Systems does is targeting the general public. Recently in Libya we developed a social media campaign "I am as you are." It showed people with disabilities as equal citizens. We want to participate and vote and run for office." - Atkinson 
+ 
+•      Revisit state laws that disenfranchise voters due to guardianship laws or mental illness  
+ 
+Given that we have identified that several states automatically limit the voting rights of people with  psychological and developmental disabilities, it is important for citizens of those states to urge their governments to reassess those increasingly antiquated and discriminatory laws.  
+ Resources available to election officials •      Raise awareness of the issue to policy makers 
+ 
+"I guess one solution would be to continue to raise awareness about how people with disabilities are often impeded, if not outright blocked, from casting their ballots. Disability advocates do a good job, but you need to raise awareness with people who have access to the purse strings and keys to buildings to make them aware of what voters with disabilities need. Raising awareness, not just within elections community, but also the policy community who control the entire process. The disability community is often not served because of decisions being made [by policy makers]." - Chapin 
+ 
+•      Ensure that the Elections Assistance Commission (EAC) remains fully operational 
+ 
+"The state of accessible voting is a bit of a mess right now and some of that has to do with the fact that the EAC had no commissioners. The Senate was refusing to confirm appointees. They thought that the EAC should be abolished. They didn't see a need for them any longer. They thought the job was done once accessible voting systems were developed and were available and thought they were no longer needed." - Blake 
+  
+Two suggestions that were additionally mentioned by Hoell were to follow Australia's model of voter registration.  
+ 
+•      In Australia, every citizen is automatically registered to vote when they turn 18 and people have to opt out, rather than opt in. 
+ 
+•      Secondly, she mentioned that several European countries have made election day a holiday so that people can focus solely on voting and ensure they can make it to the polls. Moving our elections to the weekend, with several days before of early voting, is another option. 
+ 
+ 
+The Problems with Solutions by Policy 
+ 
+Oftentimes policy makers, in an attempt to level the playing field, pass policies that ensure equal access on paper rather than in practice. For example, a friend of ours had a conversation with an election official who claimed that his county was 99% accessible. When pressed as to how he had accomplished such a feat, he said that people with disabilities were able to vote by absentee ballot.  
+ 
+While this option certainly provides more choice and by proxy more access to voters with disabilities, it is not a solution that actually provides equality. Even if absentee ballots were fully accessible-which our experts assert is not frequently the case-relying on it as a solution, rather than simply as an additional option creates two separate electoral systems. Able-bodied citizens can participate in the election day process through their polling place while citizens with disabilities are left at home. We as a country learned long ago that separate is rarely equal. 
+ 
+Furthermore, the Syracuse/Rutgers study on 2012 voter turnout found that when "asked about alternative voting methods for the next election, majorities of people both with and without disabilities say they would prefer voting in person in a polling place." Our interviewees unanimously echoed this sentiment. Voting, while private, is also a very public expression of societal solidarity. It is about an engagement with one's community and creating policies that don't meaningfully eradicate barriers for a section of the population is ultimately not a solution. 
+ 
+Beyond relying on absentee ballots as a solution, there is also a problem with the policy to allow a person of the voter's choice to assist them in casting a ballot if needed. James Dickson, who is blind, illustrates the issue well with a story he told us: 
+ 
+"My wife and I were in an election booth one year and became the first married couple to differ on who to vote for," he chuckled. "She turned to me and said, 'Jim I know you love me and now I know you really trust me because you think I'm marking this ballot for that idiot.'" Even if Dickson had to make a leap of faith, he at least had a loved one to mark his ballot. Not everyone does.  
+ 
+Dickson also had several anecdotes of other blind citizens who encountered problems of trust. There is a "member of our voting rights committee," he said. "Every time he has voted since the passage of HAVA, the accessible machine hasn't been set up and poll workers push him to let them mark his ballot." These poll workers may be well-intentioned, but practices like these are clear examples of citizens' rights not being protected. 
+ 
+Congressman Langevin, who became a quadriplegic at the age of sixteen due to an accident, shared similar stories of problems he encountered: 
+ 
+"There were three firsts to my voting experience. The first time I voted I voted by paper ballot because I didn't think it would be possible to get to the poll and vote on my own. A couple of years later I said I want to go to polls like anyone else. But when I got there, at the time we had the oldest voting machines in the country. I had to take someone in the voting booth with me. It was a family member and over the years I've taken others with me to push the levers I asked them to push. There was no way that I could physically reach the levers or do what was necessary to close the curtain that actually activated the voting machine.  
+ 
+But the first time that I ever voted independently on my own was when I became Secretary of State and overhauled the voting system* in 1998. We got new optical scan equipment. I was 30 years old and overhauled the system and was able to vote independently for the first time.  
+ 
+Twenty years later we just got new upgraded equipment. But it's still the same principle. It's a paper ballot with an optical scan and it's accessible to [the vast majority] of people with disabilities." 
+(*emphasis the authors') 
+ 
+ 
+Some Closing Remarks 
+ 
+Congressman Langevin's story is a powerful testament to both, the pervasiveness of barriers to voting for people with disabilities as well as the ability to overcome these barriers. As Bishop said, we know how to solve these problems. It is high time that we as a nation actually do solve them.  
+ 
+It is simply unacceptable to have 20% of our population being treated as second-class citizens with their rights to full participation in our democracy being left up to the luck of the draw. It is imperative that we as a nation focus on ensuring that each citizen has guaranteed access to a private and independent ballot in whichever manner they may choose to cast it- whether by mail or in person.  
+ 
+Education and sensitivity, for poll workers and election officials, as well as lawmakers, is a necessary element to solving this set of problems. But as with other areas of difficulty in the election system, the greatest need is for more resources-money to pay for accessibility at polling places, to provide adequate numbers of trained poll workers, to have the appropriate machines, to have enough hours for voting. In the overall scheme of things, the amount of money needed to make voting accessible for all our citizens is a small sum to pay to protect and enhance our democracy for all. 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION FOUR: RESOURCES 
+ 
+We have already listed suggestions for best practices and solutions in the previous section. This section is a list of resources that may help anyone-policy makers, election officials, or regular citizens-take steps toward protecting voting access of people with disabilities. This is not an exhaustive list, but we believe it provides a good conglomeration of tools and educational material on this crucial and complex issue.  
+ 
+Preparing for accessible elections: 
+ 
+•      The ADA Checklist for Polling Places is an updated resource for election officials and serves as a comprehensive step-by-step guide to polling place accessibility for all. 
+ 
+•      The United States Election Assistance Commission serves as a resource for officials and voters alike. It "was established by the Help America Vote Act of 2002 (HAVA). EAC is an independent, bipartisan commission charged with developing guidance to meet HAVA requirements, adopting voluntary voting system guidelines, and serving as a national clearinghouse of information on election administration. EAC also accredits testing laboratories and certifies voting systems, as well as audits the use of HAVA funds." 
+ 
+•      Inclusion Solutions is a company that among other accessibility ventures, specializes in providing election officials requisite equipment, such as ramps, to ensure that their inaccessible polling places are modified to become accessible.  
+ 
+Educational material: 
+ 
+•      For reading material on the legal framework that protects the voting rights of people with disabilities in the U.S., The Americans with Disabilities Act and Other Federal Laws Protecting the Rights of Voters with Disabilities is a good summary document. 
+ 
+•      The OSCE's Office for Democratic Institutions and Human Rights has published a handbook on following up with its election recommendations.  
+ 
+ 
+ 
+ 
+ 
+What to do on election day: 
+ 
+•      Election Protection is a non-partisan, nation-wide coalition that was established to ensure all citizens can exercise their right to vote. In case of a problem for any election, you can reach out to them for immediate assistance at 866-OUR-VOTE. 
+      The Arc, "the largest national community-based organization advocating for and serving people with intellectual and developmental disabilities and their families" is in the process of developing an app that connects users to Election Protection if problems arise on election day. The app is called Voter Support Service and is designed to simplify the process of finding a polling place, reporting problems and connecting with help. While still under development at the time of this writing, it is expected to be released in October, prior to the national election. 
+ 
+Innovative Practices for Further Research 
+ 
+•      Our interviewees mentioned the practices of several states as innovative in their accessibility. Here they are in alphabetic order and might have useful models to consider on our way to achieving nation-wide voting accessibility: 
+o   Alaska-has rare option to vote by email (Estonia is the only country in the world that votes by internet.) Internet voting has major issues of security, but for a subgroup of those without other options, it might eventually be a partial solution. 
+o   California-high levels of overall voting accessibility, especially online o Iowa-is ranked among the lowest problem-rates for people with disabilities according to the Pew Election Performance Index 
+o   Maryland-high levels of overall voting accessibility o Rhode Island-accessible voting machines o New Hampshire-worked with University of Florida researchers to ensure highly accessible voting systems for 2016 national election 
+o   Oregon-does voting by mail exclusively for everyone and has worked hard on making that process entirely accessible for people with disabilities 

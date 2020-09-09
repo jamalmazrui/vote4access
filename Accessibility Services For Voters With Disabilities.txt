@@ -1,0 +1,427 @@
+﻿
+
+
+TABLE OF CONTENT  
+P3-4.Introduction
+Services to Voters with Disabilities
+A. Polling Place AccessibilityP5-22.P5-11.P12-14.B. Accessible WebsiteP15.C. Accessible Voting MaterialsP16.D. Disability Awareness Training for PollworkersP17-18.E. Voter Outreach and EducationP19.F. Voting Accessibility Advisory CommitteeP20.G. Telecommunications Device for the Deaf and Hard of Hearing (TDD)P20-22.H. Election Day Observation
+Voting Solutions for All People (VSAP)
+Conclusion and Recommendations
+AppendixP23-24.P25.P26-33.The purpose of this evaluation report "Accessibility Services for Voters with Disabilities 2017" is to provide a comprehensive assessment of the accessibility services offered by the Los Angeles County Registrar-Recorder/County Clerk (Department) for the November 2016 General Election and the March 2017 Consolidated Municipal Election.  Los Angeles County (County) observes this approach in complying with the State of California and federal accessibility requirements, and achieving the objective of providing fair, accessible and transparent election services for all voters. This report describes the numerous services the Department provides for those with specific needs, as well as the accomplishments in continuing to serve and foster a diverse electorate. 
+INTRODUCTION A disability can mean physical, mental, intellectual or sensory impairments that may hinder effective participation in society. These disabilities can affect people of all ages, races, and economic backgrounds. It is reported that 15% or one billion people worldwide are living with a disability, making it the world's largest minority.[1] 
+While substantial progress has been made since the passage of the Americans with Disabilities Act of 1990 (ADA) and the Help America Vote Act of 2002 (HAVA), barriers to full participation in the electoral process still exist for people with disabilities.  According to a study in 2008, people with disabilities had a voter turnout of 11 percentage points lower than those without disabilities.  Some of the barriers include the lack of access to voting sites and difficulties with transportation.[2]   In 2008, the United States Governmental Accountability Office found that only 27% of surveyed polling sites nationwide had an accessible path from the parking area to the polling place while another 27% did not offer curbside voting. 
+When it comes to voting, people with disabilities are less likely than others to cast a ballot in an election. This was apparent in 2010 when closing the disability voting gap would have led to 3 million more voters.[3]  Therefore, making voting accessible for all eligible voters is fundamental to our democracy, especially for those with disabilities. 
+Department Accomplishments Providing 
+Accessibility Services for Voters with Disabilities
+The Department has been working diligently to ensure maximum accessibility of elections for people with disabilities and has made considerable strides over the past decades in surveying, recruiting, modifying and retaining accessible polls. In 1986, only 70% of Los Angeles County's polling places were assessed as physically accessible. Our understanding of access standards has grown appreciably since this time and our polling places have continued to improve through more comprehensive surveying by trained surveyors and more effective mitigations of technically non-compliant features. Only 4% of polling places are now considered to have a barrier(s) that would significantly impact a voter's ability to physically access the site. Whenever possible alternate means are employed to provide programmatic access at the polls. 
+Accessibility Services Highlights in 2016 and 2017
+                           Utilized HAVA Election Assistance         Provided Audio Sample Ballots Replaced legacy      for Individuals with Disabilities           and materials to more than 45 applications on LAvote.        (EAID) grant to enhance services        voters and community groups; net with more modern,         to voters with disabilities* (*List of    provided "readable" 
+INTRODUCTION accessible features items that were purchased through (e.g. JAWS) web sample ballot this grant in Appendix A) to all voters 
+       Conducted Community                     Continued hosting Voting                     Visited 235 assisted living 
+Organization Survey to       Accessibility Advisory Committee      facilities to recruit accessible obtain feedback and        (VAAC) to inform community polling locations and inform 
+assess areas of success and               groups and stakeholders about                 voters about accessibility 
+potential improvement in     Department services and provide      services available accessibility service     feedback to members on voting 
+accessibility related issues
+accessibility on Election Daylocations to assess physical Surveyed all polling place             L.A. City channels and community Voice" PSAs on PBS, L.A. County, Broadcasted  "Your Vote, Your organizations' webpage
+ The Future of Voting in Los Angeles County
+The Department has faced challenges with the current aging voting system, InkaVote Plus.  The decision was made to develop a new voting system that conforms to the diverse needs of Los Angeles County voters.  The Department is in the process of implementing a new voting experience through it's Voting Solutions for All People (VSAP), which focuses on a human-centered approach to voting and therefore a more inclusive voting experience for all voters.  
+
+Creating an ideal election experience for each voter starts before the voter even registers to vote. The Department takes every measure available to comply with all legal standards and fulfill voters' needs. 
+ APolling Place Accessibility
+Standard of Service
+The Department employs Field Representatives who survey and recruit the County's numerous polling places using the Secretary of State Polling Place Accessibility Checklist (PPAC).  Field Representatives are prepared to assess accessibility by attending a 2-day training with the State Department of Rehabilitation.  Representatives look for issues in the following areas:
+•    Parking and Drop Zones      • Doors and Hallways • Ramps and Curb Ramps
+•    Paths of Travel from arrival points • Voting Area  • Elevators and Lifts like sidewalks, parking, or bus stops            • Signage
+There are approximately 13,000 polling locations in the Department's database that have been surveyed to ensure accessibility for people with disabilities.  Polling locations are initially surveyed before being utilized as a polling place and resurveyed periodically.  A total of 700 polling locations were surveyed using the Secretary of State guidelines during the period of July 1, 2016 through March 7, 2017.
+If a location is inaccessible, the Department's Field Representatives will try to make it accessible by using modification tools, such as mats, cones and signage.  
+Once accessibility determinations                                                                                   GENERAL PRESIDENTIAL ELECTION 
+ NON-ACCESSIBLE  
+POLLING PLACE LOCATION(S) WITH SAME CONTESTS ON THE BALLOT ALTERNATIVE POLLING LOCATIONS  
+WITH SAME CONTESTS ON THE BALLOT  (IN ZIP CODE ORDER) 1 0700001A                                    
+BELL COMMUNITY CHURCH 
+CLASS ROOM 3 
+4009 GAGE AVE 
+BELL, 90201 0700002A 
+GRACE LUTHERAN CHURCH 
+FIRESIDE ROOM 
+6714 PINE AVE 
+BELL, 90201 0700005A 
+IGLESIA DE DIOS 
+COMMUNITY ROOM / ORANGE TABLE 
+6830 WILCOX AVE 
+BELL, 90201 2 0700017A                                    
+CORONA ELEMENTARY SCHOOL 
+AUDITORIUM / GREEN TABLE 
+3825 BELL AVE BELL, 90201 0700010A 
+EPOCA HALL 
+BANQUET HALL / YELLOW TABLE 
+6624 ATLANTIC AVE 
+BELL, 90201 0700013A 
+BELL HIGH SCHOOL 
+ROOM 101 
+4328 BELL AVE BELL, 90201 3 0700018A                                    
+CORONA ELEMENTARY SCHOOL 
+AUDITORIUM / ORANGE TABLE 
+3825 BELL AVE BELL, 90201 1550001A 
+LUGO PARK 
+TEEN CENTER/ ORANGE TABLE 
+7810 OTIS AVE 
+CUDAHY, 90201 1550005A 
+LEO P TURNER COMMUNITY CTR 
+MULTI-PURPOSE RM/ORANGE TABLE 
+4835 CLARA ST 
+CUDAHY, 90201   1550010A 
+BEDWELL HALL 
+COMMUNITY ROOM/ORANGE TABLE 
+5220 SANTA ANA ST 
+CUDAHY, 90201 4200001D 
+LOMA VISTA ELEMENTARY SCHOOL 
+AUDITORIUM 
+3629 E 058TH ST 
+MAYWOOD, 90270   4200009A 
+FIRST BAPTIST CHR OF MAYWOOD 
+LYMAN HALL/ORANGE TABLE 
+3759 E 057TH ST 
+MAYWOOD, 90270 4200010B 
+FISHBURN ELEMENTARY SCHOOL 
+AUDITORIUM 
+5701 FISHBURN AVE 
+MAYWOOD, 90270   4200014A 
+UNITED STEELWORKERS 675 
+MEETING HALL/ORANGE TABLE 
+4735 SLAUSON AVE 
+MAYWOOD, 90270 4200015A 
+IGLESIA NAZARENA DE MAYWOOD 
+FELLOWSHIP HALL/ORANGE TABLE 
+4756 SLAUSON AVE 
+MAYWOOD, 90270 are made, polling place notifications                                                   NOVEMBER 8, 2016 NON-ACCESSIBLE POLLING SITES ALTERNATE POLLING PLACES   are then sent to all voters indicating where their polling site will be located and whether it is accessible.  If the location is not accessible, the voter may vote at the curbside or find a nearby accessible poll by calling the Department or visiting the "Accessibility Services" section on LAvote.net to find alternate location for inaccessible polling places (see sample of report).
+Non-accessible Polling Sites 
+                  Alternative Polling Place Report         
+The following are additional services that the Department offers to make the voting process more comfortable for all voters. 
+
+
+Voter assistance by pollworkers at every step of  the voting process
+Under California law, any voter who needs help casting a ballot is entitled to request assistance.  The Department provides pollworkers, who can assist people with disabilities in marking their ballot at every polling site. Voters are also allowed up to two people, of their own choosing, to assist them with casting their ballot. 
+Curbside Voting
+In addition, at certain inaccessible locations, voters can communicate their need for curbside voting assistance by pushing a BallotCall button that wirelessly alerts a pollworker inside about a voter waiting outside. 
+
+Accessible Parking
+When surveying polling locations, Field Representatives evaluate the number of regular and accessible parking spaces available near the poll entrance.  If there are no accessible spaces, the Department may erect signage designating certain non-accessible spaces as accessible parking.  
+
+
+Review of Accessibility Surveys
+According to the survey respondents who visited polls on Election Day, 88% observed polls with accessible entrances.  The Department utilized equipment such as rubber floor mats and cones to modify nonaccessible polling locations and make them more accessible. Curbside voting is also available at all polling places ensuring all voters have access to cast a ballot.
+November 2016 & March 2017 Evaluation Results
+The Department modified 68 polling sites for the November 2016 General Election and 130 for the March 2017 Consolidated Municipal Election.  The majority of the community groups surveyed were aware of Accessible Voting Devices at every poll site on Election Day (Survey Q24).  They also confirmed that most of the poll sites they visited had an accessible entrance (Survey Q25).
+Assisted Voter Tally Cards at 1910 Precincts were completed for the November 2016 Election and 63 Precincts for the March 2017 Election, providing the following information:
+ November 2016March 2017Voters requesting to use the ABB to cast a ballot3362Voters requesting to vote Curbside867Voters requiring wheelchair access246379Voters with visual or other disabilities assisted in casting a ballot105632Survey Q24
+
+Survey Q25
+
+ BAccessible Website
+Standard of Service
+The Department's website was updated in September 2014 including features that comply with the guidelines set forth by the World Wide Web Consortium (W3C).  The W3C's Web Content Accessibility Guidelines (WCAG) provides standards to follow in order to make web content accessible to people with disabilities.  The Department's website includes tags for images, labels for non-text content, closed captions for videos, keyboard accessibility, and the ability to change font sizes. These features make it easier for people with disabilities to access the website comfortably. 
+The Department's website also provides pertinent election information for users with specific needs, including a list of accessible poll sites and registration options.  Voters can also submit a Vote by Mail (VBM) application online through the Department's website or connect to the Secretary of State's website in order to submit a Voter Registration Form online.  
+The websites Voting Accessibility pages contain:
+•    Statement of legal rights, the RR/CC's goals, and accessibility advisories for voters with disabilities
+•    Services available prior to Election Day
+-              Telecommunications Device for the Deaf     and Hard of Hearing (TDD)
+-              Cassette tape recording of election     information
+•    An average of 48 Audio Sample Ballots were provided to voters prior to voting in the 
+November 2016 and March 2017 Elections
+-  Early voting options•    Election Day Services
+-              Description of what constitutes an Accessible     Polling Place and the accessibility tools     available at the polls
+-              Neighborhood Voting Centers (NVC's)
+-              Assistance in voting
+-              Voters using wheelchairs
+-              Curbside Voting
+-              Voters with vision impairments
+-              Marking devices
+•    Contact information
+•    Election Day HotlineNovember 2016 & March 2017 Evaluation Results
+The Community Survey responses indicate the updated website has been a useful tool for all voters.  The survey revealed that 93% of those surveyed have accessed the website to review election information.  More than three-quarters of the organizations surveyed promoted the website on their respective websites. Most respondents utilized the website to access or download Vote by Mail Applications and/or educational and outreach information and to find their Polling Place location.   
+Survey Q14
+
+
+
+
+The Department's Web Development Team has been working on replacing existing legacy applications on LAvote.net with more modern and accessible replacements since April 2016.  Additionally, LAvote.net is scanned for accessibility related issues using software that improves the website accessibility.  The Web Development Team reviews the website monthly and works on fixing accessibility related issues found.
+
+C Accessible Voting Materials
+Standard of Service
+People with disabilities who are unable to vote at the polls can request a Vote by Mail ballot.  The application for the three different VBM ballots are available to download and print through the Department's website.  VBM ballots must be received by the Department, a VBM Drop-Off Location or a polling place no later than the close of polls on Election Day.  Mailed VBM ballots must be postmarked on Election Day and received by the Department within three days in order to be counted (California Senate Bill 29).  If a voter is disabled and/or unable to return the ballot on his/her own, that voter may designate a representative to return the ballot on their behalf.  Below are descriptions of these Vote by Mail ballots accessible to all voters:
+•    Vote by Mail - Any voter who knows he/she will be unable to vote in person can apply for a VBM ballot, no later than seven days before Election Day.
+•    Permanent Vote by Mail - Any voter may apply for PVBM status, this status indicates a ballot will be automatically mailed to the voter for every eligible election.  A voter can retain PVBM status as long as he/she continues to vote in elections.  However, a voter will be removed from this list if he/she fails to return a VBM ballot for two consecutive statewide general elections.  There are currently 2,191,828 (as of March 2017) Permanent Vote by Mail voters in Los Angeles County.
+•    Emergency Vote By Mail - If a voter is unable to vote at the polls within six days before an election 
+(i.e. due to illness, hospitalization, unplanned trip), the voter can vote with an Emergency Vote by Mail ballot.  However, these ballots cannot be issued by mail; therefore, the voter or the voter's authorized representative must provide a written request in person to the Department. 
+Additionally, voters with visual impairment may request and Audio Sample Ballot DVD be mailed to  his/her residence before major elections by calling the Election Information Section. 
+November 2016 & March 2017 Evaluation Results
+VBM ballots were issued to 1,863,690 voters for the November 2016 General Election and 2,184,543 were issued for the March 2017 Consolidated Municipal Election. 1,283,648 and 486,213 VBM ballots were voted and returned in the November 2016 Election and March 2017 Election respectively.  
+Audio Sample Ballots were requested and sent to 49 voters for the November 2016 Election and 47 for the March 2017 Election. 
+The Department implemented "readable" web sample ballots in the June 2016 Election in compliance with ADA Section 208 requirement (Appendix B).   The Voter Accessibility Advisory Committee members assisted with testing the sample ballots prior to full implementation.  The Ballot Management Section staff has been responsible for proofreading the web sample ballots since their inception.
+D Disability Awareness Training for Pollworkers
+Standard of Service
+In a major election the Department provided approximately 475 classes throughout the County for more than 25,000 pollworkers.  The two and a half hour pollworker training class covers topics including: 
+•    Provisional voting    • Curbside voting procedures 
+•    Opening and closing of polls           • Completing the Assisted Voter's List
+•    Supplies provided to assist voters with disabilities            • Completing the Assisted Voter Tally Card
+During the classes, instructors also address cultural sensitivity for people with disabilities and minority language speakers.  In addition, instructors devote a portion of the training to the ABB, including set up and use of the machines, what to do if it stops working and the importance of offering the ABB for anyone that may need assistance. 
+November 2016 & March 2017 Evaluation Results
+During the November 2016 Election, 475 pollworker training sessions were conducted.  Each session highlights cultural sensitivity for people with disabilities including the use of available tools to assist with voting.  Each session includes hands-on practice to operate the ABB and highlights the importance of offering the ABB to all voters. 
+
+Pollworker Training:
+The Election Guide and Checklist training manual provides pollworkers with training references for providing assistance to voters with specific needs, in addition to the pollworker training class attended before Election Day:
+
+E Voter Outreach and Education
+Standard of Service
+The Department's Community and Voter Outreach Section participated in various activities that seek to educate, inform and increase voter participation throughout the County.  Outreach activities include:
+•    Making presentations to community groups 
+•    Disseminating election related information at local events 
+•    Assisting residents with voter registration and completing applications
+•    Attending community meetings
+•    Conducting voting equipment demonstrations  
+While conducting outreach, staff members can provide low vision voters with the Department's large font election materials and the use of technology to assist in viewing additional election information. The Department owns video magnification devices and transformers for use at outreach events.  These devices increase the font size and change the background color of documents, helping voters view election materials and sign registration forms with ease.
+Additionally, the Department partners with several rehabilitation centers, senior groups and community organizations in order to reach specific needs communities and educate them about the services the Department offers for people with disabilities.  Organizations that have a close relationship with the Department include:
+•    United Cerebral Palsy
+•    The Braille Institute 
+•    American Association of Retired Persons (AARP)
+•    Southern California Rehabilitations Services 
+•    Disability Rights California
+•    Individual Living Center 
+
+November 2016 & March 2017 Evaluation Results 
+
+To continue meeting the need of voters with visual impairments, the Department translated four outreach materials into Braille and distributed them to community groups and at outreach events.  In addition, an "Accessibility Services Program" one-page informational flyer was produced as a result of a joint effort with the VAAC members. 
+The Department seeks to inform the public, through the use of Public Service Announcements (PSA), of the accessible voting services available in Los Angeles County and encourages participation of individuals with the full range of disabilities in elections.  It produced two PSAs, one 30 Second video and one 60 Second video, with cooperation from the County's Voting Accessibility Advisory Committee (VAAC) members.    
+
+Prior to the November 2016 Election, several presentations were conducted to provide organizations with information of services the Department provides and how to utilize them (e.g. 
+Disabled Resources Center, Inc., SEIU Local 721 ADA Caucus).
+Along with the Department's VAAC Co-Chairs, a presentation was made to the County's Commission on Disabilities in February 2017.  It was well-received by the commissioners and additional contacts were established after the presentation.  One commissioner has attended the VAAC meeting to obtain more information.
+
+The Department visited 235 assisted living facilities prior to the November 2016 Election and the March 2017 Election to inform voters about accessibility services.  Department staff has been assigned to conduct outreach at convalescent and long term living facilities to assist voters in registering to vote, applying for VBM and to inform facility staff about assisting clients in the voting process.  
+
+ FVoting Accessibility Advisory Committee
+Standard of Service
+The Secretary of State (SOS) recommends that each county elections official appoint and maintain a VAAC to advise and assist the official in ensuring that the provisions of the Voting Accessibility for the Elderly and Handicapped Act (VAEHA) are implemented.  The County's VAAC was established in 2006 to assist the Department with implementing innovative strategies that improve accessibility and participation.  The VAAC consists of up to 15 people from various disability organizations and meets quarterly at the Department's Headquarters in Norwalk and offsite at the partners various facilities. 
+  
+The VAAC has played an important role assisting the Department with pre-election, post-election and Election Day feedback.  The information gathered from VAAC members has improved the services the Department provides to the electorate. 
+The VAAC's Accomplishments in 2016 & 2017
+Thanks to the VAAC members, two PSA's (sample of script in Appendix C) and one educational brochure (Appendix D) were produced and published in 2016.  The PSA's were televised on PBS, as well as L.A. County and L.A. City channels.  The local PBS KCET station and their digital KCETLink station, which are seen by over 1.8 million individual viewers in 11 counties each month, ran PSA "Your Vote, Your Voice" 198 times between August 26 and November 8, 2016.  During the same period, the PSA was seen nationally on our satellite station Link TV (DirecTV 375/Dish Network 9410), which covers 36 million viewing households, 111 number of times.  The Department also posted the PSA on its social media Facebook and Twitter pages.  In addition, copies of the PSA were distributed to County's Inclusive Emergency Management Advisory Council and community groups for posting on their webpage.
+The Departments and the VAAC's partnerships accomplishments are as follows:
+•    Held VAAC meetings quarterly in 2016 and 2017
+•    Provided input to Department's Voting System Assessment Project (VSAP) and participated in focus group discussions
+•    Provided suggestions and guidance on how to utilize HAVA EAID grant
+•    Convened two subcommittees and produced two PSA and "Accessibility Services Program" one-page informational flyer 
+•    Provided advice to overcome polling place accessibility barriers
+•    Made recommendations for the Department's website and educational materials relative to accessibility
+•    Made recommendations related to pollworker training materials and class content
+•    Made recommendations corresponding to conducting outreach to the disability community 
+ GTelecommunications Device for the Deaf and Hard of Hearing (TDD)
+Standard of Service
+The Department uses a Telecommunication Device for the Deaf (TDD) to communicate with people who are hearing impaired.  This system uses a text communication device that sends messages over a telephone line.  The TDD number is (562) 462-2259.
+November 2016 & March 2017 Evaluation Results
+The device was made available at every election and Election Information Section staff is responsible for responding to the TDD line.
+
+ HElection Day Observation
+Standard of Service
+Once Election Day is complete, the Department reviews Election Day hotline reports to address accessibility issues and survey community organizations to assess the level of service provided.  This assists with determining which accessibility services are working well for voters with disabilities and which areas can be improved.  Poll Monitor reports and voter feedback is thoroughly evaluated for responsiveness. 
+November 2016 & March 2017 Evaluation Results
+Poll Monitor and AskEd Hotlines
+The Department received 28 calls for the November 2016 Election and 8 calls for the March 2017 Election regarding polling place accessibility on Election Day.  The majority of the observations reported by poll monitors were resolved the same day.  A few were discussed during a post-election follow-up meeting: staff contacted voters and community group representatives to reach solutions for those problematic areas.  No post-election report was submitted by community groups for the November 2016 or March 2017 Elections.  
+Community Organization Survey
+In addition to the California Secretary of State Polling Place Accessibility Checklist (PPAC) used to assess the accessibility of a poll, the Department conducts individual voter and community group surveys to learn what worked well in the voting process and how the Department can better serve voters' needs.  Community groups have emphasized the usefulness of the County website which allowed a more favorable voting experience and expressed the importance of promoting LAvote.net on their websites.   The surveys also revealed that of the people who visited polls on Election Day, 82% (14 out of 17 respondents) observed the ABBs were operational. (Survey Q19)
+Survey Q19
+
+Assisted Voter Tally Card
+The November 2016 General Election (4,523 Polling Places) and the March 2017 Consolidated 
+Municipal Election (2,543 Polling Places) returned approximately 1,910 and 58 Assisted Voter Tally Cards respectively.  This provided feedback about the number of voters requiring assistance in the polling place.  The Assisted Voter Tally Cards revealed that 336 voters in November 2016 and 2 voters in March 2017 requested to use the ABB, there were 2,463 voters in November 2016 and 79 voters in March 2017  in wheelchairs and 389 voters in November 2016 and 2 voters in March 2017 required assistance to cast their ballot. 
+       November 8, 2016 PRESIDENTIAL PRIMARYASSISTED VOTERS TALLY CARD
+Assistance requests from voters in the precincts Precinct 
+TOTALSNo requests for assistanceBengaliChineseGujaratiHindiJapaneseKhmer799918443726584KoreanSpanishTagalogThaiVietnameseOther6341261430032182822Audio Ballot requestWheelchairsBlind,  otherAdd info / PW request33624631056389 March 7, 2017 
+CONSOLIDATED MUNICIPAL AND SPECIAL ELECTIONSASSISTED VOTERS TALLY CARD
+Assistance requests from voters in the precinctsPrecinct 
+TOTALSNo requests for assistanceArmenianBengaliChineseFarsiGujaratiHindiJapaneseKhmer150118026031KoreanRussianSpanishTagalogThaiVietnameseOther419944211Audio Ballot requestWheelchairsBlind, visually or hearing impairedAdditional Information/              
+Pollworker Request279328
+Los Angeles County is faced with a unique challenge when it comes to voting.  It is not only the largest voting jurisdiction in the nation but it also has the most diverse population.  In 2009 the RR/CC decided to embark on the challenging task of replacing its current aging InkaVote Plus voting system. 
+ 
+Research and development of VSAP (previously known as Voting Systems Assessment Project) began with extensive research with the goal of gathering data and utilizing feedback from community groups, focus groups and other relevant sources.  The VSAP Advisory Committee was formed as a result of the research findings, to help define the best process for implementing a more accessible, accurate, and secure voting system while remaining in compliance with California Election Code.  Under the advisement of the committee, 14 distinct principals to guide in the development and implementation of a new voting system were developed.  Those principals include transparency, variety of voting options, privacy and, easy and accessible voting.  
+Further review of the research findings led to an assessment of existing voting systems in the market.  Through this assessment it became evident that there was not a system in the market that could meet the unique voting needs of the Los Angeles County electorate.  
+VOTING SOLUTIONS FOR ALL PEOPLE (VSAP) In 2013, after review of many firms, the Department partnered with IDEO, an award winning global design firm that is known for its human-centered design approach.  The goal of the partnership was to analyze data gathered since the projects inception and develop the specific elements of the new voting experience.   After conducting additional research which heavily focused on accessibility and assessing feedback from community groups, the partnership identified the components of the new voting experience consisting of:
+•    A new accessible, touchscreen Ballot Marking Device (BMD) and accessible voting booth 
+•    A new VBM experience 
+•    An innovative Interactive Sample Ballot (ISB) 
+•    A modernized Tally System
+•    Strategically located Vote Centers
+•    Expanded Early Voting
+•    Electronic Pollbooks with real-time capability
+The culmination of these elements will yield a new and improved voting experience that addresses the concerns with the current voting system entirely redefining the voting process and expanding the opportunities voters have to cast their ballot.    
+VSAP's Progress 2016-2017
+VOTING SOLUTIONS FOR ALL PEOPLE (VSAP) The Department is currently in the Manufacturing and Certification phase of the project.  In this phase the Department will review proposals for the components requiring manufacturing by a third party.  During this phase the components requiring internal elaboration will be developed.  As the components are finalized they will require certification by the SOS.  In addition, the Department will partner with experts who will conduct geo-spatial analysis and additional research to identify vote center and VBM drop-off locations that are accessible and strategically located. 
+The RR/CC is planning for full implementation of the new voting experience by 2020.  Full accessibility has been a major consideration in all phases of the development of the VSAP. 
+Additional detailed information about the VSAP can be found online at: VSAP.lavote.net.
+
+The Department invested in this evaluation project to ensure fair, accessible and transparent election services that go above and beyond compliance with Federal and State laws and regulations for all voters. 
+This project identifies areas of work designed to ensure accessibility on Election Day for voters of Los Angeles County.  Most of these areas were able to successfully reach their established goal for the November 8, 2016 General Election and the March 7, 2017 Consolidated Municipal Election. Limitations were identified and process improvements have been suggested for future elections.  The website (LAVote.net) in particular, has been a useful tool for providing all voters with valuable information, forms, instructions and links related to elections according to the Community Survey.  
+Pollworker training continues to promote positive practices designed to assist all voters. This includes stressing the importance of operating and offering the ABB, curbside voting and cultural sensitivity training when assisting voters with disabilities.  
+CONCLUSION AND RECOMMENDATIONS Election Day observers reported that modifications were used where needed in polling places to ensure access. The Department will continue its efforts to obtain fully accessible poll sites and future vote centers.  Pollworkers were observed offering the use of ABB and as having accessibility tools available for use. The surveys indicate that the ABBs were available and in working order in the precincts observed.  The number of voters who utilized this option has been minimal and illustrates the need to emphasize the value of the ABB to pollworkers and to the community through the transition and full implementation of the VSAP.   Upon implementation, the VSAP will incorporate equipment expected to eliminate a separate voting device for voters with disabilities.  The new BMDs have been developed to accommodate all voters. 
+The majority of the complaints from voters with disabilities on Election Day are about accessible parking.  Currently Election Day Troubleshooters deliver accessible parking signs to identified locations.  
+Members of the VAAC provided valuable resources as the Department works diligently to ensure full accessibility.  The Department continues to rely on advice and evaluation from the established partnerships with the various community groups who serve the full spectrum of individuals with disabilities.  
+The Department once again utilized grant funding to produce educational videos in partnership with VAAC members.  The first video "Voters with Specific Needs Pollworker Training" won the NACo award and has been used by the Department's pollworker training staff since 2008.  Partnering with community groups or stakeholders to produce useful educational materials is the most effective way to serve the voters.
+HAVA EAID Grant
+The United States Congress enacted the Help America Vote Act (HAVA) in 2002 to improve election administration, specifically to conduct and improve polling place accessibility through Election Assistance for Individuals with Disabilities (EAID) Grant (Section 261).   This Grant, administered by the California Secretary of Stated to local counties, is mandated to be used in one or more of the following areas:
+1.      Polling Place Accessibility
+2.      Equal Opportunity
+3.      Accessibility Training
+4.      Access Information
+List of items were purchased by utilizing this grant for 2015-2016 Fiscal Year:  
+•    Website Accessibility Compliance Project
+•    Ramp Handrail Replacement in South Parking Lot at RR/CC
+•    Public Service Announcement 30 & 60 Seconds
+•    Replacement of Signs on all floors at RR/CC
+AppendixAppendix A•    Re-pavement and Restriping for Disabled Parking Spaces (visitor lot) at RR/CC
+•    Braille materials
+•    Lower Tally Room Window at RR/CC
+•    Modifying/Lowering 3rd floor Affidavit Distribution/Vote by Mail Counter at RR/CC
+•    Accessible sample ballot on web
+•    24 Milwaukee non-contact voltage tester
+•    24 Klein tools receptacle tester
+•    Field Rep. Training trips
+•    SOS Accessibility training
+•    Sample ballot booklet recording and ballot pages recording for voters on file
+•    Door stops
+•    Curbside Voting Signs (blank)
+•    Signature Templates
+•    Laser Distance Measure Pro Packs
+•    GPS Car Navigation Systems 
+•    ADA Code Tape Measurers
+•    JAWS (Job Access with Speech) Software
+
+
+
+
+
+Appendix C
+PSA Script-60 Second Spot
+"LA County Disability Voter " PSA ver.4 60sec 
+ 
+ 
+SHOT VIDEO AUDIO MUSIC  
+ 
+ 
+1 
+ 
+2 
+ 
+3 
+ 
+ 
+4 
+ 
+ 
+5 
+ 
+ 
+ 
+ 
+6 
+ 
+ 
+7 
+ 
+8 
+ 
+9 
+ 
+ 
+ 
+10 
+ 
+11 
+ 
+12 
+ 
+ 
+ 
+ EXT. DAY -  
+Possible out of focus flag backdrop 
+ 
+VOTER IN WHEELCHAIR 
+ 
+BLIND VOTER 
+ 
+DEAF VOTER (signing) 
+ 
+ 
+Various shots of above voters 
+ 
+Stylized shot of polling place,   
+BLIND VOTER being assisted by THEIR FRIEND, and VOTER IN WHEELCHAIR enters polling place. 
+ 
+Various polling booths and devices 
+Shots of accessible equipment being used / and or disable person using poll booth 
+Voter listening to recording 
+ 
+POLL-WORKER smiles to camera 
+ 
+POLL-WORKER helping disabled person 
+ 
+POLL-WORKER helps VOTER cast their ballot curbside 
+ 
+ 
+VOTER prepares vote by mail ballot 
+ 
+WEBSITE GRAPHIC 
+ 
+GRAPHIC of website address and telephone number on screen until end. 
+ 
+ 
+  
+VARIOUS VOICES:  
+ 
+"My Vote... " 
+ 
+"My Vote... " 
+ 
+"My Vote Counts" 
+ 
+FEMALE VOICE OVER:  
+ 
+Voting independently and privately is your right 
+ 
+Los Angeles County strives to use fully accessible poll sites or provides modifications to assure access to all voters with disabilities.  
+ 
+These polling places are equipped with wheelchair accessible booths, visual devices, and audio ballot booths where you can listen to your ballot choices.  
+ 
+Each polling place is staffed with friendly trained poll-workers who are ready to assist voters at every step of the voting process. 
+ 
+If you're unable to enter a polling place, curbside voting is available at all locations. 
+ 
+And if you like to get things done early, you can vote by mail. 
+ 
+To find a polling place, check accessibility, or register to vote,  learn more at lavote.net or call 562-4661310. 
+  
+ 
+ 
+ FADE IN 
+                                                                 Full Vision Productions Version 3.0                        
+ 
+ 
+13  
+VOTER (wearing "I voted" sticker) 
+ 
+GRAPHIC (bottom of screen): This message produced by the Los Angeles County Voting Accessibility Advisory 
+Committee and funded through Federal HAVA Election Assistance for Individual with Disabilities grant. VOTER 
+ 
+"Your voice, your vote"   
+Accessibility Service Program One Page Informational Flyer
+
+Accessibility Service Program One Page Informational Flyer (double sided) Large Font
+
+
+
+
+
+[1] Media Centre.  "Disability and Health" Fact sheet, World Health Organization, last reviewed November 2016, http://www.who.int/mediacentre/factsheets/fs352/en/.
+[2] Ibid.
+[3] Anthony Adornato. "BBI study reveals people with disabilities are sidelined in American politics,"  
+Syracuse University News, September 11, 2012, http://www.syr.edu/news/articles/2012/bbi.politics-09-12.html.

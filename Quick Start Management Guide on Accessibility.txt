@@ -1,0 +1,209 @@
+﻿
+
+
+The Quick Start Management Guide on 
+Accessibility is part of a series of brochures designed to highlight and summarize the information contained in the chapters of the U.S. Election Assistance Commission's (EAC) Election Management Guidelines (EMG). The goal of the EMG is to provide a collection of administrative practices, consolidated into one document, to assist State and local election officials to effectively manage and administer elections. These guidelines are designed solely to serve as a source of information for election officials. However, due to the need for election management resources, Quick Starts are released as they are completed. 
+The content of the EMG and the Quick Start Management Guides has been developed in collaboration with Federal agencies and disability organizations, as well as State and local election officials and other election professionals who have first-hand experience managing elections. The EAC is grateful for their participation to ensure that the guidelines are practical and applicable for jurisdictions regardless of their size and resources. The EMG and the Quick Starts are available online at www.eac.gov. 
+Introduction
+ •            Election officials work each day to         make elections more accessible to the public. Voting systems with improved accessibility have facilitated independent voting for some voters with disabilities for the first time in their lives. The added focus on making polling places accessible also serves to help people with disabilities to vote 
+        independently on Election Day. 
+ •            1 in 5 people in the U.S. has a          disability. "Disability" is defined by  the Americans with Disabilities Act  (ADA) as a physical or mental  impairment that substantially limits  
+        one or more major life activities, a          record of such an impairment, or          being regarded as having such an  impairment.  
+        -   Over half of all people who have a              physical disability are hard of hearing. 
+ •            Some disabilities are easily perceptible (e.g. persons in wheelchairs or who use assistance animals). However, many people with disabilities do not exhibit easily observable manifestations such as canes, guide dogs, or the use of sign 
+        language. Therefore, individuals who interact with the public should be 
+        perceptive and try to anticipate the         needs of people who may require assistance. 
+ •            people can experience disabilities         relating to hearing, speech, vision,         dexterity, mobility, or cognition. Other populations include those with 
+        environmental sensitivities to  substances, such as perfumes and air 
+        fresheners. Disabilities can range from         mild to severe. 
+ 
+•            "Accessibility" is a term that refers         to the removal of barriers that make  it difficult or impossible for some 
+people with disabilities to use something. it can refer to the 
+        physical environment (e.g., the polling place) or to technology (e.g.,the 
+        voting systems.) Working to improve accessibility for persons with 
+        disabilities supports increased         involvement in the electoral process. 
+ •            There are many laws that are designed to assist people with disabilities. Federal laws including the 
+    Americans with Disabilities Act (ADA)         and the Help America Vote Act (HAVA) cover accessibility issues such as the physical polling place, the voting 
+        activity, and the voting systems. State laws may also be helpful. For example, 
+        some State laws governing         information technology help to ensure         that elections offices websites are accessible to persons with disabilities.
+ •            Accessibility covers all aspects of running an elections office - 
+        registering to vote, accessing a           website, recruiting and training poll workers, entering a polling place, and 
+        casting a secret ballot.  Accessibility         needs are far-reaching, and have been         addressed by the EAC in several other         Quick Start Guides. They are "polling         places and Vote Centers;" "Ballot         preparation/printing and pre-Election         Testing;" "poll Workers;""Absentee         Voting and Vote by Mail;" "Media and         public relations;" and, "Serving         Voters in long-Term Care Facilities."  
+ •            The Quick Start on Accessibility         provides many examples of ways to         improve accessibility and to  incorporate these practices into all aspects of election administration. 
+Managing an Accessible Elections Office 
+Staff and Poll Worker Training 
+•     review all training material for full         and part-time staff and poll workers. 
+        Ensure that it includes accessibility training. 
+•     Example training videos include:
+-   Oregon's Assisting Voters with 
+              Disabilities Training Video               (http://www.sos.state.or.us/               elections/HAVA/avwdcaptions.  wmv) 
+-   North Carolina's State Board of 
+              Elections Accessibility Videos 
+              (http://www.sboe.state.nc.us/  content aspx?id=57) 
+•     Voters may not be aware of available accommodations for persons with disabilities. Because of this, poll 
+        workers and elections office staff should be trained to notice disabilities         and to offer to help. 
+ 
+-   For example, a voter may report               difficulty seeing where to sign-in at the check-in table. A poll worker               trained to identify voters who are               visually impaired might offer a               magnifying glass for the signature               sheet. Such an offer could also               serve as an opportunity to provide information about voting systems               with screen magnification options. 
+Tip:  It is best to face people when talking to them as opposed to speaking while looking down at the poll book. 
+•     Understanding a few tips in disability etiquette may help an election official 
+        to interact more effectively. Basics include: not making assumptions, 
+        asking before helping, and being sensitive about physical contact. it is 
+        better, for example, to offer an arm when leading someone who is blind to a voting station, rather than grabbing their arm and pulling them. 
+    Service animals, such as guide dogs,         are allowed in the polling place and it         is not appropriate to pet them while         they are working. Disability etiquette publications with further information 
+        can be viewed freely on the internet and make informative inserts in a poll worker training package. 
+Accountability 
+•     Discuss appointing a staff member in         the elections office with responsibility         for improving accessibility during election administration. 
+•     Encourage advance development of a         procedure for handling accessibility complaints or inquiries. 
+•     prepare information and instructions  for voters with disabilities about the 
+        processes to register to vote and for         using the accessibility features of voting systems. 
+Disability Outreach 
+•     review all printed material available 
+        to the public and offer it in alternative formats. For example, some 
+        jurisdictions provide large print         example ballots at the polls. if a document can be made available 
+        electronically on a website, then it         can be reviewed by voters before they go to the polling place. Consider         providing materials in large print and audio versions. 
+•     Create a partnership between State  and local jurisdictions and disability 
+        nonprofit groups to pool resources to  develop accessibility solutions. From 
+poll worker accessibility training to checklists for inspecting polling 
+        places, there are many resources         already available. Most of these can         be tailored to fit the needs of just about any jurisdiction. 
+Tip: Consider establishing an Accessibility Advisory Board within the jurisdiction.  Schedule regular meetings to solicit input and to gather suggestions and ideas about how to make the voting process and polling places more accessible to individuals with disabilities.  
+•     Outreach to Voters 
+-   Election officials might consider                developing an outreach plan to                raise awareness among voters with disabilities about accessible polling places and the accessible                elections program in the  jurisdiction. 
+-   The outreach might include the  following: 
+               ■ Do voters with disabilities know how to... 
+•     register to vote; 
+•     Use the accessible voting                   system? 
+               ■  Do voters with disabilities 
+know about various available     
+                   accommodations such as... 
+•     information in large print on paper; 
+•     The documents and other information viewable in advance on an elections website; 
+            ■ Do voters with disabilities know whom to contact if they have a 
+                problem? 
+•     Outreach to Government 
+-  Most States have a Governor's  Commission on Disability that advises the State on disabilities
+ issues. 
+-  Many counties also have local commissions that focus on 
+            improving access to government for individuals with disabilities.             These organizations may help             local election officials reach those individuals in the community who 
+might need information on the 
+            various accessibility accommodations. 
+•  Outreach to Nonprofits
+- reach out to the disability community             for assistance in circulating voter             registration information and voting materials and for poll worker 
+            recruitment.  Organizations in the community can assist election 
+            officials in providing information to their constituents. 
+- Disability organizations may be able to help locate individuals with disabilities or accessibility expertise 
+ to help evaluate voting systems as 
+            part of State or local procurement             processes. 
+  
+Tip:  When purchasing new voting equipment, reach out to the disabilities community to participate in the selection of the equipment. Continue to use them as a resource for ballot design and testing of the audio ballot. 
+•  Experienced staff of disability          organizations may be able to review          draft documents from an accessibility perspective. Such materials might include marketing materials, 
+         emergency evacuation procedures, voting instructions (including for audio ballots) and/or public service announcements.
+•  Disability organizations may welcome          an invitation to help present a   component of poll worker training on 
+ sensitivity to disability issues. 
+Information and Communications Technology 
+•     Technology related to election administration includes telephones, websites, voting systems, and 
+          electronic documents (such as an          online voter registration application). 
+•     internet accessibility evaluation tools          are software programs or online  services that help determine if a  website meets commonly accepted          accessibility standards and guidelines.          While internet accessibility evaluation          tools can significantly reduce the time          and effort to evaluate websites, no tool can automatically determine the accessibility of a website. Some of these tools can be used in combination 
+         to address specific aspects of the          evaluation process. Many, but not all,          of those software companies charge a fee for their tool.
+     -   A list of Web Accessibility Evaluation 
+              Tools can be found at the website of               the W3C Web Accessibility initiative: 
+              http://www.w3.org/WAi/rC/tools/
+     -   When posting information to a website, it may be easiest to               provide accessible materials in a               word processor-formatted               document or in HTMl. These               formats are more easily read by a               text-to-audio screen reader for use by an individual with 
+              impaired vision. 
+Tip: Consider using alt-tags for pictures, graphics, table and graphs. 
+Tip: To make websites more accessible, website designers may use the Electronic and Information Technology  Accessibility Standards issued by the U.S. Access 
+Board and Web Content  Accessibility 
+Guidelines (WCAG 2.0) developed by the W3C Web Accessibility Initiative. Web designers sometimes use web accessibility tools to make their jobs easier. 
+Providing an Accessible Voting Experience 
+Accessibility of the Physical Environment (Polling Place) 
+•     Election officials should review the  
+        ADA Checklist for polling places          (http://www.ada.gov/votingprt.pdf)              prepared by the U.S. Department of  
+        Justice, Civil rights Division,   
+        Disability rights Section.  
+•     Election officials should consider the impact all of the following can have on accessibility (See Quick Start Guide 
+        and EMG chapter on "polling place and         Vote Center Management"): 
+- parking 
+- passenger Drop-Off Areas 
+- Sidewalks and Walkways 
+- Building Entrances 
+- Hallways and Corridors 
+- Voting Area 
+- ramps 
+- Curbside Voting 
+•     Election officials should consider the         accessibility of alternate entrances         that voters may use to reach the polling place. 
+Programmatic Accommodations 
+•   look for inexpensive, tangible solutions,         such as providing a chair for individuals who have difficulty standing in a line at the polling place or posting voting 
+        instructions in large print. 
+•   intangible accommodations might mean         providing assistance to a voter as he or         she completes the ballot, if requested. 
+•   Acoustics 
+ 
+            - loud environments can increase                the stress level for everyone, but it is especially challenging for people 
+               who are hard of hearing. in addition, 
+people who must depend on hearing an audible ballot may need the accessible voting system 
+               placed in a quiet area. 
+•   One polling place creatively addressed  this by placing the voting system on an  accessible stage that was isolated by 
+curtains. 
+•   The use of inexpensive portable         assistive listening devices 
+        (approximately $120-$180) may help 
+
+voters and poll workers with hearing loss to understand speech in noisy
+ situations. 
+Tip:  Simple solutions can reduce echo and audio reflection, such as cloth table covers, framing and draperies, rugs on the floor, etc. 
+Accessibility of Voting Systems 
+•                Most voting systems have some          accessibility.  
+•                poll workers should describe         accessible voting systems in a         manner that encourages people to use         them. 
+•                persons with disabilities use a variety         of assistive technologies to address         vision, hearing, mobility, dexterity,         memory, reading and other functional         limitations. These individuals are         allowed to bring necessary assistive         technology (e.g., hearing aids,         neckloops, mobility aids, switches,         and magnifiers) into the polling location         and are encouraged to use assistive         technology to supplement the         accessibility tools available as part of a         voting system. 
+Long-Term Care Facilities and Mobile Polling 
+•                Develop an outreach program targeted         to nursing homes and long-term care         facilities. (See Quick Start Guide on 
+        "Serving Voters in long-Term Care 
+        Facilities") 
+•                Mobile polling involves election officials         bringing ballots to convenient and         accessible locations, such as long        term care facilities, and skilled, non        partisan election workers providing         assistance to voters upon request and         - where permitted - to register voters. 12
+Poll Workers 
+•    recruitment 
+-    recruit individuals with disabilities  to fill the job of poll worker. 
+                remember that the presence of a poll worker with disabilities may make voters with disabilities more comfortable in the polling place and more receptive to offers of assistance. 
+Example: In jurisdictions with a large deaf population, recruit poll workers who are trained in sign language. 
+-    reach out to community groups  that represent the disability 
+community. 
+-    Assign at least one poll worker in  each polling place with 
+responsibility for assuring that all available accessibility aids are present in the polling place and responding to voters and poll workers with disabilities. 
+•    ideas for improving conditions for poll  workers with disabilities 
+-    Split Shifts - Some poll workers  
+with disabilities would benefit
+ from having this option. 
+-    Do not forget about the  
+environmental sensitivities of
+ the voters and poll workers. 
+-    provide grip tools and magnifying  strips. 
+-    See the EAC'             s Successful                 practices for poll Worker                 recruitment, Training, and 
+                retention available at 
+http://www.eac.gov 
+1
+Tip:  Ask poll workers to complete a questionnaire following every election to determine additional needs and to also provide ideas and solutions for addressing accessibility needs on Election Day. 
+Accessibility Resources 
+American Association of People with 
+Disabilities http://www.aapd.com 
+American Bar Association Commission on Law and Aging Voting and Cognitive Impairments http://new.abanet.org/aging/Pages/ voting.aspx 
+Disability and Business Technical Assistance Centers (DBTACs) http://www.votingaccess.org/ 
+The Election Center http://www.electioncenter.org 
+National Federation for the Blind (Nonvisual Election Technology) http://www.nfb.org/nfb/HAVA_intro.asp 
+National Institute of Standards and 
+Technology http://vote.nist.gov 
+United States Access Board http://www.access-board.gov 
+Web Accessibility Initiative (WAI) http://www.w3.org/WAI/
+
+For information regarding this publication or to request additional copies at no cost, please contact: 
+Address 
+U.S. Election Assistance Commission 
+1201 New York Avenue, NW, Suite 300 
+Washington, DC 20005 
+Attn: Election Management Guidelines 
+Telephone 
+(202) 566-3100 
+(866) 747-1471 (toll free) 
+Fax 
+(202) 566-3127 
+E-mail Address 
+HAVAinfo@eac.gov 
+Website www.eac.gov 
+The EAC is an independent bipartisan commission created by the Help America Vote Act of 2002 (HAVA). it is charged with administering payments to states and developing guidance to meet HAVA requirements, implementing election administration improvements, adopting voluntary voting system guidelines, accrediting voting system test laboratories and certifying voting equipment and serving as a national clearinghouse and resource of information regarding election administration. 
+

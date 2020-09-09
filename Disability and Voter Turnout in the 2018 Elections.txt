@@ -1,0 +1,242 @@
+﻿                                                                 
+ 
+Fact sheet:  Disability and Voter Turnout in the 2018 Elections 
+Lisa Schur and Douglas Kruse1 
+ 
+Key points: 
+ 
+•   Voter turnout surged by 8.5 points in 2018 among citizens with disabilities relative to the 2014 midterm elections.  The surge, though, was slightly larger among citizens without disabilities (11.9 points), resulting in a 4.7 point gap in voter turnout between citizens with and without disabilities in 2018. 
+  
+•   The increased turnout among people with disabilities occurred across all disability types and demographic categories-gender, race/ethnicity, age group, and region. 
+ 
+•   14.3 million citizens with disabilities reported voting in the November 2018 elections. 
+ 
+•   Employed people with disabilities were just as likely as employed people without disabilities to vote, suggesting that employment helps bring people with disabilities into mainstream political life. 
+ 
+•   If people with disabilities voted at the same rate as people without disabilities who have the same demographic characteristics, there would be about 2.35 million more voters. 
+ 
+These figures are based on analysis of data from the federal government's Current 
+Population Survey Voting Supplement for November 2018, which has a sample size of 88,749.  The computations were made using six disability questions introduced on the Current Population Survey in 2008.   
+ 
+
+                                                             
+1  Professors at the School of Management and Labor Relations, Rutgers University, 50 Labor Center Way, New Brunswick, NJ, 08901, Lschur@smlr.rutgers.edu and Dkruse@smlr.rutgers.edu.  
+ 
+ 
+ 
+Disability and voter turnout in midterm elections 
+                                                                                                  Change                                                                            2010     2014   2018    2014-2018              People without disabilities                     45.9%  42.1%  54.0%   11.9%              People with disabilities                          42.8%  40.8%  49.3%     8.5%              Disability turnout gap                             -3.1%  
+ -1.3%   -4.7%     -3.4%              Hearing impairment                            50.0%  50.4%  57.0%     6.6%              Visual impairment                              39.5%  36.6%  49.5%   12.9%                  Mental or cognitive impairment         29.6%  27.8%  37.1%     9.3% Difficulty walking or climbing stairs 43.5%  40.7%  49.0%     8.3%              Difficulty dressing or bathing            32.4%  30.8%  39.4%     8.6%                          Difficulty going outside alone            32.9%  32.2%  37.9%     5.7%              
+ 
+     As shown above, among the voting eligible population (citizens age 18 or older), 49.3% of people with disabilities reported voting, compared to 54.0% of people without disabilities.  Within the disability population, the voting rate among people with hearing impairments (57.0%) was higher than the overall voting rate for people without disabilities, and the lowest rate was among those with a mental or cognitive impairment (37.1%).  For each disability group, the difference in turnout from those without disabilities is strong enough to be outside the survey's margin of error.[1]  
+ 
+            As also seen above, turnout dropped slightly from 2010 to 2014 for people both with and without disabilities, but increased markedly in 2018.  The 2018 increase was greater for people without disabilities so the overall disability turnout gap expanded in 2018.[2]   
+ 
+      An estimated total of 122.3 million people reported voting based on this survey, which is close to the total of 118.5 million ballots counted.[3]  Any misreporting is unlikely to differ between the disability and non-disability populations, so the estimate of the turnout gap should be unbiased. 
+ 
+      The estimated 14.3 million voters with disabilities compares with an estimated 15.2 million African-Americans and 11.7 million Hispanics/Latinos who reported voting in 2018, based on analysis of this voting supplement.  It should be noted that the disability total may be understated because these disability measures may not capture several types of disability.[4] Number of voters and non-voters in 2018 
+ 
+                                                                                                 Millions who reported: 
+                                                                                                 Voting             Not voting 
+          Overall                                                                           122.3               106.6 
+             People without disabilities                                            108.0                 91.9 
+             People with disabilities                                                   14.3                 14.7 
+ 
+              Hearing impairment                                                       4.8                 3.6 
+              Visual impairment                                                          2.1                 2.2 
+                 Mental or cognitive impairment                                     3.3                 5.6 
+                 Difficulty walking or climbing stairs                             8.2                 8.6 
+              Difficulty dressing or bathing                                        1.9                 3.0 
+              Difficulty going outside alone                                        3.9                 6.3 
+ 
+             People without disabilities in disability households        10.2                 9.8                  
+             Total in disability households                                          24.5               24.5 
+ 
+ 
+      Some of the disability turnout gap may be due to other demographic differences between people with and without disabilities.  When adjusted for gender, race, age, education, and state of residence, the estimated gap expands slightly from 4.7 points to 8.1 points.  This implies that if people with disabilities voted at the same rate as otherwise-similar people without disabilities, there would be an additional 2.35 million voters. 
+ 
+      Also, some of the lower turnout of people with disabilities is tied to difficulties getting to or using polling places.[5]  A variety of states and localities have made efforts to reduce barriers and increase turnout among people with disabilities.[6]  In addition, prior research has found the lower turnout is partly explained by lower levels of income, lower levels of political recruitment, and lower feelings of political efficacy.[7]    
+ 
+      Among the 108.0 million voters without disabilities, 10.2 million lived in a household with a person with a disability.  Combined with voters with disabilities, there were 24.5 million voters in disability households, equaling 20% of all voters. 
+Breakdown by employment status and demographics 
+ 
+      Disability turnout grew among all of the employment and demographic categories from 2014 to 2018.  There was no gap in voter turnout between employed people with and without disabilities in either year, indicating that employment helps provide resources and social contact that encourage voting.  The disability voting gap was concentrated among the non-employed, as shown in the numbers below.  The 2018 disability gap was also: 
+ 
+•      larger among women than among men, reflecting especially high voter turnout among women without disabilities; 
+•      larger among white non-Hispanics than among other race and ethnicity groups 
+•      smaller among the youngest (18-34) and oldest (65+) age groups 
+ 
+      Each of these disability gaps is strong enough to be outside the survey's margin of error except for the comparisons among the employed, Blacks, Hispanics, other race/ethnicity, those in the West, and men in 2014.  
+             
+ Disability No disability Disability gap   2014 2018 2014 2018 2014 2018 Overall 
+  40.8% 
+ 49.3% 
+ 42.1% 54.0% -1.3% 
+ -4.8% 
+  Employed 44.0% 53.9%           
+41.7% 54.5% 2.3% -0.6% Not employed 
+  40.2% 48.1% 42.9% 53.1% -2.7% 
+ -5.0% 
+  Women  
+40.3%  
+48.8%  
+43.4%  
+55.9% -3.1% -7.0% Men 
+  41.5% 
+ 49.8% 
+ 40.7% 52.1% 0.8% 
+ -2.3% 
+  White non-Hispanic 43.2% 51.2%  
+46.2%  
+58.4% -3.0% -7.2% Black 39.7% 49.2% 40.8% 51.7% -1.1% -2.6% Hispanic 29.1% 40.1% 26.8% 40.4% 2.3% -0.4% Other 
+  30.9% 
+ 38.8% 
+ 29.7% 42.3% 1.1% 
+ -3.5% 
+  Age 18-34 16.6% 25.6%  
+23.4%  
+38.8% -6.8% -13.2% Age 35-49 27.3% 37.6% 40.5% 53.6% -13.2% -16.0% Age 50-64 39.7% 48.0% 53.6% 62.6% -13.9% -14.6% Age 65+ 
+  50.6% 
+ 57.6% 
+ 63.3% 69.6% -12.7% 
+ -12.1% 
+  Northeast 37.4% 47.7%  
+40.1%  
+53.9% -2.6% -6.2% Midwest 42.1% 50.2% 44.6% 56.9% -2.5% -6.7% South 40.0% 47.4% 41.9% 52.1% -1.8% -4.7% West 43.8% 53.2% 41.7% 54.7% 2.1% -1.5%  
+Whether voted by mail and on election day 
+ 
+            Among voters with disabilities in 2018, only 53% voted at the polling place on election day, compared to 61% of voters without disabilities.  They were instead more likely to vote by mail before election day (29% compared to 20%), reflecting the mobility problems faced by some people with disabilities.  With the exception of the percentage voting at a polling place before election day, all of these disability gaps are strong enough to be outside the survey's 
+margin of error. 
+ 
+  Disability No Disability Disability Gap How voted in 2018:     At polling place on election day  52.9% 60.9% -8.0% At polling place before election day   16.4% 16.8% -0.4% By mail before election day  29.4% 20.3%  9.1% By mail on election day    1.3% 
+   2.0%  -0.7%       
+ 
+State Breakdowns in Voter Turnout 
+ 
+      The voter turnout gap between people with and without disabilities varied by state, as shown in the breakdown below.  It should be cautioned that the sample size is low in many states, which increases the margin of error and decreases the likelihood of finding a disability gap that exceeds the margin of error.  The disability gap in 2018 was large enough to be outside the margin of error (indicated by an "*") in 17 states and the District of Columbia, and was within the margin of error in the remaining 33 states.   
+ 
+  Disability No Disability Disability Gap     2014 2018 2014 2018      2014        2018   U.S. 40.8% 49.3% 42.1% 54.0%         -1.3%        *  -4.7%     
+Alabama                  
+33.8% 48.2%   
+44.3%   
+51.1%                
+     -10.5%        *  -2.9%   
+  Alaska 51.2% 52.6% 50.7% 52.8%          0.5%         -0.3%   Arizona 45.0% 59.5% 40.0% 58.8%          5.0%         0.7%   Arkansas 35.8% 45.5% 39.4% 42.1%         -3.6%         3.4%   California 
+  39.8% 49.5% 36.2% 52.1%          3.6%        *  -2.6%   Colorado                  
+58.5% 59.0%   
+59.4%   
+58.0%                
+        -0.9%         0.9%   
+  Connecticut 48.0% 53.1% 46.5% 54.1%          1.5%         -1.0%   Delaware 39.0% 47.2% 46.0% 52.3%         -7.0%         -5.2%   Florida 45.4% 51.6% 44.7% 52.8%          0.6%         -1.1%   Georgia 
+  37.3% 53.7% 44.1% 56.1%         -6.8%        *  -2.4%   Hawaii                  
+35.6% 47.0%   
+42.6%   
+43.6%                
+        -7.0%         3.4%   
+  Idaho 39.9% 39.6% 42.1% 49.2%         -2.2%         -9.5% * Illinois 41.1% 53.7% 41.8% 52.9%         -0.7%         0.9%   Indiana 29.7% 42.5% 35.8% 50.5%         -6.1%         -8.0% * Iowa 
+  53.2% 54.4% 52.8% 60.4%          0.3%         -6.0%   Kansas                  
+49.6% 53.4%   
+48.0%   
+57.4%                
+         1.6%         -4.0%   
+  Kentucky 44.7% 45.4% 48.3% 55.6%         -3.6%        -10.2% * Louisiana 48.5% 45.6% 50.5% 50.6%         -2.0%         -5.0%   Maine 51.2% 65.2% 63.5% 65.7%      -12.3%        * -0.5%   Maryland 
+  47.4% 41.8% 49.1% 55.8%         -1.7%        -14.1% * Massachusetts                  
+42.3% 47.8%   
+47.5%   
+56.5%                
+        -5.2%         
+-8.7%   
+* Michigan 50.1% 54.7% 46.7% 60.2%          3.5%        -5.5%   Minnesota 46.7% 45.7% 52.8% 65.2%         -6.1%        -19.5% * Mississippi 38.0% 53.4% 43.2% 54.3%         -5.3%        -0.9%   Missouri 
+          33.9%              51.3% 
+                         39.5%          55.7% 
+                       -5.6%        
+ -4.4% 
+   
+  Montana 42.9%  63.4% 51.3% 63.9% -8.3% * -0.5%   Nebraska 47.6%  42.2% 43.8% 52.0% 3.8%  -9.8% * Nevada 39.6%  49.6% 37.0% 48.6% 2.6%  1.0%   New Hampshire 50.6%  46.9% 50.1% 57.2% 0.5%  -10.3% * New Jersey 
+  31.6%  42.0% 37.1% 55.4% -5.5%  -13.4% * New Mexico   
+45.2%   51.4%   
+45.7%   
+47.5%  
+-0.5%  
+  
+3.9%   
+  New York 32.8%  43.6% 34.6% 50.3% -1.8%  -6.7% * North Carolina 44.2%  44.9% 46.5% 53.5% -2.3%  -8.6% * North Dakota 43.6%  61.6% 51.9% 61.9% -8.3% * -0.3%   Ohio 
+  37.3%  45.9% 40.1% 53.7% -2.9%  -7.8% * Oklahoma   
+37.5%   47.5%   
+33.6%   
+49.8%  
+3.9%  
+  
+-2.3%   
+  Oregon 53.8%  57.0% 55.9% 61.9% -2.1%  -4.9%   Pennsylvania 38.8%  51.7% 40.2% 55.1% -1.4%  -3.4%   Rhode Island 41.9%  47.2% 43.5% 52.1% -1.6%  -4.9%   South Carolina 
+  36.6%  46.6% 43.5% 49.1% -7.0% * -2.5%   South Dakota   
+44.7%   46.8%   
+44.0%   
+52.5%  
+0.7%  
+  
+-5.7%   
+  Tennessee 31.4%  38.5% 37.6% 51.4% -6.2% * -13.0% * Texas 38.4%  48.2% 34.2% 48.4% 4.2%  -0.2%   Utah 39.2%  53.9% 36.2% 58.1% 3.0%  -4.2%   Vermont 
+  31.2%  45.1% 44.2% 56.3% -13.0% * -11.2% * Virginia   
+40.4%   47.4%   
+41.8%   
+58.9%  
+-1.4%  
+  
+-11.5%   
+* Washington  46.7%  60.0% 50.6% 62.1% -3.9%  -2.1%   Washington, D.C. 45.3%  46.7% 52.1% 62.9% -6.8%  -16.2% * West Virginia 28.8%  37.6% 34.8% 45.7% -6.0%  -8.1% * Wisconsin 48.0%  55.4% 56.4% 65.8% -8.3% * -10.4% * Wyoming 43.5%  50.9% 39.9% 52.3% 3.6%   -1.4%          
+ 
+ 
+Voter Registration 
+ 
+      The disability voting gap is due in part to lower voter registration, but is due more to a lower likelihood of voting if registered.  Among people with disabilities, 66% were registered to vote, only 1.4 points lower than the rate for people without disabilities.  Among those who were registered, 75% voted, which was 6 points lower than for registered people without disabilities.  People with disabilities were more likely than those without disabilities to have registered at a town hall or registration office, public assistance agency, or registration drive, and less likely to have registered at a department of motor vehicles or using the Internet.                                   
+                         
+      Each of these disability gaps is strong enough to be outside the survey's margin of error, except for the gaps in registering by mail or at a polling place.        
+             
+  Disability No 
+Disability Disability Gap Registered to vote 65.7% 67.1% -1.4% Voted if registered 75.0% 80.6% -5.6% How registered to vote: 
+At a department of motor vehicles  
+27.3%  
+35.6%   
+-8.4% Went to a town hall or county/  government registration office 26.4% 18.1% 8.3% Registered by mail 14.8% 14.1% 0.7% Registered at polling place 7.7% 7.1% 0.7% Filled out form at a registration drive 5.4% 4.4% 1.0% At a school, hospital, or on campus 4.9% 6.1% -1.3% Registered using the Internet or online 4.1% 8.2% -4.0% At a public assistance agency 2.4% 1.1% 1.2% Other 7.0% 5.3% 1.7%  
+Why people were not registered 
+ 
+      The most common expressed reason for not registering to vote, among people both with and without disabilities, was a lack of interest in the election or politics.  About one-fourth of people with disabilities (26%) gave "permanent illness or disability" as their reason for not being registered. 
+ 
+      The disability gaps below are strong enough to be outside the survey's margin of error, except for the small disability gaps in "My vote would not make a difference," "Difficulty with English," and "Other reason." 
+ 
+ 
+If not registered to vote, why not: Disability No Disability Disability Gap   
+Not interested in the election or not involved in politics  
+35.5%  
+44.1%   
+-8.6% Permanent illness or disability 25.7% 1.6% 24.1% Not eligible to vote 6.1% 8.9% -2.7% Did not meet registration deadlines 6.1% 
+  13.7% 
+ -7.6% 
+    
+My vote would not make a difference 3.4% 3.7% -0.3% Did not know where or how to register 2.9% 4.7% -1.8% Difficulty with English 2.2% 2.1% 0.0% Did not meet residency requirements/did not live here long enough 1.8% 4.3% -2.6% Other reason 16.4% 16.9% -0.5%  
+Why people did not vote if registered 
+ 
+      Among those who were registered to vote but did not do so in November 2018, about two-fifths (41%) of people with disabilities gave "illness or disability" as the reason for not voting, compared to 8% of people without disabilities.  People with disabilities were also more likely to cite transportation problems as a reason for not voting (8% compared to 2%), consistent with their higher rate of voting by mail.  They were less likely than people without disabilities to say that they were not interested, too busy, out of town, or expected inconvenience. 
+ 
+      The disability gaps below are strong enough to be outside the survey's margin of error, except for the small disability gaps in "Didn't like candidates," "Forgot to vote," "Registration problems," and "Other." 
+ 
+Why didn't vote Disability No Disability Disability Gap   
+Illness or disability (own or family's)  
+40.9%  
+7.8%   
+33.1% Not interested, felt my vote wouldn't make a difference 12.1% 16.7% -4.6% Transportation problems 7.7% 2.1% 5.6% Too busy, conflicting work or school schedule 7.3% 31.7% -24.3% Didn't like candidates or campaign issues 5.8% 5.5% 0.3%   
+Forgot to vote (or send in absentee ballot)  
+5.7%  
+5.7%   
+0.0% Out of town or away from home 3.4% 10.7% -7.4% Registration problems (i.e. didn't receive absentee ballot, not registered in current location) 2.7% 3.3% -0.6% Inconvenient hours, polling place or hours or lines too long 1.7% 3.8% -2.0% Bad weather conditions 1.4% 0.4% 1.0% Other 11.3% 12.3% -1.0%  
+
+
+
+[1] The margins of error are based on a 95% level of confidence. 
+[2] These results cannot be directly compared to elections before 2008 because they are based on a measure of disability introduced by the Census Bureau in 2008.  Using similar measures, studies of prior elections have also consistently found disability turnout gaps (reviewed in Lisa Schur and Meera Adya, "Sidelined or Mainstreamed? Political Participation and Attitudes of People with Disabilities in the United States, Social Science Quarterly 94(3), 2013, pp. 811-839).  
+[3] http://www.electproject.org/2018g, accessed 4-27-19 
+[4] The disability questions measure the major sensory, mobility, and cognitive impairments, but may miss some learning disabilities, mental impairments, and physical conditions that do not necessarily limit mobility, such as epilepsy and cancer. 
+[5] The Government Accountability Office released a report on June 10, 2009 finding that only 27% of polling places in 2008 had no potential impediments to access by people with disabilities, which was an improvement over 2000 when only 16% had no potential impediments (GAO-09-685). A 2012 household survey found that 30% of citizens with disabilities who had voted at a polling place in 2012 said they encountered difficulties in doing so, compared to only 8% of citizens without disabilities (Lisa Schur, Mason Ameri, and Meera Adya. "Disability, Voter Turnout, and Polling Place Accessibility," Social Science Quarterly 98(5), November 2017, pp. 1374-1390).  
+[6] Lisa Schur, Meera Adya, and Mason Ameri. "Accessible Democracy: Reducing Voting Obstacles for People with Disabilities." Election Law Journal 14(1), 2015, pp. 60-65. 
+[7] The prior findings are summarized in Lisa Schur, Todd Shields, and Kay Schriner, "Voting," in Gary Albrecht, ed., Encyclopedia of Disability (Thousand Oaks, CA: Sage Publications, 2005), and Lisa Schur and Meera Adya, "Sidelined or Mainstreamed? Political Participation and Attitudes of People with Disabilities in the United States, Social Science Quarterly, 94(3), 2013, pp. 811-839. 

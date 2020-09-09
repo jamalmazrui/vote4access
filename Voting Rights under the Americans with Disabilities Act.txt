@@ -1,0 +1,200 @@
+﻿ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Voting Rights under the Americans with Disabilities Act:
+Are People with Intellectual or Psychiatric Disabilities Protected?
+ 
+ 
+Authored by:
+Michael J. King*
+Roufeda Ebrahim
+ 
+Updated: December 2007
+ 
+ 
+Prepared for:
+Shelley Kaplan, Director
+DBTAC: Southeast ADA Center
+http://www.sedbtac.org/
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I. Introduction
+       
+      The process of conducting elections is a massive and complicated undertaking.[1] However, federal law offers little direction, providing only a baseline standard that states must adhere to when conducting an election.[2] Beyond this standard, states are free to administer elections as they deem appropriate.[3] It is through state constitutions and statutes, that states establish the criteria of voter qualifications required for participation in both state and federal elections.
+       
+      Historically, people with disabilities have been disenfranchised by discriminatory state voting rules and procedures. Exercising their sovereign powers, states frequently have disenfranchised people with intellectual and psychiatric impairments, taking away their right to vote by deeming them "mentally incompetent" or because they are under guardianship.[4] For instance, in 1860, fourteen of the thirty-four states in the Union did not allow "insane people" or "idiots" to vote.[5] By 1880, another eleven states added disenfranchising language into their constitutions.[6]
+       
+      This trend continued and today, forty-four states have either statutes or constitutional provisions permitting the exclusion of some persons with disabilities from voting.[7] These statutes commonly refer to persons with intellectual and psychiatric disabilities as incompetent, mentally incapacitated or insane, and as idiots or lunatics among other stereotypes.[8] There are two theories on why laws were adopted to prevent people with various types of disabilities from voting. The first is that there was concern these classes of people were incapable of voting intelligently and independently.[9] The second theory is that this common public perception affected the views of policymakers while laws regarding voting rights were created.[10]
+       
+      The earliest challenge to these stigma-based labels by a court of law came from Baker v. Keller in 1968.[11] In the voting context, Baker defined an "insane person" as one who has "suffered such a deprivation of reason that he is no longer capable of understanding and acting with discretion and judgment in the ordinary affairs of life."[12] The court concluded that although the juror who signed the trial verdict had a diagnosed mental illness, he was not "insane," therefore still qualified as an elector.[13] Since he was still permitted to vote, he was thus qualified to sit as a juror.[14] Similarly, in a 1976 decision the Superior Court of New Jersey rejected the proposition that residency at a state school for the mentally retarded categorically disqualifies persons with mental retardation from voting.[15]  The court stated "a mentally retarded person need not be a[n] 'idiot' and a mentally ill person need not be 'insane.'" However, the court did not rule on how to make these distinctions.[16]
+       
+      Then in 1990, with passage of the Americans with Disabilities Act (ADA), Congress concluded that individuals with disabilities were "relegated to a position of political powerlessness in our society, based on characteristics that are beyond the control of such individuals and resulting from stereotypic assumptions not truly indicative of the[ir] individual ability ... to participate in, and contribute to, society."[17] Though once acceptable, the terms idiot, mentally incapacitated and other, today are misleading, and inaccurate. The voting issue was revisited in 1995 when the Supreme Court of Massachusetts ruled that persons with mental retardation may not be precluded from voting simply because they live at state-operated facilities for persons with mental retardation.[18] The court stated that "the words 'persons under guardianship' could not have been intended to foreclose competent adults from exercising the franchise. ... [and] to deprive numerous persons of a basic right of citizenship."[19] 
+       
+      These decisions recognize the right to vote was intended to hinge upon legal competence, not simply the diagnosis of mental illness or the residency of a person with mental retardation. Accordingly, the language, "idiot" and "insane persons," was intended to denote persons who have been adjudged incompetent by a court of law. Although these terms remain legally enforceable in many jurisdictions, other states are removing the archaic language and adopting more precise language to prevent those in a psychotic state from voting, without impairing the rights of all persons with psychiatric disabilities. For example, in 1978 Oklahoma amended its state constitution by removing the prohibition of "any idiot or lunatic" from voting.[20] Most recently in 1998, Idaho removed language in state law that prohibited people "under guardianship, idiotic or insane" from voting.[21]
+       
+ 
+ 
+ 
+ 
+ 
+II. State Laws Disqualifying People with Intellectual or Psychiatric Disabilities From Voting
+ 
+      The eight states below comprise the constituencies of the DBTAC: Southeast ADA Center (Southeast DBTAC). The information provided highlights current state constitutional and statutory language, some of which may be construed to prohibit people with intellectual or psychiatric disabilities from voting in that state.
+Note: Items underlined below were repealed or amended and are no longer valid.
+ 
+         Original Law                                                      Amendments
+Alabama:
+(1) Persons who are mentally incompetent, unless the disability has been removed.
+ALA. CONST. art. VIII, §182, repealed by Amendment 579. 
+ Amended June 19, 1996:
+(1) Every citizen of the United States who has attained the age of eighteen years and has resided in this state and in a county thereof for the time provided by law, if registered as provided by law, shall have the right to vote .... The Legislature may prescribe reasonable and nondiscriminatory requirements as prerequisites to registration for voting. ALA. CONST. art. VIII, §177(a)Florida:
+(1) Adjudicated, in this or any other state, to be mentally incompetent, until the disability has been removed. FLA. CONST. art. 6, §4(a)
+ 
+(2) Adjudicated mentally incapacitated regarding voting in this or any other state and right not restored. FLA. STAT. §97.041(2)(a)Amended Nov. 3, 1992:
+(1) No person convicted of a felony, or adjudicated in this or any other state to be mentally incompetent, shall be qualified to vote or hold office until restoration of civil rights or removal of disability. West's F.S.A. CONST. art. 6, §4(a)
+ 
+(2) There are no current amendments.Georgia:
+(1) Adjudicated mentally incompetent cannot register, remain registered, or vote unless the disability has been removed. G.A. CONST. art. 2, §1, ¶ III(b) 
+(1) There are no current amendments.Kentucky:
+(1) "Idiots" and "insane" persons "shall not have the right to vote." K.Y. CONST. §145(3) (Effective Sept. 28, 1891). 
+(1) There are no current amendments.Mississippi:
+(1) "Every inhabitant of this state, except idiots and insane persons ... shall be entitled to vote at any election." MISS. CODE ANN. §23-15-11 
+(1) There are no current amendments.North Carolina:
+No Constitutional disqualification provision.
+No disqualification election statute. 
+ 
+(1) Persons who are adult clients at a facility have the right to register and vote unless that right has been precluded by an unrevoked adjudication of incompetency. N.C.G.S.A. §122C-58 
+ 
+ 
+ 
+(1) There are no current amendments.South Carolina:
+(1) General Assembly shall establish disqualifications for voting by reason of mental incompetence and may provide for the removal of such disqualifications. S.C. CONST. art. 2, §7
+ 
+(2) Adjudicated mentally incompetent. S.C. CODE 1976 §7-5-120(B)(1) 
+(1) There are no current amendments.
+ 
+ 
+ 
+(2) There are no current amendments.Tennessee:
+No Constitutional disqualification provision.
+No disqualification election statute. 
+ 
+(1) No person with mental illness, serious emotional disturbance, or developmental disability hospitalized or admitted, whether voluntarily or involuntarily, or ordered to participate in non-residential treatment or service under this title shall, solely by reason of such hospitalization, admission, or order be denied the right to ... vote, unless; (1) The service recipient has been adjudicated incompetent by a court of competent jurisdiction and has not been restored to legal capacity; or (2) The denial is authorized by state or federal statute. TENN. CODE ANN. §33-3-102(a) (emphasis added). 
+ 
+ 
+ 
+(1) There are no current amendments. 
+III. The ADA and Voting
+ 
+      Title II of the ADA protects three categories of individuals with disabilities: 1) Individuals who have a physical or mental impairment that substantially limits one or more major life activities; 2) Individuals who have a record of a physical or mental impairment that substantially limited one or more of the individual's major life activities; and 3) Individuals who are regarded as having such an impairment, whether they have the impairment or not.[22]  Additionally, Title II of the ADA prohibits state and local government from denying persons with disabilities equal participation in, or the benefits of their services, programs, and activities.[23]  Several other federal statutes protect against disability-based discrimination, described briefly below.
+ 
+Federal Statutes
+ 
+Voting Rights Act of 1965, 42 U.S.C. § 1973 et. seq. (amended 1982).
+ 
+The 1965 version addressed subtle disenfranchisement based on race and color. The 1982 amendment allowed voters who needed help because of "blindness, disability, or inability to read or write" to get "assistance by a person of the voter's choice..." The Act does not ensure a private or independent ballot and did not address the physical accessibility of the polling place.
+ 
+Voting Accessibility for the Elderly and Handicapped Act, 42 U.S.C. § 1973ee et. seq. (1984).
+ 
+An important law designed to "promote the fundamental right to vote by improving access for handicapped and elderly individuals to registration facilities and polling places for Federal elections." The statute, however, only applies to federal elections, and allows states to define "accessibility."
+ 
+Americans with Disabilities Act ("ADA"), 42 U.S.C. § 12101 et. seq. (1990).
+ 
+This broad antidiscrimination law has had limited success in addressing access to the polls. Many commentators cite lack of enforcement as a problem. It required that "reasonable modifications to rules, policies, and practices" be made so as to prevent disability-based discrimination.  However, public polling locations, such as schools and churches, still remain inaccessible. Others suggest ineffective Federal Election Commission guidance on implementing the ADA.
+ 
+Help America Vote Act of 2002, 42 U.S.C. § 15301 et. seq. (2002).
+ 
+After the 2000 Presidential Election, Congress passed this election reform statute requiring every polling place have at least one accessible voting machine by 2006, "in a manner that provides the same opportunity for access and participation ... as for other voters."
+ 
+      Instead of abolishing the stigma-based denial of voting rights for persons with intellectual or psychiatric impairments, these statutes largely address physical and programmatic access. Because Congress has recognized the fundamental right of people with physical disabilities to vote, Schriner and Ochs argue that Congressional silence with regards to the rights of people with intellectual or psychiatric disabilities must be intentional.[24]  They add that the only other group of Americans who face such disenfranchisement are convicted felons.[25]
+ 
+      Most recent challenges of voting discrimination on the basis of disability have been pursued under the ADA.[26] Although the right to vote is not mentioned specifically in the ADA as a "service, program, or activity" provided by a Title II entity, courts uniformly have held voting is a "covered activity pursuant to Title II."[27] The voting "services, programs, or activities" offered by state and local government, when viewed in their entirety, must be readily accessible to and usable by people with disabilities, unless this would result in a fundamental alteration or cause an undue financial administrative burden.[28]
+ 
+Case Law
+       
+      Among ADA voter disenfranchisement cases, there are only two notable ADA challenges to state disenfranchisement of people with intellectual or psychiatric disabilities. Both also invoke constitutional challenges and address rights of persons under the legal guardianship of others.
+Doe v. Rowe[29]
+      In hopes of removing a voting prohibition from Maine's 200-year-old constitution, the Maine legislature asked residents on the November 2000 ballot, "[d]o you favor amending the constitution of Maine to end discrimination against persons under guardianship for mental illness for the purpose of voting?" Sixty percent of Maine residents voted to continue the ban against persons with mental illnesses.[30] Since constitutional amendments must be approved by a majority of the voters through referenda in Maine, the legislature turned to the federal court system for enforcement. 
+      In the case of Doe, three mentally ill plaintiffs under guardianship claimed that the legal authority preventing them from voting, Article 2, §1 of the state Constitution, violated the Fourteenth Amendment of the U.S. Constitution and federal disability discrimination statutes.[31] Maine's legislature was waiting for allegations such as these to arise in federal court and hoped they would lead to constitutional amendments giving those under guardianship for mental illness the right to vote. As anticipated, in 2001 a federal court struck down the provision that prohibits individuals under guardianship by reason of mental illness from voting. The court found that the Maine prohibition violated both the Equal Protection Clause of the U.S. Constitution and Title II of the ADA. The court also held that failing to give people notice of the constitutional provision before a guardianship hearing could cause them to lose their right to vote, thus violate their Due Process rights. The court stated that while it may be possible that some individuals under guardianship may lack the capacity to make some decisions, their capacity to understand what it means to vote may not be impacted. Whether "mental illness" is defined narrowly to include only psychiatric illnesses or defined broadly to encompass any kind of presumed mental incapacity, the state can never use mental illness as a proxy for mental incapacity with regard to voting.
+Prye v. Carnahan[32]
+      Legal advocates filed a lawsuit in federal court against the State of Missouri to end the practice of barring people from voting or registering to vote because they have been placed under court-ordered guardianship.  Missouri is one of 26 states that prohibit all people with mental disabilities who are under guardianship from voting.[33] The lawsuit alleged violations of the 14th Amendment of the U.S. Constitution, Title II of the ADA, and Section 504 of the Rehabilitation Act of 1973. The plaintiff, Mr. Prye, sought an injunction to allow him to register and vote in Missouri. In 2006, the court granted summary judgment to the State of Missouri, and dismissed the case.  The court noted that there was no automatic voting bar as related to persons under limited guardianship, which is not the same as full guardianship.[34] Also, the court found that the Missouri probate courts engaged in an individualized determination of capacity to vote on both limited and full guardianships.[35]
+IV. Conclusion
+ 
+      Voting access is a common problem for voters with disabilities face. However, voters with intellectual or psychiatric disabilities face a particularly insidious barrier to equal participation in the electoral process.  These barriers take form in state constitutions, state laws and election-day practices. The rationale for these laws and practices is that voters with intellectual or psychiatric disabilities do not understand the process or issues well enough to cast legitimate votes and are particularly susceptible to manipulation.[36] Of course, many voters without intellectual or psychiatric disabilities cast votes without being informed about the issues and without knowledge of voting procedure; however these voters are free to exercise their franchise. 
+       
+      While states have the ability to establish their own voting requirements, voting is a fundamental right protected by federal law.[37] However, neither federal law, nor the ADA has sufficiently protected the voting rights of persons with intellectual or psychiatric disabilities. There have been few challenges to this form of discrimination in federal courts. Until state law is amended or federal law forces the expansion of voting rights protection to those with intellectual or psychiatric disabilities, the education and training of election officials is paramount to ensuring election access to all voters with disabilities.
+       
+      According to the Center for an Accessible Society, many of the 33.7 million Americans with disabilities of voting age are deterred from voting on Election Day because polling locations are inaccessible or because poll workers deny them their rights.[38]  With regards to inaccessibility, the Department of Justice (DOJ) Technical Assistance Manual (TAM) indicates that Title II of the ADA requires equality of opportunity.[39] Voting is a benefit conferred upon eligible Americans. According to the ADA, this benefit cannot be denied on the basis of their disability. To comply with this requirement, the DOJ recommends, for instance, that although a registered voter is in a wheelchair, he cannot be denied the right to vote just because the polling booth is located on the second floor of a building lacking elevator access. Rather, the ADA requires the location of a booth on the first floor or access to the second floor for those with disabilities.[40] With regards to poll workers, Title II prohibits the denial of services or benefits solely because an individual has a disability.[41] For instance, a person with cerebral palsy may not be denied entry by a poll worker who mistakes their symptoms for intoxication.[42]
+       
+      To prevent poll workers from denying the right to vote to those with intellectual or psychiatric disabilities poll workers need to be educated on the federal and state rights of those voters and how to accommodate them. Election and state officials must comply with federal law by making polling booths physically accessible and by producing election materials and ballots with language that is accessible to people with intellectual or psychiatric disabilities (and to those with low literacy).  Additionally, it is important that voting rights education is provided to people with intellectual or psychiatric disabilities, as well as their families and service providers. The State of California has established minimum requirements that poll worker training sessions and materials must meet, which exemplify good practices:
+       
+All eligible citizens have the right to register to vote unless judicially determined to be incompetent or otherwise ineligible because of felony conviction. It is not up to poll workers to determine a person's registration qualification or competence to vote. Sometimes poll workers, upon seeing a voter who is disabled, may question the person's competence to vote. If the individual is properly registered, the voter must be treated in the same way as are all other voters. No voter, including a voter with psychiatric disabilities, is required to show any identification ... or to prove their competence to receive or cast a ballot.[43]
+ 
+       Furthermore, state legislative initiatives can reform state statutes so that exclusion of people with intellectual or psychiatric disabilities no longer occurs.  Finally, where legislative initiatives cannot be pursued, federal lawsuits may be necessary to challenge overbroad state laws or local policies and practices that disenfranchise voters with varying disabilities.
+
+
+
+* Mr. King and Ms. Ebrahim are 2008 and 2009 J.D. candidates at the Syracuse University College of Law working under the direction of William N. Myhill, M.Ed., J.D., Senior Research Associate at the Burton Blatt Institute (BBI) and Adjunct Professor of Law at Syracuse University; 900 S. Crouse Ave., Crouse-Hinds Hall, Suite 300, Syracuse, New York 13244; email - wmyhill@syr.edu; phone - (315) 443-1367. For additional information on related law and policy issues, see http://bbi.syr.edu.
+ 
+[1] Michael Waterstone, Lane, Fundamental Rights, and Voting, 56 Ala. L. Rev. 793, 825 (2005).
+[2] Id.
+[3] U.S. Const. Art II, § 2 & 14th & 15th Amend.; 42 U.S.C. §1973
+[4] Waterstone, supra note 1, at 827; see also 42 U.S.C. § 12101(a)(3) (2000); Kay Schriner, Democratic Dilemmas: Notes on the ADA and Voting Rights of People with Cognitive and Emotional Impairments,  21 Berkeley J. Emp. & Lab. L. 437, 439 (2000); Kay Schriner and Lisa Ochs, No Right is More Precious: Voting Rights and People with Intellectual and Developmental Disabilities 1 (May 2000), available at http://ici.umn.edu/products/prb/111/111.pdf 
+[5] Waterstone, supra note 1, at 828.
+[6] Schriner & Ochs, supra note 4, at 3.
+[7] Id. at 1.
+[8] Baker v. Keller, 237 NE2d 629, 633 (Ohio 1968). This case created a standard for defining "insane person". In the voting context, an "insane person" is a person who has "suffered such a deprivation of reason that he is no longer capable of understanding and acting with discretion and judgment in the ordinary affairs of life."
+[9] Schriner & Ochs, supra note 4, at 3.
+[10] Id. at 4.
+[11] Baker v. Keller, 237 NE2d at 632.
+[12] Id. at 638.
+[13] Id. at 636.
+[14] Id. at 633-34.
+[15] Carroll v. Cobb, 354 A.2d 355, 360 (N.J. Super., 1976).
+[16] Id.
+[17] 42 U.S.C § 12101(a)(7).
+[18] Boyd v. Bd. of Registrars of Voters, 334 N.E. 2d 629, 631 (Mass., 1995).
+[19] Id.
+[20] Schriner & Ochs, supra note 4, at 3.
+[21] Id. 
+[22] 42 U.S.C. § 12102(2)
+[23] Id. § 12132
+[24] Schriner & Ochs, supra note 4, at 4.
+[25] Id. at 5.
+[26] Waterstone, supra note 1, at 831.
+[27] 42 U.S.C. 12101(a)(3) (2000) ("Discrimination against individuals with disabilities persists in such critical areas as employment, housing, public accommodations, education, transportation, communication, recreation, institutionalization, health services, voting, and access to public services.").
+[28] 28 C.F.R. § 35.150(a) (2004).
+[29] 156 F.Supp.2d 35 (D. Me. 2001).
+[30] Eve Kupersanin, Judge Restores Voting Rights to Mentally Ill in Maine, Psychiatric News, Oct. 9, 2001, at 24, available at http://pn.psychiatryonline.org/cgi/content/full/36/20/24
+[31] 156 F.Supp.2d at 37.
+[32] No. 04-4248-CV-C-ODS, 2006 WL 1888639 (W.D. Mo. July 7, 2006).
+[33] Press Release, Bazelon Ctr. for Mental Health Law, Legal Advocates Challenge Missouri Voter Practices (Oct. 8, 2004), available at http://www.bazelon.org/newsroom/archive/2004/10-7-04mo_voting.htm
+[34] No. 04-4248-CV-C-ODS, 2006 WL 1888639 T 15 (W.D.Mo. July 7, 2006).
+[35] Id. at 14.
+[36] Nat'l Network on State Election Reform, National Network on State Election Reform 16, available at http://www.ndrn.org/issues/voting/reform/nsser.pdf (last visited June 8, 2007).
+[37] Article 25 of the International Covenant on Civil and Political Rights; Study Guide: The Right to Vote, available at http://www1.umn.edu/humanrts/edumat/studyguides/votingrights.html
+[38] The Center for An Accessible Society, People with Disabilities and Voting, available at http://www.accessiblesociety.org/topics/voting/
+[39] DOJ, Title II Technical Assistance Manuel § 3.3000, available at http://www.ada.gov/taman2.html (last visited June 8, 2007).
+[40] Id. § 3.3000; see also DOJ, ADA Checklist for Polling Places (Feb. 2004), available at http://www.usdoj.gov/crt/ada/votingchecklist.htm 
+[41] Id. § 3.2000.
+[42] Ctr. for an Accessible Soc'y, People with Disabilities and Voting, available at http://www.accessiblesociety.org/topics/voting/ (last visited June 8, 2007).
+[43] State of California, Poll Worker Training Guidelines (2006), available at http://www.ss.ca.gov/elections/poll_worker_training_guidelines_final_draft1.pdf 
+ 

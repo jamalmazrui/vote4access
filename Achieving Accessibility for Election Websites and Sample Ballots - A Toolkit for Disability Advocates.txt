@@ -1,0 +1,283 @@
+﻿ 
+ 
+Achieving Accessibility for Election Websites and Sample Ballots: A Toolkit for Disability Advocates 
+Prepared by the National Council on Independent Living with Support from the Aid Association of the Blind 
+ 
+November 2018 
+ 
+Contents 
+Introduction........................................................................................................................................................ 2 
+Section 1: Understanding Website Access Barriers................................................................................... 3 
+Section 2: Evaluating and Fixing Website Access Barriers....................................................................... 5 
+Section 3: Sample Ballot Access Barriers and Fixes.................................................................................. 6 
+Section 4: Advocacy for Barrier Removal..................................................................................................... 8 
+Appendix A: Sample Scripts......................................................................................................................... 12 
+Sample Script for Introduction/Outreach on Website Accessibility..................................................... 12 
+Sample Script for Introduction/Outreach on Sample Ballot Accessibility........................................... 13 
+Sample Script for Follow Up to Unresponsive Election Official........................................................... 13 
+Appendix B: Resource Lists...................................................................................................................... 13 
+Resources........................................................................................................................................................ 14 
+ 
+ 
+Introduction 
+ 
+When you think about voting accessibility for people with disabilities, what pops into your head? You probably think about accessibility of a polling place or the equipment you use to cast your ballot. While these are critical parts of voting accessibility, few people think about the accessibility of election websites. A county or state's election website is a one-stop shop for voters to find out everything they need to know about voting. They can learn about upcoming primaries and elections, find their precinct and its hours, learn what's on the ballot through downloading a sample ballot, and contact their election officials with any concerns. That is, if the website is accessible to them. And unfortunately, many of the thousands of election websites around the country have serious access barriers that prevent people who are blind, low vision, have mobility disabilities or cognitive disabilities from accessing this critical resource.  
+People with disabilities nationwide are stepping up to advocate for accessible election websites and sample ballots. In fact, these issues have reached the courts, where several important decisions have been made on mandating election website accessibility. In 2016, the New York Board of Elections agreed in a binding court document to make their online voter registration accessible, as well as make their online sample ballots accessible after a lawsuit was filed by plaintiffs including the National Federation of the Blind and Center for Independence of the Disabled in New York. In 2014, the United States District Court for the District of Maryland ruled on National Federation of the Blind et al vs. Linda H. Lamone et al, requiring the Maryland Board of Elections to allow voters to fill out absentee ballots online. However, these lawsuits need to be followed up with advocacy to see individual county elections office make these changes. Unfortunately, the accessibility of online voter registration has been so poor that a 2015 report by the American Civil Liberties Union found that only one state, California, had a fully accessible online voter registration system.  
+Dedicated advocates around the country continue to advocate for accessible election websites and sample ballots, and they need your help. The good news is that election offices have received federal funds which can be used to advocate for these changes to be done in your community. Once you understand the access barriers of election websites and sample ballots, advocating for changes is simple: you need to start up a conversation with your election officials and encourage them to make accessibility improvements. All it requires is commitment to learning about the issues, connecting with your elections office following up with them to convince them to make these improvements. Your advocacy will make the entire election process more accessible for people with a variety of disabilities.  
+This toolkit is designed to help you first understand the access barriers present in election websites and sample ballots, then help you to establish a relationship with your election official. You don't need a background in technology or website development to understand these issues, although any knowledge in this area will be helpful for understanding website accessibility from a technical perspective. After learning some of the most common access barriers on websites, you'll learn about a number of tools that can help you and the election office to evaluate their website's accessibility, as simulate the experience of users with disabilities. You will also learn about the standards that govern website accessibility and find lists of consultants and businesses that election offices can consult with to fix these barriers. We will then pivot to understanding access barriers of sample ballots and learn how to create accessible sample ballots. In the final section, you will learn how to approach your election official and learn best practices for establishing a relationship and advocating for accessibility improvements. In the appendix, you will find sample scripts for interacting with your election officials. 
+Thank you for your commitment to advocating for accessible election information in your community, and good luck with your advocacy! 
+ 
+Section 1: Understanding Website Access Barriers 
+ 
+According to the ACLU's Report "Access Denied: Barriers to Online Voter Registration for People with Disabilities," only one state-California-has a fully accessible online voter registration system. Now consider this: while there are only around 50 statewide voter registration systems, there are thousands of local and state election office websites around the country, and most likely, these websites have access barriers.  
+Those access barriers are not only an obstacle for voters with disabilities, they're actually illegal. According to Section 508 of the United States Workforce Rehabilitation Act of 1973, all electronic and information technology developed, procured, maintained, or used by the federal government must be accessible to people with disabilities. This means that election offices, who receive funds from the federal government, must comply with Section 508. However, few seem to know about this mandate or treat accessibility like an option, as opposed to a legal mandate.  
+The issue of website accessibility is something which some information technology professionals may be experts on, while others may not be familiar with it. The current universal standard for website accessibility is the Web Content Accessibility Guidelines 2.0. Because this document is lengthy and may be difficult to understand and implement, below is a list of common web access barriers and the solutions that are put in place to fix them: 
+1.            Skip navigation: Webpages usually have a significant amount of links, menus, and submenus at the top of the page before the actual content begins. For sighted users who can easily use a mouse, it is easy to skip those links and begin to read the actual content. However, for those who navigate with a screen reader or who use alternative methods, such as keyboard navigation, to get around a page, it is burdensome to have to go through those links. By providing a "skip navigation link," these users can easily skip to the content of your page 8 instead of having to navigate through all of the links and menus at the top of the page.  
+2.            Alternative text: Screen readers can't "read" an image to its user. However, by applying alternative text, or "alt text," in the HTML code of the page, you can convey the message of the image to screen readers through a description of the image. It is particularly important to include alt text if your image is an infographic or contains words or important facts about the candidates. To ensure that users of screen readers can consume this information, include alt text that clearly describes what is happening in the image.  
+3.            Use descriptive words for your links: how often do you see the words "click here" hyperlinked? While this may work for users who can clearly see what this link is referencing, many screen reader users who are searching for a link will search by the first letter of the link to find it. Instead of saying to click here, hyperlink words that describe the hyperlinked page.  
+4.            Ability to increase / decrease size of font: The ability to increase and decrease font size is one of those accessibility considerations that benefit both disabled and non-disabled users, as font size can be a preference that makes reading a page easier. However, for those who have low vision, the ability to increase the font size is necessary for them to read the content on a page.  
+5.            Plain language: the concept of plain language is simple but extremely beneficial: write your content in a style that easy for readers to understand when reading the first time through. This especially benefits people with cognitive disabilities. Try to keep your content free of political jargon. According to Harvard, here are a few other tips on plain language:  
+a.  Put information in logical order, with important details first  
+b.  Use an active, instead of a passive, voice in your writing  
+c.  Use familiar language, and provide definitions for words that may be unfamiliar to your audience  
+6.            Organize pages using headings: returning to the issue of the page's HTML code, your web designer should make sure to organize content using headings. Screen readers users use headings to understand the organization of the content. By nesting the headings for their rank, and ensuring that headings and their levels are not skipped or passed up in the code, it is much easier for screen reader users to understand the content on the page.  
+7.            Color contrast: Having sufficient color contrast between the text and the background of the webpage will ensure that the text can be read by those who have difficulty reading text. The Web Content Accessibility Guidelines (WCAG) 2.0 has specific contrast ratios considered necessary for an accessible webpage. There is a free tool by WebAIM that will evaluate your page's contrast ratio and it will let you know whether it's sufficient or it needs to be fixed.  
+8.            Label form fields: chances are that your website will have a way for visitors to fill out information. Whether it's to sign up for email alerts or to donate to your campaign, your website will probably have form fields. If your form fields aren't labeled, screen reader users won't know what information goes in each field and they won't be able to fill it out. Make sure that your 9 form fields are appropriately and explicitly labeled so that all users know the purpose of the forms.  
+9.            Caption your videos: this is another aspect of accessibility that benefits everybody, disabled and nondisabled. Closed captioning is essential for those who are deaf or hard of hearing to be able to watch your videos, whether it's a campaign advertisement or an online town hall playback. It's also useful for those who must listen at a low volume or are in a place where they can't listen to the video without bothering others, such as on public transportation. Search on a search engine to find many captioning services that offer competitive prices and fast turnaround time (usually around 24 hours), or purchase your own software to have a staff member or volunteer to caption the videos. If your videos are on YouTube, you have the option of creating captions both automatically and manually. If you create them automatically, make sure to proofread the captions to ensure that they are accurate.  
+10.         De-clutter your design: keep your page design simple and free of clutter. Not only will this benefit those with cognitive disabilities or those who have disabilities that cause sensory overload, but all of your visitors will benefit from a clean, streamlined design.   
+ 
+Section 2: Evaluating and Fixing Website Access Barriers 
+ 
+There are several tools, organizations, businesses, and resources available to help you identify, understand, and fix web access barriers. Some of these services are free and may require more effort on the part of your own organization, while others may cost but bring in outside expertise to fix the problem.  
+First, it's important to understand what the access barriers on the website are and what users with disabilities experience when they visit an election website. There are several free tools available to help with these. 
+Accessibility Checkers: 
+•      508checker.com is a free tool that allows a user to plug in their website to check the site's compliance to Section 508.  
+ 
+•      AChecker is a tool developed at the Inclusive Design Resource Center at the University of Toronto, and allows a user to check their webpage either by submitting the URL or the HTML file. It gives the option to check against various web standards, including Web Content 
+Accessibility Guidelines (WCAG) 1.0 and 2.0, HTML Validator, Stanca Act, and Section 508.  
+ 
+•      Accessibility Valet is a tool that is available for free use to check pages one at a time, or as a subscription for unlimited use. It allows the user to check a webpage against different sets of guidelines, including Web Content Accessibility Guidelines (WCAG) 2.0 and Section 508. 
+ 
+•      WebAIM WAVE is a free online tool that generates a report on access issues on a webpage. After typing in a website address, it will show the webpage with access issues flagged by embedded icons, and a panel on the side will show you more detail about the access issues and how to fix them. It is also available as a FireFox add-on.  
+ 
+•      Functional Accessibility Evaluator 2.0 is another free tool that generates reports on access issues based on the Web Content Accessibility Guidelines (WCAG) 2.0. 
+Accessibility Tools: W3.org has an extensive list of accessibility tools and checkers. However, below are a few tools that will help you understand how users with different disabilities experience a website or help you evaluate specific access issues.  
+•      ChromeVox is a Google Chrome Extension that functions as a screen reader, and will allow users to experience how a website will be read by a screen reader, a type of technology that reads a website for blind and low-vision users and users with certain mobility disabilities.  
+ 
+•      Funkify, created by Swedish accessibility experts, provides a Google Chrome Extension that allows the user to experience simulations of dyslexia, vision, motor, and cognitive disabilities.  
+ 
+•      NoCoffee is a Google Chrome Extension that allows users to change different parameters to understand what users with various vision disabilities may experience on a webpage. It provides options that gives insight into low acuity, low contrast sensitivity, colorblindness, 
+visual snow, glare, ghosting, cataracts, nystagmus, and obstructed visual field.  
+ 
+•      NonVisual Desktop Access (NVDA) is a free screen reader created by Australian nonprofit NV Access.  
+ 
+•      Toptal Color Blind Filter is a color blindness simulator. After inputting the webpage URL, choose a filter based on different types of color blindness and the tool will generate what the webpage looks like for those users.  
+ 
+•      WebAIM Color Contrast Checker is a free tool that allows a user to check whether a website has sufficient color contrast for users with vision-related disabilities.  
+ 
+•      YouTube has information available for content creators on how to add closed captioning to their videos. 
+Resource Lists of Accessibility Businesses and Organizations:  
+•      National Association of the Deaf provides a list of captioning vendors for individuals, organizations, and companies that need to have their audio and video content transcribed or captioned. 
+ 
+•      National Center on Accessible Education Materials provides a list of website accessibility consultants for companies and organizations to use as a starting point to research and improve their accessibility.  
+ 
+•      National Council on Independent Living keeps a list of accessibility resources, businesses, connections, and organizations online. Please note that this is an incomplete list, as there are countless organizations, consultants, and businesses working on web accessibility nationally and internationally. 
+ 
+•      National Federation of the Blind has a list of web accessibility consultants. As of the publication of this guide in November 2018, the list is under redevelopment.  
+Note on mobile accessibility: website accessibility and mobile accessibility, or the accessibility of websites viewed on mobile devices, are two different issues. The Web Content Accessibility Guidelines (WCAG) 2.0 apply to mobile websites as they do other websites; however, mobile sites are often configured in different ways to make them more user-friendly. You can learn more about mobile accessibility at W3 Web Accessibility Initiative. 
+ 
+Section 3: Sample Ballot Access Barriers and Fixes 
+ 
+What is a sample ballot? A sample ballot is a critical piece of voter education materials that is available through the local and often state election office. Using the voter's information, a sample ballot is a mock-up of the ballot that the voter will use on Election Day to cast their ballot. It informs them of what will be on the ballot, including candidates and ballot amendments.  
+Unfortunately, sample ballots are often inaccessible to people with disabilities who use screen reader technology, people who may be blind, low vision, or have mobility disabilities. These documents are frequently scanned copies of the ballot and uploaded as a PDF, which comes across to screen reader technology with no alternative text for the screen reader to read out to the user.  
+Election offices need to provide an accessible option of a sample ballot. These accessible options can include creating an accessible PDF or buying audio sample ballot or accessible sample ballot from a qualified vendor. 
+Testing PDF Accessibility: the first thing you will want to do is test whether a sample ballot is accessible to a screen reader. This can be done in a few ways. The best way would be to have a friend or colleague who uses a screen reader to evaluate the document, because then you are understanding the user experience and can convey that to the election office. However, there are other ways to evaluate a PDF: 
+•      PDF Accessibility Checkers: There are a number of free tools online that allow you to check a 
+PDF's accessibility, such as European Internet Inclusion Initiative and Common Look PDF Validator, which checks PDFs against Section 508 and Web Content Accessibility Guidelines (WCAG) 2.0. 
+ 
+•      There is free software available online that simulates a screenreader, such as Chrome Vox Extension for Google Chrome and NonVisual Desktop Access (NVDA). Please note that these may function differently than screen reader technology such as JAWS and Dragon.  
+ 
+•      Adobe Acrobat Pro has options for both creating accessible PDFs and verifying their accessibility.  
+Accessible PDFs: although scanned copies of the ballot are inaccessible, it is possible to create an accessible PDF of the sample ballot through a program such as Adobe Acrobat Pro. However, this option will take some work on behalf of the election office or city information technology department.  
+According to Accessibility U, a project of University of Minnesota, there are several characteristics of accessible PDFs, including: 
+•      Searchable text 
+•      Interactive form fields that allow users to enter information and use the TAB key to move from field to field 
+•      Navigational aids, like headings and logical tab order 
+•      Specified document language so that screen reader users can switch the target language for correct pronunciation 
+•      Document title 
+•      Document structure tags, such as headings and paragraphs 
+•      A logical order 
+•      Alternative text for graphics 
+•      Properly formatted tables 
+For more in-depth information on document accessibility, WebAIM has an extensive training course on Document Accessibility, including documents created in Word, PowerPoint, and Adobe Acrobat Pro.  
+To create your own accessible PDF, there are several options. However, please note that all of these options require time and effort by a staff member or volunteer to learn how to properly create these documents: 
+•      Convert a Word or Google Doc to PDF: One of the simplest options is to create a document in a word processing program like Microsoft Word or Google Docs, and then save as or export to, and choose the option "PDF." However, you still need to know how to make these documents accessible from the start. Accessible U has more information on the six core skills necessary for creating accessible documents. 
+ 
+•      Make your scanned PDF Accessible: it is very possible to make a scanned document accessible in a program like Adobe Acrobat Pro. This program uses optical character recognition to read the text of your scanned document. WebAIM has more information on this option.  
+ 
+•      Create an accessible PDF from scratch in Adobe InDesign: If you have access to Adobe InDesign, a desktop publishing software, you can create an accessible PDF from scratch. 
+Sample Ballot Technology Vendors: if you don't have time or staff resources to create your own accessible sample ballots, there are several vendors who can create them for you, and you lose the risk of human error on the part of staff who may not be familiar with document accessibility: 
+•      Democracy Live is an advanced election technology vendor that produces voting equipment and accessible voter information technology such as LiveBallot, which can be embedded directly into websites and shared by voters.  
+ 
+•      Sage Smith, LLC provides a number of advanced election technology products, such as Election Hub, which is composed of a series of Cloud-based websites. 
+ 
+Section 4: Advocacy for Barrier Removal 
+ 
+Now that you're familiar with website and sample ballot access barriers, as well as the common fixes that can be made to improve website and document accessibility, what can you do about it? Talk to your election official!  
+If you want to fix any election-related access barriers, it is imperative that you form a relationship with your local elections officials and work to sustain that relationship. If you reach out to them once or twice, set up a meeting, and then fail to follow up, chances are that they will not act on your requests, especially if an election will be happening soon. These offices are busy with their regular duties and get overloaded with work around the time of a primary or election, and so it's critical that you make efforts to not only connect with them, but also to stay in touch with them. Your goal is to build a sustainable, long-term relationship. Since both accessibility and election technologies and processes are constantly changing, there will always be ways to improve the accessibility of the voting process.  
+At first, it's best to approach election officials with a positive attitude and a willingness to work with them. This will help to calm any fears they may have that you'll be too demanding or overbearing, and may even begin to convince them that you will be a valuable resource with insights into the minds of voters with disabilities. With this attitude in mind, let's get started!  
+Step 1: Look Up Your Election Official: You should be able to find out your local election official's information from your county's website. If you can't find it there, you can also look them up at Verified Voting. Go to the menu bar at the top of the page and click Verifier. You can then look up your state and county using either the interactive map or the drop-down menu at the top left corner of the screen. You can also look up your state election officer's contact information through this website, which is very useful if you have concerns or advocacy interests at the state level. Verified Voting is also a very useful site for learning what election technology your county is using, if you plan on advocating for improvements to accessible voting equipment.  
+Step 2: Introduce Yourself and Request a Conversation: Once you've found your election official's contact information, write an email or make a call to their office. Keep this first contact short and clear, with the purpose of starting a conversation. A sample script is provided in Appendix A, but make sure that you include these elements: 
+•      Introduce yourself and identify yourself as a constituent and as a voter with a disability. If you are part of an organization or group, include your title and group name.  
+ 
+•      Identify why you are contacting them: "I wanted to reach out to you to start a conversation about (the election website, the document) and some barriers that we have identified for voters with disabilities."  
+ 
+•      Request a meeting: your first meeting could be an introductory phone call, but it would be even better if you request an in-person meeting. 
+ 
+•      Identify anybody who may be coming along with you; you don't have to list them all by name, but can say something along the lines of "I would like to include (group or person) in the conversation to share their experience and insights." 
+ 
+•      Thank the election official for their time. 
+Step 3: Follow Up: If you don't hear back immediately, don't despair! Election officials are busy and may not see your email or may ignore it. That's why it's critical to follow up.  
+•      After two or three business days, follow up with a quick phone call or email. Keep this very brief, only about two or three sentences referencing your last attempt to contact them.  
+ 
+•      If you haven't heard back after a week, send another follow up. If you've been communicating exclusively in one way, such as sending an email, switch it up and try giving them a call.  
+Handling Non-Responsive Election Officials: Sometimes, your election official may simply not respond. What do you do in this case? There are a few options: 
+•      If you are an individual advocate, try involving a local disability advocacy organization, such as an American Council of the Blind chapter, Center for Independent Living, local Arc chapter, state REV UP coalition, or the state Developmental Disabilities Council. There's power in numbers, and the election official may be more responsive to a group or organization. Furthermore, these organizations may already have existing relationships with the local election official. 
+ 
+•      Try somebody else in the office. Do some digging and see if the election official has a secretary or if there's another staff member in the office that you can contact. They may be more responsive to your communication.  
+ 
+•      Drop into the office! If all else fails, drop into the office or call the main line and explain what has been happening to the receptionist or a staffer within the elections office, and that your repeated attempts to contact the election official have failed. Ask for an explanation and how you can get an answer from their office.  
+Step 4: Set Up Your First Meeting: If you are successful in contacting your election official, congratulations! Now it's time to plan your first meeting. Here are some best practices for your first meeting: 
+•      Invite other disability advocates to the meeting: because this is your first meeting, you want to be cautious on who to invite. Don't invite too many people (keep it to three or four).  
+ 
+o   Here are some local organizations that may have representatives that you want to invite: 
+ 
+  American Council of the Blind 
+  Arc 
+  Center for Independent Living 
+  Statewide Independent Living Council 
+  Developmental Disabilities Council 
+  National Association of the Deaf State Association 
+  National Federation of the Blind 
+  REV UP Coalition (AAPD) 
+ 
+•      Make sure that you have a pre-brief with attendees beforehand to make sure that you are aligned on the meeting agenda and asks, and to brief them on any issues that you have been researching. You may wish to delegate certain issues or agenda items to certain participants. 
+ 
+•      Before the meeting, send a calendar invite and a summary of the agenda. If you're having a conference call, include the dial-in details. 
+ 
+•      During the meeting, make sure that all attendees have a chance to introduce themselves and to share their titles. 
+ 
+•      It may be a good idea to print copies of the agenda and to take relevant notes on the conversation. 
+ 
+•      Don't overload election staff with information, and take pauses to give them time to respond or ask clarifying questions. 
+ 
+•      Make clear asks of the election officials.  
+ 
+o   Clearly ask what you would like them to do, and ask them what challenges or barriers are in the way of accomplishing that ask. 
+ 
+o   If they identify barriers, ask them if you can help in any way to remove them, such as placing calls to other county officials or providing connections or other resources. 
+ 
+o   Ask them for a timeline on when they think they can accomplish the ask. 
+ 
+•      Make sure to follow up! A good follow-up should be sent the day of or after the meeting. Include: 
+ 
+o   A summary of what you discussed and any asks you had 
+ 
+o   Any resources or information you agreed to send them 
+ 
+o   Ask to set up a follow-up conversation or meeting, or a date by which to check in. If you can't get them to commit to that, follow up within a reasonable amount of time to gauge their progress 
+Step 5: Follow Up and Sustain Engagement: After your first meeting and follow up, what's next? There are several reasons to sustain the relationship with your election office. 
+•      Make sure that barriers are fixed: chances are that whatever issues you brought up in the first meeting are not going to be immediately fixed, if the elections office agreed to fix them at all. If you sustain the relationship, make it known that you're not going to quiet down about this issue, and continue to check in with the elections office, you can advocate more effectively for barrier removal and actually see accessibility improvements be made. 
+ 
+•      Engage on other voting issues: there are other accessibility issues that you can engage your election officials to improve, such as upgrading accessible voting equipment and poll worker training. Now that you have a relationship with your election officials, make yourself a resource to them on issues that impact the disability community so that they'll get your feedback when new issues arise. 
+ 
+•      Become a poll worker: one of the best ways to experience the election process is to become a poll worker, and the elections office will be excited to have you volunteer for them on Election Day! You will be able to experience their poll worker training (and give feedback on sections that pertain to voters with disabilities) and be present on Election Day to observe how a precinct functions; you will also be able to see whether a polling place is set up optimally for 
+voters with disabilities and if these voters have any difficulties. 
+ 
+•      Document Election Day access barriers: even if you're not a poll worker, if you experience a barrier or difficulty in casting your ballot on Election Day, you'll be able to start a discussion about this with the election office. Encourage friends, consumers, and fellow voters to document any issues they experience at the polls and have a discussion with your election official after Election Day on how these barriers can be eliminated and the voting process can be improved. 
+ 
+•      Hold a forum: invite your election official to your local center for independent living or a meeting of disability activists so that they can interact with other people with disabilities to learn about their voting experiences and concerns. This will give fellow advocates an opportunity to show that the disability community is engaged on voting rights. Alternatively, encourage your board of elections to host a voter access forum, something that is done by the Washington, DC Board of Elections so that voters with disabilities can engage with the elections office and voice feedback directly to their elections office.  
+ 
+Appendix A: Sample Scripts 
+ 
+Sample Script for Introduction/Outreach on Website Accessibility 
+ 
+Dear [Election Official], 
+My name is [name] and I am [title/organization/"a disability advocate"]. I am also a constituent and voter in [location]. I am reaching out to you to start a conversation on the accessibility of your election website. 
+Section 508 of the Rehabilitation Act of 1973 requires that any government entity that receives federal money must be accessible to people with disabilities. Unfortunately, many election websites still have several access barriers that keep people with disabilities from finding essential voting information like where and when to vote, who their candidates are, or even how to contact their election officials! When looking at your website, I found [insert concern or access barrier]. Luckily, there are several ways to fix these access barriers and make your website compliant with the law. I would like to meet with you to talk about my concerns and discuss solutions for fellow voters with disabilities.  
+Are you available to [meet with me/have a phone conversation] in the next week or two? I am available on [insert proposed days and times] and would also like to invite [advocates or organizations you're working with] to discuss this issue so that we can make sure that all voters have the same access to essential voting information.  
+Thank you very much for your time, and I look forward to hearing from you.  [Signature] 
+ 
+Sample Script for Introduction/Outreach on Sample Ballot Accessibility 
+ 
+Dear [Election Official], 
+My name is [name] and I am [title/organization/"a disability advocate"]. I am also a constituent and voter in [location]. I am reaching out to you to start a conversation on the accessibility of your sample ballots. 
+Section 508 of the Rehabilitation Act of 1973 requires that any government entity that receives federal money have accessible web content, including any documents online. Unfortunately, most election websites provide sample ballots that are inaccessible to screen readers, a technology that reads information to users with disabilities. Screen readers are frequently used by people who have blindness or low vision, as well as people with mobility disabilities that find it difficult to navigate a webpage. When I looked at your sample ballot, [insert problem or concern]. Luckily, there are many easy ways to make sample ballots accessible and compliant with the law. I would like to meet with you to discuss sample ballot accessibility and possible solutions so that voters with disabilities can access their sample ballot.  
+ 
+Are you available to [meet with me/have a phone conversation] sometime in the next week or two? I am available on [days/times] and would also like to invite [advocates/organizations] to discuss this issue.  
+ 
+Thank you for your time, and I look forward to hearing from you! [Signature]  
+ 
+Sample Script for Follow Up to Unresponsive Election Official 
+ 
+Dear [Election Official], 
+I am contacting you to follow up on the [phone call/email] I made on [date of previous communication] regarding the accessibility of [election office's] [website/sample ballot]. As I said in my previous communication, I have concerns about the accessibility of this information for voters with disabilities, and I would like to have a conversation with you about these access barriers and what can be done to fix them. Are you available to meet with me [by phone/in person] in the next week or two? Please let me know your availability so that we can set up a time to meet. 
+Thank you, 
+[Signature]  
+ 
+Appendix B: Resource Lists 
+ 
+This appendix lists all of the links contained in the toolkit by section or by list type. Reference this list and provide these resources, as appropriate, to your election officials when discussing the accessibility of their website or sample ballot.  
+ 
+Resources 
+ 
+Resources from Introduction and Section 1 (Understanding Website Access Barriers) 
+•      Access Denied: Barriers to Online Voter Registration for Citizens with Disabilities 
+•      Harvard University Online Accessibility: Plain Language 
+•      National Federation of the Blind et al vs. Linda H. Lamone et al 
+•      New York Online Voting Stipulation 
+•      Section 508 of Rehabilitation Act of 1973 
+•      WebAIM Contrast Checker 
+•      Web Content Accessibility Guidelines 2.0 
+•      YouTube Help: Add Your Own Subtitles and Closed Captions 
+Accessibility Checkers: 
+•      508checker.com 
+•      AChecker 
+•      Accessibility Valet 
+•      Functional Accessibility Evaluator 2.0 
+•      WebAIM WAVE 
+Accessibility Tools:  
+•      ChromeVox  
+•      Funkify 
+•      NoCoffee 
+•      NonVisual Desktop Access (NVDA) 
+•      Toptal Color Blind Filter 
+•      W3.org 
+•      WebAIM Color Contrast Checker 
+•      YouTube 
+Lists of Accessibility Businesses and Organizations:  
+•      National Association of the Deaf  
+•      National Center on Accessible Education Materials  
+•      National Council on Independent Living  
+•      National Federation of the Blind  
+PDF Accessibility Checkers: 
+•      Adobe Acrobat Pro 
+•      Common Look PDF Validator 
+•      Chrome Vox Extension 
+•      European Internet Inclusion Initiative 
+•      NonVisual Desktop Access (NVDA) 
+PDF Accessibility Information: 
+•      Accessible U, University of Minnesota: Creating Accessible PDFs 
+•      Creating Accessible Documents in Adobe InDesign 
+•      Six Core Skills for Document Accessibility 
+•      WebAIM Course on Document Accessibility 
+•      WebAIM: Making Scanned Documents Accessible 
+Resources from Section 4: Advocacy for Barrier Removal 
+•      American Association of People with Disabilities REV UP Campaign 
+•      American Council of the Blind State Affiliates 
+•      Developmental Disabilities Councils 
+•      Find an Arc Chapter 
+•      ILRU Directory of Centers and Associations (Independent Living) 
+•      National Association of the Deaf State Association 
+•      National Federation of the Blind 
+•      Verified Voting 

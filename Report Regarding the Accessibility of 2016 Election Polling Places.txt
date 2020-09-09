@@ -1,0 +1,139 @@
+﻿ 
+Report Regarding the Accessibility of 2016 Election Polling Places
+REV UP Campaign Election Accessibility Subcommittee
+June 2018
+ 
+Full political participation for Americans with disabilities is the top priority of the REV UP Campaign. The REV UP Campaign, launched by the American Association of People with Disabilities (AAPD) in 2016, is a nonpartisan initiative that coordinates with national, state, and local disability organizations to increase the political power of the disability community while also engaging candidates and the media on disability issues. The Campaign focuses on voter registration, education, access, and engagement. REV UP stands for Register! Educate! Vote! Use your Power!
+ 
+ 
+Executive Summary
+This white paper on the accessibility of 2016 election polling places has four sections:
+1)      Summary of the results of the Government Accountability Office (GAO) report on accessibility in the 2016 elections;
+2)      Report from Self Advocates Becoming Empowered (SABE) on accessibility challenges faced by people with intellectual and developmental disabilities;
+3)      Summary of the analysis by the Rutgers School of Management and Labor Relations of disability voter turnout in the 2016 election; and
+4)      Analysis of Voter ID laws and how they affected disability during the 2016 election.
+ 
+All these analyses show that people with disabilities face particular challenges in voting and voter registration. These challenges explain in large part the gap between voting by people with and without disabilities. The barriers range from physical accessibility limitations, such as a lack of accessible parking and ramps to voting machines that are difficult to use to a lack of poll worker training. The white paper concludes with recommendations to the Federal Government and to States to improve accessibility in subsequent elections.
+ 
+ 
+Part I. The 2017 GAO Report
+*         VOTERS WITH DISABILITIES: Observations on Polling Place Accessibility and Related Federal Guidance - US Government Accountability Office
+ 
+The Request for the Report
+The Government Accountability Office (GAO) Report was prepared in response to a request by Senator Charles Schumer, Senate Minority Leader; Senator Roy Blunt, Chairman of the HHS Appropriations Subcommittee; and Senator Robert Casey, Ranking Member of the Senate Subcommittee on Children and Families, for a report on accessibility of polling places in the 2016 election for persons with disabilities. GAO had completed similar reports for the 2000 and 2008 general elections.
+ 
+The GAO Review
+GAO reviewed a sample of 178 polling places including 45 early in-person voting places in 11 counties and 6 states as well as the District of Columbia, and 133 election day polling places in 21 counties in 12 states and the District of Columbia. The review included an analysis of features and activities both inside and outside the polling place.
+ 
+GAO sent teams of two GAO staff to each county in the study during early in-person voting from October 26, 2016, through November 2, 2016, and separately on Election Day, November 8, 2016. In addition, to determine the steps that states took to facilitate voting by people with disabilities, GAO administered a web-based survey to state election officials and the District of Columbia from January 2017 to May 2017. GAO staff also interviewed state election administration experts, officials at Election Assistance Commission (EAC), the Department of Justice (DOJ), and other state and local officials.
+ 
+Legal Requirements
+Authority to regulate elections is shared by federal, state, and local officials in the United States. The primary responsibility for the administration of federal and state elections rests with the individual states, typically the Secretary of State, and with local officials at the county or city level.
+ 
+Title II of the Americans with Disabilities Act (ADA) requires that people with disabilities have equal access to public services and programs. Although the ADA itself does not address voting places specifically, the implementing regulations and Department of Justice (DOJ) guidelines address voting accessibility. Additionally, the Help America Vote Act (HAVA) required that by January 1, 2006, each polling place have at least one voting system that is accessible by people with disabilities. HAVA also established the Election Assistance Commission (EAC) to serve as a clearinghouse and information source for election officials who administer federal elections. Both the ADA and HAVA create clear legal requirements for polling place accessibility. The challenge is to fully implement these requirements and to ensure that election officials, particularly those at the state and local level, are aware of these requirements and commit adequate resources to train and support polling place workers to ensure accessibility for voters with disabilities.
+ 
+Findings
+During the 2016 general election, approximately 137 million people voted. About 51 million people voted before Election Day. Since 2000, the number of people voting before Election Day has steadily increased.
+ 
+GAO found that 60% of the sampled voting places had one or more potential impediments. The most common impediments were to physical access outside of polling places, such as steep ramps, lack of signage indicating accessible routes, and poor parking or path surfaces. Of the 178 polling places sampled, 89, or 65%, had a voting station with an "accessible" voting system that could still impede casting a ballot. For example, some voting stations were not set up to accommodate people who use wheelchairs. Additionally, GAO found some variation in the extent to which accessible voting systems are provided for early in-person voting. GAO found one county without accessible voting systems at five of its early-voting locations. Four states reported to GAO that accessible voting systems are not required for in-person voting before Election Day.
+ 
+Most states that completed GAO's survey reported taking actions during the 2016 election to facilitate voting access for people with disabilities. 44 states reported having accessibility standards and 48 states reported at least one oversight activity. These results are encouraging. However, in many cases, the standards codified in state law are antiquated, and it is unclear if election officials are following state law or federal law as their primary guidelines when oversee elections. 
+ 
+In Part V of this white paper, we include recommendations based on these findings.
+ 
+ 
+Part II. The SABE Report
+*         2016 Voters with Disabilities Election Report - Self Advocates Becoming Empowered
+*         2014 Voters with Disabilities Election Report - Self Advocates Becoming Empowered
+ 
+Since 2000, Self Advocates Becoming Empowered (SABE) has provided training and technical assistance to increase the number of voters with disabilities. Following the 2014 and 2016 elections, SABE administered a "voter experience survey" to investigate issues surrounding voting for people with intellectual and developmental disabilities ("I/DD"). The purpose of the survey was to increase the number of voters with I/DD and provide technical assistance to improve their voting experiences. The essential question asked in the SABE survey was why people with I/DD are not voting.
+ 
+Voters with I/DD still rely heavily on others to get to the polls. In 2016, forty percent (40%) of voters got to the polls using friends, family, service providers, or public transportation. Only twenty-five percent (25%) of voters used their personal vehicles to get to the polls. Nine percent (9%) of voters walked or used their wheelchair. Additionally, twenty-two percent (22%) of voters used "other" means, like absentee mail-in ballots, to cast their votes. 
+ 
+Over two thirds (66%) of voters indicated they did not have physical accessibility issues at the polls. However, twenty-two percent (22%) of voters noted issues of physical accessibility, including problems with accessible parking, inability to locate the entrance or voting area, ramps or elevators being broken or difficult to use, or not enough space for wheelchairs in voting areas. Seventeen percent (17%) had "other" issues, likely related to absentee voting. Some voters experienced multiple barriers to voting.
+ 
+While at the polls, thirty-six percent (36%) of voters with I/DD required assistance from friends, family, service providers, or poll workers to cast their vote. Sixty percent (60%) were able to vote independently and four (4%) used "some other way" to vote. This is a two percent (2%) decrease in the ability of individuals with I/DD to vote independently between the 2014 and 2016 election.
+ 
+Poll workers continue to have the most direct effect on the experiences of voters with I/DD. One of every four voters with I/DD did not have a positive experience with a poll worker. Additionally, there was a dramatic decrease in the level of respect voters with I/DD felt from poll workers between 2014, at ninety-six percent (96%), compared to only forty-seven (47%) in 2016.
+ 
+In the 2016 election, one out of ten voters with I/DD wanted to use an accessible voting machine, however, only one third reported poll workers offered an accessible voting machine for their use. Nearly half, forty-eight percent (48%), were not asked if they wanted to use an accessible machine at all. Seventeen percent (17%) of voters stated poll workers did not know how to operate accessible equipment.
+ 
+The most dramatic change between the 2014 and 2016 elections are the methods in which individuals with I/DD chose to vote. In 2014, seventy-five percent (75%) of voters indicated they voted at the polling place, compared to only forty-three percent (43%) in 2016. The number of early voters doubled as well, with only ten percent (10%) in 2014, compared to twenty-seven percent (27%) in 2016. Similarly, the use of absentee mail-in ballots doubled between 2014, at fifteen percent (15%), and 2016, at thirty percent (30%).
+ 
+Many voters with I/DD indicated they are interested in alternative forms of voting. When asked what method would be easiest to use to vote, thirty-three percent (33%) responded that using a tablet or computer would be easiest for them. Thirty-one percent (31%) stated absentee mail-in ballots would be easiest method for them to vote. Absentee ballots are available in some version in all 50 states with 20 states needing an "excuse" to vote absentee ballot. Only three states - Oregon, Washington and Colorado - use all mail-in ballots for their elections. California anticipates implementing all mail-in ballots in the 2018 elections. Others states adopting this practice include Arizona, Hawaii, Nebraska, New Jersey, and Utah.
+ 
+In the 2016 election, eighty-six percent (86%) of voters with I/DD felt good about their voting experience. This is a dramatic decrease from 2014, when ninety-nine percent (99%) of voters indicated the same. When asked what could have made their voting experience better, eighteen percent (18%) of voters indicated they did not feel prepared to vote on candidates and issues. Fourteen percent (14%) of new voters indicated they had problems reading and understanding the ballots. Twelve percent (12%) stated more equipment availability and accessibility would increase their voting experience. Ten percent (10%) noted improvements in physical accessibility and four percent (4%) indicated voter privacy and signage would improve their experience.
+ 
+When asked if voters knew whom to call if they experienced issues with voting, forty-three percent (43%) stated they did not. One in five voters with I/DD stated they had not studied the candidates or issues before voting. The most popular way to obtain information regarding issues and candidates was through family, friends, and service provider staff, followed by the internet, talk shows, and candidate debates.
+ 
+We include recommendations based on this report in Part V.
+ 
+ 
+Part III. The Rutgers Study
+*         Fact sheet: Disability and Voter Turnout in the 2016 Elections - Lisa Schur and Douglas Kruse, Rutgers University
+ 
+Lisa Schur and Douglas Kruse at the Rutgers School of Management and Labor Relations conducted the study of voter turnout in the 2016 election. The Rutgers study was based on an analysis of data from the Federal Government's Current Population Survey Voting Supplement for November 2016. The computations were made using six disability-related questions introduced in the 2008 Current Population Survey.
+ 
+Key Findings
+*         16 million people with disabilities reported voting in the November 2016 general election.
+*         The voter turnout rate for people with disabilities was 6 percentage points lower than for people without disabilities.
+*         Employed persons with disabilities were just as likely to vote as employed persons without disabilities, suggesting that employment helps bring people with disabilities into mainstream political life. 
+*         The voter registration rate for persons with disabilities was 2 percentage points lower than that of persons without disabilities.
+*         If people with disabilities had voted at the same rate as people without disabilities who have the same demographic characteristics, there would have been about 2.2 million more voters in the 2016 general election.
+ 
+Turnout and Type of Disability
+According to the Rutgers Study, turnout is correlated to the type of disability. The table below shows turnout for persons who have particular types of disabilities.
+ 
+GroupPercent VotingOverall61.4%People without disabilities62.2%People with disabilities55.9%  Hearing impairment62.7%Visual impairment53.7%Mental or cognitive impairment43.5%Difficulty walking or climbing stairs55.9%Difficulty dressing or bathing44.6%Difficulty going outside alone44.7% 
+Turnout and Other Demographics
+As indicated earlier, there was no difference in turnout between employed persons without disabilities and employed persons with disabilities. However, there were other noticeable demographic trends. The turnout disability gap was:
+*         Larger among women than men, reflecting especially high turnout among women without disabilities;
+*         Larger among white non-Hispanics than among other race and ethnic groups;
+*         Larger among those age 18-34 and 35-49 than other age groups; and
+*         Largest in the Northeast and smallest in the West.
+ 
+Turnout and Voting Process
+Among voters with disabilities in 2016, only 53% voted at their polling place on Election Day compared to 61% of voters without disabilities. Voters with disabilities were more likely to vote by mail (28%) compared to persons without disabilities (19%).
+ 
+Selected State Comparisons
+Some states had particularly significant voter turnout gaps between persons with disabilities and persons without disabilities. The average gap was 6.3 percentage points. The states with a gap of 10% or more are shown below.
+ 
+StateTurnout GapAlabama12.0%Delaware10.5%Indiana10.3%Kentucky17.6%Louisiana15.7%Minnesota11.2%Missouri10.3%Ohio12.3%Oregon14.9%Rhode Island12.1%South Carolina13.5%Virginia12.0%Washington, D.C.16.1%Wyoming11.6% 
+Why People Did Not Register
+There are significant differences between the responses of people with disabilities and people without disabilities to a question about why they did not register to vote. Of persons with disabilities, 45.3% responded that they were not interested in the election or not involved in politics, compared to 36.1% of persons without disabilities. Unsurprisingly, there was a large gap between people with disabilities (22.6%) and people without disabilities (1.6%) who said they did not register to vote because of a permanent illness or disability.
+ 
+ 
+Part IV. Impact of Voter ID Laws
+Thirty-four states now have some sort of voter identification law, based on a count by the National Conference of State Legislators. The states that require a photo ID are now up to seven; almost double the number in the 2012 election. Identification requirements by state can include a wide range of IDs. While some states have strict Government-issued photo ID requirements, others accept hunting or fishing licenses, utility bills, passports, birth certificates, paychecks, and bank statements with the voter's correct address. If an individual is unable to provide a permissible ID as defined by their state, their vote is thrown out. Of the fourteen states with a voter turnout gap greater than ten percent, ten of these states have enacted some form of Voter ID legislation. The National Association of State Legislatures outlines the voter ID requirements in each state.
+ 
+There are a number of barriers to voting by persons with disabilities that have been created by Voter ID laws. These include:
+ 
+Lack of Photo Identification
+More than 21 million Americans do not have Government-issued photo IDs. This is especially true among the disability community where many individuals do not have drivers' licenses and use a special state-issued ID that may not meet the requirements of Voter ID laws. In order to obtain a government-issued ID, an individual must take affirmative steps to acquire one, including collecting their records, physically visiting their local government office, and reporting to their state election authority when they move. Moreover, people with disabilities are often required to move more frequently, especially during emergencies or because of the circumstances associated with receiving health care. Therefore, the lack of consistency in their addresses can create additional challenges for receiving a vote ID.
+ 
+In addition to these problems, service providers for people with disabilities are often not provided with the resources necessary to ensure each of their clients has the documentation necessary to obtain a government-issued ID. In turn, individuals with disabilities are unable to vote if their state has enacted some kind of Voter ID law. 
+ 
+Expense of Obtaining Identification
+Even though many states now offer free government IDs, prospective voters are still required to incur significant expenses to obtain one. The background documents required to obtain the ID cost money and time. In order to get an ID, many states require proof of identity, proof of legal U.S. residency, and proof of a social security number. Estimates of the costs of obtaining these documents range from $75 to $175 for document fees, travel expenses, waiting times to obtain documents, and related expenses.
+ 
+After collecting all relevant documentation as required by the state, an individual is then required to apply in person to obtain an ID. The travel required is especially a burden for voters with disabilities, the elderly, and persons in rural areas without access to public transportation. Moreover, some state counties do not have a place that can provide a government ID and people are required to travel great distances in order to obtain one.
+ 
+ 
+Part V. Recommendations
+1)      We strongly recommend that all 50 states make a concerted effort to analyze accessibility limitations at their polling places, both on Election Day and for in-person early voting. Furthermore, we recommend that each state, through their Secretary of State or other appropriate official, provide guidance to all polling place officials well in advance of the 2018 election cycle and future elections.
+2)      The Department of Justice (DOJ) guidance on accessibility of polling places does not clearly specify the extent to which federal accessibility requirements are applicable to in-person voting. Since that is an increasingly important approach to voting for all persons, it is important for DOJ to provide specific guidance in that area. In particular, DOJ should make clear that accessibility requirements apply to early in-person voting.
+3)      The SABE report demonstrates there are still significant barriers to voting access for individuals with I/DD. Physical accessibility remains a concern, particularly getting into a polling location and the reliability of voting machines. In regards to poll workers, SABE suggests training poll workers on disability etiquette and ways to meet the needs of voters with I/DD. Including individuals with I/DD in training sessions was also noted as beneficial. 
+4)      Given the dramatic increase in the use of alternative methods of voting, we agree with SABE's suggestion that Secretary of State Offices and Election Officials work with individuals with I/DD to improve absentee mail-in ballots, including electronic remote ballot marking that allows a disabled voter to reach and mark their ballot privately and independently. Individuals with I/DD should be included in this discussion to ensure these methods are accessible. This discussion should also include a review of electronic ballot marking tools, which could help voters with disabilities cast their ballot.
+5)      States should ensure that their voting laws are consistent with federal law with regard to accessibility, especially for elections that are not under federal jurisdiction. States should also provide their election officials better guidelines for ensuring accessibility.
+6)      The United States Election Assistance Commission, DOJ, and states should communicate with state and local election officials regarding the findings described in this white paper.
+ 
+
+ 
+Acknowledgements
+The American Association of People with Disabilities (AAPD) would like to thank and acknowledge the REV UP Election Accessibility Subcommittee for helping us develop this Report Regarding the Accessibility of 2016 Election Polling Places. Special thanks to:
+*         Edward Correia
+*         Mark Leamen, Disability Rights Iowa
+*         Corrigan Lewis, Missouri Protection and Advocacy Services
+ 
+ 
+ 

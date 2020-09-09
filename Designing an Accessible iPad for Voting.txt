@@ -1,0 +1,177 @@
+﻿
+Designing an Accessible iPad Voting Case
+
+ 
+
+Thank you to Whitney Quesenbery and Daniel Castro of ITIF, without whom this project would not have been possible.
+Jorge Silva, of Komodo OpenLab, also deserves much thanks for his immense help with the Tecla Shield.
+Thank you, finally, to my coworkers at GTRI: 
+Brad Fain, Linda Harley, Carrie Bell, Cara Fausset, Christina Harrington and Patrick Lambert. You guys are awesome!
+i
+
+ii
+table of contents
+introduction the problem 
+designing for accessibility electronics 
+form design + prototyping final concept 1
+8
+12
+18
+22
+30iii
+iv
+
+For individuals with disabilities, voting 
+at a polling place can be a self-
+     conscious, anxiety-ridden, and frustrating experience. Sometimes, even getting to a polling location can be a physical impossibility. 
+For these reasons and others, over 26% of Americans chose to participate in early or absentee voting in 2012.
+But what happens when one's condition is such that even the absentee and early voting alternatives are not a viable option? How can we ensure that all voters have equal access to this fundamental right? 
+
+
+However, the iPad isn't a perfect device. If it will be used repeatedly for 
+individuals with a wide range of abilities, it needs to be augmented to quickly 
+and efficiently work for all users.
+  Therefore, an idea was proposed in an OpenIDEO challenge to design a 
+specialized case that would enhance and expand the 
+iPad's existing accessible feature set.
+The image on this page is the original idea that was submitted to OpenIDEO in early 2012. It was one of 11 winning concepts chosen.
+the OpenIDEO winning concept
+7
+The OpenIDEO challenge was sponsored by the Information Technology & Innovation Foundation (ITIF) who released a call for proposals for their Accessible Voting Technology Initiative soon after. GTRI proposed and was awarded a grant to continue work on the iPad voting case concept.  
+Goal:
+Design a case that extends the Apple iPad's integrated accessibility features, enabling it to serve as a universal absentee ballot marking device.
+•     Portable design allows the case to be brought to voters, rather than the other way around.
+•     Ballot marking device can be deployed to hospitals, rehab clinics, and assisted living facilities, among other locations.
+the project goal
+
+THE PROBLEM
+                        U.S. Population                               Adults aged 65+
+Of the entire U.S. population, 12.2% (~38 million) are living with a disability, whereas 
+Annual Disability Statistics 
+Compendium, from 2011 American Community Survey
+www.DisabilityCompendium.org the state of disability today36.7% (~14 million) of the 65+ population are living with a disability.
+Hearing Disability
+
+57.3% of the eligible disabled voting population voted (14.7 million people), while 64% of people without disability voted (116.4 million people), a 7% disparity, though there was only a 3% gap in the voter registration rate.
+                        With A Disability                        With No Disability
+By mail before election day
+how individuals voted, 2008 electionSidelined or Mainstreamed? Political Participation and Attitudes of People with Disabilities in the 
+United States, Lisa Schur and Meera Adya, 2012At polling place before election day
+By mail on election day
+At polling place on election day
+Almost 25% of the disabled voting community voted by mail/ absentee (~3.6 million people), compared to only 14.4% of the non-disabled population (~16.8 million people). Many of the individuals with disabilities cited transportation problems as their reason for not voting or for voting absentee. 
+
+voting equipment type by state
+
+The Help America Vote Act (HAVA) requires every polling location to have at least one voting system that is accessible to people with disabilities. However, this requirement does not guarantee that these machines are ready for use or that the poll workers are familiar with these machines. Direct Recording Electronic (DRE) systems are the most accessible option, but there are still 18 states where these systems are unavailable. 
+DESIGNING FOR ACCESSIBILITY
+target populations for iPad voting case
+
+mobility impaired
+examples: para-, tetra-, or hemiplegia, amputation, CP, MS, dexterity issues etc.
+•     switch access (including sip + puff)
+•     large target sizes (touchscreen)
+•     low physical effort
+cognitively impaired
+examples: learning disabilities, head injury, etc.
+•     highly intuitive interface• low reliance on memory older adults
+examples: 65+ individuals, arthritis, etc.
+•     approachable technology
+•     simple interface
+visually impaired
+examples: blindness, glaucoma, cataracts
+•     audio interface
+•     tactile controls
+•     high contrast display
+•     large font
+•     braille display supporthearing impaired
+examples: deafness • easy to read screen
+
+needs analysis: visual impairment focus group
+With a very visual and non-tactile device like an iPad, designing for the visually impaired population is one of the most difficult challenges. Because of this, a focus group was run with 10 individuals with varied visual impairments to better understand the inherent barriers and difficulties that they face while using iOS devices and while voting.  
+participant quotes
+
+On the benefits of the iPad's screen size: "The iPad - because of the size of the screen - gives me with my limited vision a sense of the shape or layout of something that I'm not able to do with magnification."
+On using a touchscreen and VoiceOver:
+"I was very skeptical about the touchscreen because of the lack of tactile stimulation, but once I began to play with it I realized that having this software so well integrated into the system was something that was an improvement."
+On bringing someone to help at the voting polls:
+"Who's to say everyone has someone to help them?"
+On not wanting to feel different or disabled: "And that's another beauty - that we're not using a different device than sighted people."
+On making the non-visual voting process easier: "What about just a forward and back button - you know because you're just going down box for box for box... That would make it very simple and not reinvent the whole wheel."
+On the benefits of the iPad's screen size:
+"There's just a little more room for error; you can be touching in a bigger quadrant and still be touching a letter."
+
+functional requirements of iPad voting case
+ Functional RequirementsCurrent iPad 
+Accessibility FeaturesFunctional 
+Improvements via voting caseHow to address technology gaps? touchscreen•    switch access •???tactile controls •hardware controls built in to navigate ballot stylus interaction•  screen reading/audio interface• via Apple VoiceOverhardware volume controls••case enlarges volume controls and makes them more accessiblemono audio•  braille support•   angle screen (reduce glare) •included stand to achieve optimal viewing anglehigh contrast display•   screen zooming•  lightweight•  easy to grasp •added thickness and contouring of case will aid in holdingdrop protection •robust plastic constructiondisable home key • prevents accidental pressesswitch access: partnering with Komodo OpenLab
+Komodo OpenLab currently makes a device called the Tecla Shield, which provides reliable bluetooth switch access to iOS devices. 
+Komodo provided GTRI with a prototype of the circuit board that powers the Tecla Shield. Having this makes both switch access and tactile controls possible.
+iPad + Komodo functionality
+
+         audio output         switch access           sip and puff access voiceover screen reading
+
+ELECTRONICS
+notional electronics diagram
+
+After mapping the electronics, a rudimentary assembly was constructed using the Tecla Shield board to test its functionality. The switch access technology was leveraged to connect a small accessibility switch. 
+A secondary function of the Tecla Shield allowed for 3 additional controls to be connected that can control the forward, backward, and select operations in the voting ballot application.
+prototyping the electronics
+
+ 21
+FORM DESIGN 
++ 
+PROTOTYPING
+23
+With the electronics plan validated, the next step is to package those components into a final case design.
+notional voting case design
+
+tactile control concepts
+
+pros and cons comparison
+high = ••• average = •• low = •Concept 1 - Built InConcept 2 PivotingConcept 3 DetachableConcept 4- 
+Hard MountedUsability     tactile control simplicity•••••••• tactile control flexibility••••••• low weight••••••• minimal accessories needed•••••••••• flexible screen angle•••••• versatility for users••••••••Engineering     case simplicity•••••••• electronics simplicity••••••• kiosk mounting potential•••••••••• ease of manufacture••••••••Usage     repairability•••••• durability••••••• ease of charging•••••••• anticipated reliability•••••••••TOTAL30223621refining the design direction
+The control concepts were brought to a number of voting and accessibility experts to obtain an outside opinion on their usability. Experts preferred the pivoting concept above all, followed by the hard mounted control concept. Their feedback led to a number of recommendations moving forward:
+•     Ability to slant screen is a must.
+•     Laptop form factor is familiar and easy to use, but unnecessary for the majority of users.
+•     Having detachable controls increases the device's serviceability if anything were to break.
+further ideation sketching
+
+
+
+The first pass of modeling was completed using "pink" foam, a lightweight, easy to shape foam. Shape was further examined, as were critical thicknesses and affordances for holding the case. 
+
+Another level of refinement was done using "sign" foam, a heavier, machineable foam. 
+voting case form and shape modeling
+                                                                       29
+Eventually, a sliding control concept was developed. A quick study model was made from foam core and hot glue to understand the nuances of the idea.
+A form model was then developed in CAD and 3D printed to ensure a good size and hand feel. 
+functional modeling and 3d printing
+FINAL CONCEPT
+30
+
+
+
+Accessibility                                Headphone Port      Carry Handle
+                                               Charging Port                                    Tactile Controls
+final components diagram
+33
+
+iPad case with attached accessories tactile controls
+
+34
+case features
+Large power button is easy to actuate, but located on the rear of the case to prevent accidental contact.
+Hand affordance makes carrying and transporting the case safe and easy.
+Large cutout in the rear of the case allows for a comfortable grip during use.
+Both 3.5mm jacks (for headphones and accessibility switch) are placed in a non-intrusive location for table top or lap top use. 
+Furthermore, when either of these devices are plugged in, the wires will not interfere with the screen visibility.
+A fully functioning prototype is currently being built, however, there are already a number of lessons that have been learned while working with the final electronics and CAD model. Examples are:
+•     A separate on/off switch for the Tecla Shield is needed, as it draws power from the iPad whenever the iPad is powered on.
+•     Prototyped components are often larger than final production parts, resulting in increased case size (for the prototype).
+Upon completion of these functional prototypes, a focus group and usability tests will be completed. Further refinements are expected to emerge from these efforts. Hopefully, enough will be learned to bring this voting case from a prototype to a reality.
+conclusions and future work
+
+
+ 
+

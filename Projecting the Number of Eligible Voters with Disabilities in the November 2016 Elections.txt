@@ -1,0 +1,290 @@
+﻿Projecting the Number of Eligible Voters with Disabilities in the November 2016 Elections 
+ 
+Revised with additional tables, September 8, 2016 
+ 
+Dr. Lisa Schur 
+Professor and Chair 
+Department of Labor Studies and Employment Relations 
+Rutgers University (schur@work.rutgers.edu) 
+ 
+Dr. Douglas Kruse 
+Distinguished Professor 
+School of Management and Labor Relations 
+Rutgers University (kruse@smlr.rutgers.edu) 
+ 
+ 
+      The number of eligible voters with disabilities is growing with the aging of the population and advances in medical technology.  This brief report summarizes projections of how many people with disabilities will be eligible to vote in the November 2016 elections, based on analysis of data from the Census Bureau's 2010-2014 American Community Survey combined with Census Bureau population projections. The methodology is described at the end of the report. 
+The key findings, as shown in Table 1 and pictured in Figure 1, are: 
+•      A projected 35.4 million people with disabilities will be eligible to vote in the 
+November 2016 elections, representing close to one-sixth of the total electorate.   
+•      The number of eligible voters with disabilities has increased 10.8% since 2008, compared to an increase of 8.5% among eligible voters without disabilities.   
+•      There will be 62.7 million eligible voters who either have a disability or have a household member with a disability, more than one-fourth of the total electorate. 
+ 
+Table 2 provides a breakdown by major type of disability.  These figures show that 
+•      Mobility impairment will be the most common disability in November 2016.  A projected 20.2 million eligible voters will have mobility impairments, 12.2 million will have cognitive impairments, 10.6 million will have hearing impairments, and 6.3 million will have visual impairments.  (Note that these groups overlap since a person may have more than one type of disability.) 
+Breakdowns by age, sex, and race/ethnicity in Tables 3 and 4 show that: 
+•      Despite senior citizens having a higher likelihood of disability, there will be more eligible voters with disabilities under age 65 (19.3 million) than there are age 65 or older (16.0 million). 
+•      There will be slightly more women (18.5 million) than men (16.8 million) among eligible voters with disabilities. 
+•      The eligible voters with disabilities will include 25.2 million non-Hispanic whites, 5.1 million blacks, and 2.6 million Hispanics/Latinos. 
+•      The total number of eligible voters with disabilities (35.4 million) exceeds the total number of eligible voters who are black (28.7 million) or Hispanic/Latino (29.5 
+million). 
+•      Mobility impairments are the most common type of disability in each group except for the youngest (age 18-34), among whom cognitive impairments are the most common type of disability. 
+Breakdowns by college education, marital status, and personal income in Table 5 show that: 
+•      There will be 5.9 million eligible voters with disabilities with college degrees, representing 8.8% of all eligible voters with college degrees. 
+•      While about half of all eligible voters are married with a spouse present, less than  half of eligible voters with disabilities are married with a spouse present (14.9 million).  Eligible voters with disabilities are more likely to be separated, divorced, widowed, or never married (20.5 million total). 
+•      People with disabilities are disproportionately likely to be low-income.  The rate of disability is 21.8% among all individuals with less than $25,000 in personal income, and is only 6.2% among all individuals with more than $100,000 in personal income. 
+Finally, breakdowns by region and state in Tables 6 and 7 show that: 
+•      The South has the highest number (14.3 million) of eligible voters with disabilities, as well as the highest rate of disability among all eligible voters (16.8%), while the 
+Northeast has the lowest number (5.9 million) and percent with disabilities (14.7%).   
+•      Consistent with the above regional pattern, the states with the highest rate of disability among all eligible voters are West Virginia (24.1%), Kentucky (21.2%), Arkansas (21.1%), and Mississippi (21.0%). 
+ 
+      These figures show that people with disabilities constitute a sizeable share of the electorate, so their votes could influence election outcomes.  A key question of course is how many of them will actually vote.  Despite the barriers often faced by people with disabilities in exercising the right to vote,1 estimates from another government data source show that a 
+                                                             
+1 Among those who voted in a polling place in 2012, 30% of voters with disabilities reported some type of difficulty in voting, compared to 8% of voters without disabilities (Lisa Schur, Meera Adya, and Douglas Kruse, Disability, Voter Turnout, and Voting Difficulties in the 2012 Elections, report to the U.S. Election Assistance Commission, June 2013, at http://smlr.rutgers.edu/research-centers/disability-and-voter-turnout).  See the U.S. Government 
+Accountability Office (GAO) report at http://gao.gov/products/GAO-13-538SP, and the White Paper prepared by 
+Schur for the 2013 Presidential Commission on Election Administration at 
+https://www.supportthevoter.gov/files/2013/08/Disability-and-Voting-White-Paper-for-Presidential-CommissionSchur.docx_.pdf.   
+majority of people with disabilities reported voting in 2012, and their reported voter turnout was only 5.7 percentage points lower than among citizens without disabilities.[1]  How many will actually vote depends on the dynamics of the 2016 campaign, get-out-the-vote efforts, and extent of voting barriers facing people with disabilities.  Regarding political preferences, the limited prior evidence indicates that people with disabilities are similar to those without disabilities in patterns of party identification and placement on a conservative-liberal scale, but are more likely to favor a greater government role in health care and creating employment opportunities.3 
+ 
+Methodology 
+      These projections account for trends in age, sex, and race/ethnicity by using Census Bureau population projections broken down by these characteristics, combined with disability information from the American Community Survey.[2]  Four race/ethnicity groups were created (white non-Hispanic, Black, Hispanic, and other), and the full set of permutations with sex and single years of age (18-85, with 85+ combined into one category) created population projections for 544 demographic groups.  The 2010-2014 American Community Survey, which has a total of more than 12 million observations for individuals age 18 or older, was then used to calculate the percent of non-citizens, institutionalized people, and people with disabilities among noninstitutionalized citizens, in each of these demographic groups.  The Census projections for each group were adjusted for the estimated number of non-citizens and institutionalized people in order to estimate projected number of eligible voters in the total population. Within each group, the disability rate was multiplied by the projected number of eligible voters to derive projections for eligible voters with and without disabilities in 2016 and 2017.  Since the Census Bureau provides projections for July 1 of each year, we estimated the November 2016 population by adding one third of the difference between the 2016 and 2017 projections (representing 4 months) to the 2016 projection.  The Census Bureau does not do population projections by state, so the state and regional numbers in Tables 6 and 7 are based on our projections of eligible voters with and without disabilities separately in each state using 2010-2014 data in the American Community Survey, adjusted to sum to the national projections. 
+      Estimates of disability vary by survey, depending on the questions used to identify disability, the defined population, and the survey method and context.  Using more extensive questions, the Survey of Income and Program Participation (SIPP) yielded a 2010 total estimate of 56.7 million people with disabilities, of which 51.5 million were age 15 or older but an unknown number were eligible to vote.[3]  The Current Population Survey (CPS) uses the same questions as the American Community Survey but has a different survey method and context, and yielded a 2012 estimate of 27.5 million citizens with disabilities age 18 or older.[4]  The 20102014 American Community Survey, which yields a disability prevalence between the SIPP and CPS numbers, was chosen for this report because it has more recent data than SIPP and a far larger sample than either the SIPP or CPS for generating reliable numbers to apply to Census population projections as described above.7 
+ 
+ 
+  
+
+             
+
+           Table 1:  Disability and the Electorate, 2008-2012 and Projected 2016                                                                                    
+Figures represent number of people eligible to vote.                                                                               
+               2008 2012 Projected 2016 Percent increase 
+2008-2016 Disability status of eligible voters 
+          Have disability  
+31,921,000  
+33,077,000  
+35,381,000  
+10.84%           No disability 174,893,000 183,162,000 189,766,000 8.50%             Percent with disability             15.43% 
+ 15.30% 
+ 15.71% 
+   Disability in households of eligible voters 
+          Any household member has disability  
+55,879,000  
+58,724,000  
+62,684,000  
+12.18%           No household member has disability 150,934,000 157,515,000 162,463,000 7.64%          Percent in disability household 27.02% 27.16% 27.84%   Based on analysis of American Community Survey combined with Census projections from https://www.census.gov/population/projections/data/national/2014.html.  
+ 
+             
+
+Table 2:  Disability in the Electorate by Type of Disability, 2008-2012 and Projected 2016 
+                                                               
+Figures represent number of people eligible to vote.                                                        
+
+Percent 
+                                                                                                                                    Projected           increase 
+                                                                                                                                        2016             2008-2016 
+Any disability                                                                                                          35,381,000            10.84% 
+       Mobility impairment  18,129,000 18,866,000 20,153,000  11.16% Difficulty going outside alone  12,394,000 12,939,000 13,600,000  9.73% Cognitive impairment  10,960,000 11,605,000 12,230,000  11.59% Hearing impairment  9,599,000 9,718,000 10,563,000  10.04% Difficulty with self-care  6,458,000 6,850,000 7,420,000  14.90% Visual impairment  5,930,000 5,739,000 6,289,000  6.05%             
+Based on analysis of American Community Survey combined with Census projections from https://www.census.gov/population/projections/data/national/2014.html.  
+ 
+             
+
+Table 3:  Demographic Breakdown of Projected Electorate by Disability Status, 2016 
+                                                    
+Figures represent number of people eligible to vote.                                                                       
+  Have disability No disability Total Percent with disability Age 18-64 19,350,000 160,786,000 180,136,000 10.74% Age 65+ 
+                 16,030,000 
+ 28,980,000 
+ 45,010,000 
+ 35.61% Age 18-34 4,247,000 64,712,000 68,959,000 6.16% Age 35-49 4,984,000 48,647,000 53,631,000 9.29% Age 50-64 10,119,000 47,427,000 57,546,000 17.58% Age 65-74 6,832,000 19,864,000 26,696,000 25.59% Age 75+ 
+                 9,198,000 9,116,000 
+ 18,314,000 
+        50.22% Female 18,540,000 97,560,000 116,100,000 15.97% Male  16,840,000 
+ 92,206,000 
+ 109,046,000 
+ 15.44%  
+White non-Hispanic 25,160,000 129,593,000 154,753,000 16.26% Black 5,124,000 23,540,000 28,664,000 17.88% Hispanic/Latino 3,622,000 25,884,000 29,506,000 12.28% Other race/ethnicity 1,475,000 10,749,000 12,224,000 12.07% Based on analysis of American Community Survey combined with Census projections from https://www.census.gov/population/projections/data/national/2014.html.  
+
+                                    Table 4:  Demographic Breakdown of Projected Electorate by Type of Disability, 2016                                                                                                                                                                                                                                                                                  
+                                                                                                                                
+                All eligible voters Have disability  Mobility impairment   Difficulty going outside alone  Cognitive impairment   Hearing impairment   Difficulty with self-care   Visual impairment Number of eligible voters 
+ Age 18-64                  
+180,136,000   
+19,350,000  
+9,867,000                   
+6,834,000  
+8,198,000  
+3,908,000                   
+3,513,000 3,358,000  Age 65+   45,010,000 
+                 16,030,000 
+ 10,286,000 
+ 6,766,000 
+ 4,032,000 
+ 6,655,000 3,727,000 
+                 2,931,000  Age 18-34 68,959,000 4,247,000 1,072,000 1,583,000 2,626,000 623,000 616,000 735,000  Age 35-49 53,631,000 4,984,000 2,425,000 1,845,000 2,294,000 902,000 916,000 881,000  Age 50-64 57,546,000 10,119,000 6,370,000 3,405,000 3,277,000 2,383,000 1,981,000 1,743,000  Age 65-74 26,696,000 6,832,000 4,249,000 2,103,000 1,441,000 2,483,000 1,214,000 1,103,000  Age 75+  18,314,000 
+                 9,198,000 6,037,000 
+ 4,663,000 
+ 2,591,000 
+ 4,172,000 
+ 2,513,000 
+ 1,828,000 
+  
+ Female 116,100,000 18,540,000 8,343,000 5,526,000 5,895,000 6,260,000 3,067,000 2,841,000  Male  109,047,000 
+                 16,840,000 
+ 11,810,000 
+ 8,074,000 
+ 6,335,000 
+ 4,303,000 4,174,000 
+                 3,448,000  
+ White non-Hispanic 154,753,000 25,160,000 14,159,000 9,420,000 8,184,000 8,479,000 4,948,000 4,112,000  Black 28,665,000 5,124,000 3,237,000 2,143,000 1,977,000 813,000 1,184,000 1,084,000  Hispanic 29,505,000 3,622,000 1,966,000 1,419,000 1,471,000 871,000 798,000 808,000   Other race/ethnicity 12,224,000 1,475,000 791,000 618,000 599,000 400,000 310,000 285,000 Percent of all eligible voters 
+ Age 18-64                  
+100.0%  
+10.7%  
+5.5%  
+3.8%  
+4.6% 2.2%                  
+2.0% 1.9%  Age 65+   100.0% 
+                 35.6% 
+ 22.9% 
+ 15.0% 
+ 9.0% 
+ 14.8% 8.3% 
+                 6.5%  Age 18-34 100.0% 6.2% 1.6% 2.3% 3.8% 0.9% 0.9% 1.1%  Age 35-49 100.0% 9.3% 4.5% 3.4% 4.3% 1.7% 1.7% 1.6%  Age 50-64 100.0% 17.6% 11.1% 5.9% 5.7% 4.1% 3.4% 3.0%  Age 65-74 100.0% 25.6% 15.9% 7.9% 5.4% 9.3% 4.5% 4.1%  Age 75+   100.0% 
+                 50.2% 
+ 33.0% 
+ 25.5% 
+ 14.1% 
+ 22.8% 13.7% 
+                 10.0%  Female 100.0% 16.0% 7.2% 4.8% 5.1% 5.4% 2.6% 2.4%  Male  100.0% 
+                 15.4% 
+ 10.8% 
+ 7.4% 
+ 5.8% 
+ 3.9% 3.8% 
+                 3.2%  
+ White non-Hispanic 100.0% 16.3% 9.1% 6.1% 5.3% 5.5% 3.2% 2.7%  Black 100.0% 17.9% 11.3% 7.5% 6.9% 2.8% 4.1% 3.8%  Hispanic 100.0% 12.3% 6.7% 4.8% 5.0% 3.0% 2.7% 2.7%   Other race/ethnicity 100.0% 12.1% 6.5% 5.1% 4.9% 3.3% 2.5% 2.3% Based on analysis of American Community Survey combined with Census projections from https://www.census.gov/population/projections/data/national/2014.html.  
+ 
+ 
+            Table 5:  Additional Demographic Breakdowns of Projected Electorate by Type of Disability, 2016                                                                                                                                                                                                                                                                      
+                                                                                                                                
+    All eligible voters Have 
+disability  Mobility impairment Difficulty going outside alone  Cognitive impairment   Hearing impairment Difficulty with selfcare   Visual impairment     (1) (2) (3) (4) (5) (6) (7) (8) Number of eligible voters                       
+ College degree  
+66,582,000 5,876,000                  
+3,007,000  
+1,840,000  
+1,479,000  
+2,139,000  
+1,048,000 952,000  No college degree        158,564,000 
+ 29,505,000 
+ 17,087,000 
+ 11,715,000 
+ 10,717,000 
+ 8,421,000 
+ 6,177,000 
+ 5,329,000  Married, spouse present 111,433,000 14,849,000 8,326,000 4,674,000 3,718,000 5,413,000 2,639,000 2,400,000  All other marital status               113,713,000 
+ 20,532,000 
+ 11,769,000 
+ 8,882,000 
+ 8,477,000 
+ 5,147,000 
+ 4,587,000 
+ 3,881,000  
+ Personal income                                       
+ <$25,000  
+111,754,000  
+24,403,000  
+14,552,000  
+10,687,000  
+9,735,000  
+6,041,000  
+5,573,000 4,504,000  $25,000-49,999 56,208,000 6,747,000 3,625,000 1,961,000 1,661,000 2,600,000 1,106,000 1,136,000  $50,000-99,999 40,849,000 3,214,000 1,489,000 703,000 636,000 1,420,000 420,000 494,000  $100,000+ 
+                  16,336,000 
+  1,017,000 
+  429,000 
+ 204,000 
+                  164,000 
+ 499,000 
+                  126,000 
+  147,000 Percent of all eligible voters                  
+ College degree  
+100.0%  
+8.8%  
+4.5%  
+2.8%  
+2.2%  
+3.2%  
+1.6% 1.4%  No college degree        100.0% 
+ 18.6% 
+ 10.8% 
+ 7.4% 
+ 6.8% 
+ 5.3% 
+ 3.9% 
+ 3.4%  
+ Married, spouse present 100.0% 13.3% 7.5% 4.2% 3.3% 4.9% 2.4% 2.2%  All other marital status               100.0% 
+ 18.1% 
+ 10.3% 
+ 7.8% 
+ 7.5% 
+ 4.5% 
+ 4.0% 
+ 3.4%  
+ Personal income                                       
+ <$25,000  
+100.0%  
+21.8%  
+13.0%  
+9.6%  
+8.7%  
+5.4%  
+5.0% 4.0%  $25,000-49,999 100.0% 12.0% 6.4% 3.5% 3.0% 4.6% 2.0% 2.0%  $50,000-99,999 100.0% 7.9% 3.6% 1.7% 1.6% 3.5% 1.0% 1.2%           $100,000+                                                     100.0%                     6.2%                       2.6%                          1.2%                     1.0%                   3.1%                    0.8%                        0.9% 
+                                                                                                                                Based on analysis of American Community Survey combined with Census projections from https://www.census.gov/population/projections/data/national/2014.html.  
+ 
+ 
+ 
+ 
+ 
+                                           Table 6:  Eligible Voters by Disability Status and Region                                                  
+                                             
+                                                                                 
+              Have disability No disability Total Percent with disability                (1) (2) (3) (4) Number of eligible voters          
+                 Northeast 5,880,000  
+34,060,000           
+39,940,000 14.7%                  Midwest 7,542,000 40,322,000 47,864,000 15.8%                  South 14,276,000 71,372,000 85,648,000 16.7%                   West                                                   7,682,000                 44,013,000             51,695,000                              14.9% 
+                                                                                
+             
+ 
+                                             Table 7:  Eligible Voters by Disability Status and State                                                                                              
+                                                                                                                  
+    Disability No disability Percent with disability    Disability  No disability Percent with disability Alabama   663,000 2,812,000 19.1% Missouri  761,000  3,572,000 17.6% Alaska   65,000 441,000 12.8% Montana  131,000  635,000 17.1% Arizona   813,000 4,085,000 16.6% Nebraska  165,000  1,132,000 12.7% Arkansas   435,000 1,627,000 21.1% Nevada  369,000  1,634,000 18.4% California   3,490,000 22,524,000 
+ 13.4% 
+  New Hampshire  142,000  823,000 
+ 14.7% 
+   
+Colorado   525,000 3,389,000 13.4%  
+New Jersey  841,000  5,267,000 13.8% Connecticut   342,000 2,241,000 13.2% New Mexico  301,000  1,213,000 19.9% Delaware   95,000 617,000 13.3% New York  1,923,000  11,635,000 14.2% D.C.   73,000 475,000 13.3% North Carolina  1,236,000  6,026,000 17.0% Florida   2,467,000 12,623,000 
+ 16.3% 
+  North Dakota  70,000  467,000 
+ 13.0% 
+   
+Georgia   1,136,000 5,924,000 16.1%  
+Ohio  1,392,000  6,853,000 16.9% Hawaii   130,000 825,000 13.6% Oklahoma  523,000  2,169,000 19.4% Idaho   175,000 931,000 15.8% Oregon  548,000  2,317,000 19.1% Illinois   1,263,000 7,717,000 14.1% Pennsylvania  1,558,000  8,040,000 16.2% Indiana   812,000 3,771,000 
+ 17.7% 
+  Rhode Island  126,000  657,000 
+ 16.1% 
+   
+Iowa   323,000 1,894,000 14.6%  
+South Carolina  645,000  2,980,000 17.8% Kansas   299,000 1,649,000 15.3% South Dakota  94,000  504,000 15.7% Kentucky   673,000 2,499,000 21.2% Tennessee  919,000  3,828,000 19.4% Louisiana   562,000 2,784,000 16.8% Texas  2,644,000  15,244,000 14.8% Maine   177,000 782,000 
+ 18.5% 
+  Utah  257,000  1,584,000 
+ 14.0% 
+   
+Maryland   575,000 3,784,000 13.2%  
+Vermont  84,000  380,000 18.1% Massachusetts   687,000 4,235,000 14.0% Virginia  849,000  5,242,000 13.9% Michigan   1,234,000 5,848,000 17.4% Washington   814,000  4,073,000 16.7% Minnesota   512,000 3,347,000 13.3% West Virginia  332,000  1,047,000 24.1% Mississippi   448,000 1,690,000 21.0% Wisconsin  618,000  3,568,000 14.8%           Wyoming  64,000  361,000 15.1%  
+
+
+
+[1] See Table 6 at http://www.census.gov/hhes/www/socdemo/voting/publications/p20/2012/tables.html.  The rate of reported voter turnout in the cited survey cannot be simply applied to the figures presented here from the American Community Survey, due to differences in survey method and context as noted in the methodology section. 3 Lisa Schur and Meera Adya, "Sidelined or Mainstreamed? Political Participation and Attitudes of People with Disabilities in the United States, Social Science Quarterly, Vol. 94, No. 3, 2013, pp. 811-839. 
+[2] https://www.census.gov/population/projections/data/national/2014.html     
+[3] http://www.census.gov/prod/2012pubs/p70-131.pdf  
+[4] Table 6 at http://www.census.gov/hhes/www/socdemo/voting/publications/p20/2012/tables.html  7 Further details on methodology are available on request. 

@@ -1,0 +1,167 @@
+﻿
+
+
+Vol. 01
+
+Designing usable ballots
+First edition, third printing, 2013
+
+2                                                                                                                                                                                                                                                                                            3
+About the Field Guide series
+There have been excellent ballot design guidelines around since about 2007 when 
+the U.S. Election Assistance Commission 
+published AIGA's work in its report, Effective Designs for the Administration of Elections. Everyone involved in that project quickly fi gured out that, as juicy as the design specs were in that report, they needed to be boiled 
+down to essentials that local election offi cials could easily act on within the constraints they had. Field Guides To Ensuring Voter Intent were inspired by that need. 
+- Dana Chisnell, Field Guides Editor
+4                                                                                                                                                                                                                                                                                            5
+
+About this Field Guide
+We know now from several years of testing ballots all over the U.S. that implementing simple principles of design make it much more likely that voters are able to vote the way they intend. In research conducted by AIGA's Design for Democracy Project for the U.S. Election Assistance Commission (EAC), Mary Quandt and Drew Davies and their team learned the nitty-gritty of what makes design in election signage, posters, ballots, and other print materials effective for all kinds of voters.
+This Field Guide pulls 10 key guidelines from the research for the EAC. To learn more about the research behind this guide, and to download examples, go to civicdesigning.org or AIGA.org. 
+About ballot design
+A ballot is a form that represents perhaps the most important interaction between a government and its citizens. Thousands of votes are lost in elections every year because of poorly designed ballots. And yet, avoiding these design issues is not difficult or expensive.
+What a ballot looks like is constrained by legislation, technology, history, custom, cost, and other factors. But the anatomy of a ballot is fairly consistent throughout the more than 3,000 counties, parishes, and boroughs in the U.S. Design guidelines provide a tool for helping voters focus on their goal to cast votes for their preferred candidates.
+6                                                                                                                                                                                                                                                                                            7Before                      ThIS lInE IS All CAPITAl lETTErS.
+After                     This line is Upper and lowercase.
+No. 01
+Use lowercase letters.
+Lowercase letters are more legible than ALL CAPITAL LETTERS because they make shapes that are easier to recognize.
+8                                                                                                                                                                                                                                                                                          9Before                     Insert the completed ballot  
+into the ballot sleeve. hand in the ballot to be counted.
+(center-aligned)
+After               Insert the completed ballot  
+into the ballot sleeve. hand in the ballot to be counted. (left-aligned)
+No. 02
+Avoid centered type.
+Left-aligned type is more legible than centered type, which forces the eye to hunt for the start of the next line.
+10                                                                                                                                                                                                                                                                                      11Before           Fill in the oval to the left of the name of your choice. You must blacken the oval completely, and do not make any marks outside of the oval. You do not have to vote in every race
+(8-point)
+After             Fill in the oval to the left of the name of your choice. You must blacken the oval completely, and do not make any marks outside of the oval.  You do not have to vote in every race.
+(12-point)
+No. 03
+Use big enough type.
+Small print is hard to read for many voters.
+Use these minimum type sizes:
+•  12-point for print
+•  3.0 - 4.0mm for screen
+(Larger text may increase the number of pages but it is a worthwhile investment in election accuracy.)
+12                                                                                                                                                                                                                                                                                        13Avoid               Times new roman
+Georgia
+Cambria
+Use               Arial
+helvetica Univers
+Verdana
+No. 04
+Pick one  sans-serif font.
+Use sans-serif fonts with clean strokes.
+For dual-language materials, use bold text for the primary language, regular text for the secondary language.
+Using just one font makes the ballot more unified. Different fonts make voters stop reading and adjust.
+
+14                                                                                                                                                                                                                                                                                        15
+
+
+Continue voting next side instruction is placed at the end of the last column on the page.
+
+No. 05
+Support process and navigation.
+Put instructions where they are needed. Use page (or screen) numbering to show progress.
+For electronic ballots, let voters change language or display options, with instructions available at any time.
+Post easy-to-see instructions for both voting and moving around the polling place.
+16                                                                                                                                                                                                                                                                                        17
+
+Before               If an overvoted ballot is encountered, 
+the voter is entitled to another blank ballot after surrendering the spoiled ballot.
+After             If you make a mistake, ask a poll worker for another ballot.
+No. 06
+Use clear, simple language.
+Make instructions and options as simple as possible.
+Do not include more than two languages on any one material.
+If possible, summarize referenda in simple language alongside required formats.
+Simple language is often shorter, taking up less space.
+
+18                                                                                                                                                                                                                                                                                               19
+No. 07
+Use accurate instructional illustrations.
+Visual instructions help low-literacy and all voters.
+Illustrations must be accurate in their details, highlighting the most important instructions.
+Do not use photographs. 
+Illustrations at the beginning  of the ballot demonstrate how to use the ballot.
+20                                                                                                                                                                                                                                                                                               21
+No. 08
+AvoidIndependentUse informational Democraticons (only).
+republicanUse icons that call attention to key 
+information and support navigation with care. 
+UseAttention
+Don't use political party emblems.
+Continue, proceed
+22                                                                                                                                                                                                                                                                                               23
+ Do not rely on color as the only Shading and color can help voters quickly see the structure of the ballot.way to communicate important No. 09
+Use contrast and color to support meaning.
+Use color and shading consistently: 
+•  On paper ballots, to separate instructions from contests and contests from each other.
+•  On electronic ballots, to support navigation, call special attention, and provide user feedback. 
+information. 
+24                                                                                                                                                                                                                                                                                               25
+No. 10
+Show what's most important.
+Use layout and text size to help voters know what to pay attention to.
+The ballot title should be the most prominent.
+A contest header should be more prominent than the candidates' names.
+A candidate's name should be bolder than his/her party affiliation. Candidates' names and options should be presented with equal importance.
+26                                                                                                                                                                                                                                                                                        27
+Tip
+Check that the ballot communicates clearly.
+Can voters
+  read all of the information on the  ballot easily?
+  navigate through the ballot to find all contests and ballot questions? 
+  identify the different sections of the ballot? 
+  find, read and follow instructions accurately?
+28                                                                                                                                                                                                                                                                                               29
+Notes                                                                           Notes
+
+30                                                                                                                                                                                                                                                                                        31
+
+Who made this Guide possible?
+Kickstarter contributors, including: 
+Alec Perkins
+Stephanie rewis
+Jess McMullin
+Alec Bash Jonathan Knoll lori landesman
+Jennifer Pahlka
+Jascha Franklin-hodge
+Ginny redish Jason Putorti nicco Mele Tantek Çelik
+Karen Bachmann
+Sarah Swierenga
+David Fiorito
+James Craig
+Caroline Jarrett richard SoleyPamela Ecker
+Ivan Wilson, Jr.
+Whitney hess
+Scott Berkun
+Suzanne Stassevitch James Spool livia labate Mark Eberman
+Josh Clark
+Joe Sokohl
+Bolt | Peters
+TangibleUX
+Keith Instone EightShapes nick Finck Stewart BloomSupported by
+
+Special thanks
+There was an amazing team behind this project: Sean Carmichael, videographer
+Adam Connor, illustrator
+Drew Davies, book designer and researcher Michelle Gray, Pr
+Whitney Quesenbery, writer and researcher Boon Sheridan, strategist Jared Spool, advisor 
+Advisors
+Janice C. "Ginny" redish
+Joseph lorenzo hall Doug Chapin
+And the many state and county election offi cials who have helped us understand how elections really work.
+
+www.macfound.org
+
+Order more
+Order more or download PDFs of this Field Guide and the other guides in the series at: civicdesigning.org/fi eldguides
+This work is licensed under a Creative 
+Commons license (CC BY-nC-nD 3.0). You are free to share, copy, distribute and transmit the work for noncommercial purposes. Chad Butterfl y says thank you!
+Field Guides design by Oxide Design Co. · oxidedesign.com
+
+
+

@@ -1,0 +1,517 @@
+﻿
+Americans with Disabilities Act
+ADA Checklist for Polling Places
+
+February 2004
+Reproduction
+Reproduction of this document is encouraged.
+Additional copies of this publication may be obtained, viewed or downloaded from the Publications section of the ADA Website
+(www.ada.gov) or by calling the ADA Information Line at 800-514-0301 (voice), 800-514-0383 (TTY).
+Disclaimer
+The ADA authorizes the Department of Justice to provide technical assistance to individuals and entities that have rights or responsibilities under the Act.  This document provides informal guidance to assist you in understanding the ADA and the Department's regulation. However, this technical assistance does not constitute a legal interpretation of the statute.
+                                                                                                    February 2004                                                                                                             i
+Table of Contents
+
+
+of Polling Places 
+Getting Started............................................................ 2
+               Using the Polling Place Checklist                                 2
+               Taking Measurements                                                  3
+               Completing the Checklist                                             4
+               After Completing the Survey                                        4
+Getting to the Polling Place 
+A.    Parking .................................................................. 5
+Typical Issues  5 Parking Checklist      6
+                Temporary Solutions for Election Day                          8
+B.     Passenger Drop-Off Areas.................................... 9
+                Typical Issues                                                             9
+                Passenger Drop-Off Areas Checklist                           10
+                Temporary Solutions for Election Day                        11
+C.    Sidewalks and Walkways ................................... 12
+Part 1.  Typical Issues for Voters Who Use
+Wheelchairs, Scooters, or Other Mobility Aids 12 Sidewalks and Walkways Checklist 13
+                Temporary Solutions for Election Day                        15
+Part 2.  Typical Issues for Voters Who Are Blind
+        or Have Low Vision                                                       16
+Sidewalks and Walkways Checklist   17 Temporary Solutions for Election Day 181
+5Evaluating the Physical Accessibility                                
+
+Entering the Polling Place 19
+D.    Building Entrance............................................... 19
+                Typical Issues                                                           19
+                Building Entrance Checklist                                       20
+                Temporary Solutions for Election Day                        22
+E.     Hallways and Corridors ..................................... 23
+Part 1.  Typical Issues for Voters Who Use Wheelchairs,
+        Scooters, or Other Mobility Devices                              23
+Halls and Corridors Checklist - Voters with Mobility
+                        Disabilities                                                          24
+                Temporary Solutions for Election Day                        28
+Part 2.  Typical Issues for Voters who are Blind
+        or Who Have Low Vision                                               29
+Halls and Corridors Checklist - Voters who are Blind
+                        or Who Have Low Vision                                     30
+                Temporary Solutions for Election Day                        31
+Using the Polling Place 32
+F.  Voting Area........................................................... 32
+                Typical Issues                                                           32
+                Voting Area Checklist                                                33
+Appendix A-1
+ii
+
+Evaluating the Physical Accessibility of Polling Places
+When choosing a new site for a polling place, elections officials should select a facility that is accessible to voters who use wheelchairs or scooters or who have difficulty walking. Planning for an upcoming election also gives elections officials the opportunity to improve existing polling places that are not accessible by using temporary elements, such as portable ramps, on election day or by working with building owners to make permanent alterations that improve the accessibility of the polling place.
+The following checklist is designed to help voting officials determine whether a polling place has basic accessible features needed by most voters with disabilities.  It may be used when evaluating the accessibility of potential new polling places and when identifying physical barriers in existing polling places before temporary or permanent modifications are made to improve accessibility for elections.
+Individuals completing the checklist do not necessarily need to be experienced in evaluating buildings and facilities for accessibility.  The checklist is designed to prompt the user to check key features by asking questions about sizes, sloped surfaces, and availability of accessible features, and in some areas it suggests alternatives if a physical barrier is identified. By following the directions provided for filling out the checklist, voting staff and volunteers can identify accessible polling places and develop information used for implementing temporary and permanent modifications.
+A voter enters an accessible polling place.
+
+Getting Started
+An evaluation of polling place accessibility should focus on those areas of a facility that are important to voting.  These often include parking for voters, a drop off or loading area, the entrance to the polling place, and the pedestrian routes (both exterior and interior) that voters use to get to the voter check-in and voting area.
+Before a polling place is evaluated, it is useful for staff or volunteers to review the instructions for using the checklist and become familiar with the questions.  It is also helpful to practice taking measurements and recording information before beginning the evaluation.
+When staff arrive at a polling place, it is best to first determine the location of parking, including accessible parking (if any is provided), the entrance that will be used on election day, and the location of the voting area.  If the survey is being done to determine the accessibility of a new location for a polling place, then the walk-through should look for areas that provide the best accessibility, where simple modifications may provide accessibility, or where it may be easiest to improve accessibility by adding temporary features.
+Using the Polling Place Checklist
+Tools and Documentation
+A few simple tools may be used to measure the sizes and the slope of specific elements and spaces:
+•         A metal tape measure at least 15-feet long
+•         A level with a bubble measure or a digital measure at least twenty-four inches long for measuring slope, and
+•         A clipboard, copy of the checklist (one copy per polling place), and pens or pencils.
+It is also a good idea to have a film or digital camera to document important areas that may need to be reviewed later. Any camera may be used to shoot photographs but one with a flash is most useful, particularly when indoor photos are needed.
+Use the Checklist to Record Data
+The checklist is designed to prompt the users on what to look at and where to measure.  All answers and notes should be recorded on the checklist for use later in the planning process. When completed, the checklist should provide an indication of the level of accessibility at the polling place.  If photographs are taken during the survey, it is helpful to note on the checklist that a photo was taken for later review of particular elements, spaces, or conditions.
+Completing Measurements and Recording Information One person can complete a survey of a polling place but it is often quicker and easier for two people to work together.  One can be responsible for taking the measurements and the other for recording the information and taking any photographs.
+Taking Measurements
+Sloped Surfaces
+One way to measure slope is to use a 24-inch level with leveling bubble and a tape measure.  Place the level on the incline in the direction you wish to measure.  Rest one end of the level at the highest point of the sloped surface and lift the other end (as shown in the illustration) until the bubble is in the middle of the tube.  This is the "level" position.  While the level is in this position, measure the distance between the end of the level and the sloped surface below.  If the distance is 2 inches or less, then the slope is 1:12 or less.  When the distance is greater than 2 inches, record the distance on the checklist so the exact slope may be calculated later if needed.
+Slopes may also be measured using a digital level.  The digital display replaces the bubble and typically gives a reading that may be shown as a digital bubble, degrees, or a percent. Before using a digital level make sure to familiarize yourself with the directions.  Many digital levels need to be calibrated each time they are used.  If you can set the digital display to percent or degrees, the maximum slope generally allowed is 8.33% or 4.76 degrees (for a 1:12 slope).
+
+Measuring slope using a 24-inch level and tape measure
+Using the Tape Measure When measuring the width of a parking space or access aisle, the width of an accessible route or the height of an object above the floor, for example, try to keep the tape from sagging or bending.  If the tape is not straight, try to support the tape in
+the middle or pull it
+tight and take the Using a tape measure to measure the width of a parking space measurement again.
+Measuring Door Openings Measuring the clear opening of an accessible door requires special care.  To measure the opening of a standard hinged door, open the door to 90 degrees.  Place the end of the tape measure on the side of the door frame next to the clear opening (as shown in the drawing).  Stretch the tape across the door opening to the face of the door.  This measurement equals the clear open width of
+the door, which is typically less than the width of the door.Measuring the clear opening from the face of the doorstop on the frame to the face of the open doorCompleting the Checklist
+For each checklist item, check either "yes" or "no."  If the measurement or number falls short of that required for accessibility, write the measurement or number to the right of the question in the area under "Comments."  Add notes or comments as needed.  For some questions when "no" is the answer, the checklist will include a prompt to check for an alternate solution.  Information on alternate access can be used later as voting officials decide how to provide accessible voting.
+When completing the survey, it is important to try to answer every question in each section, unless, of course, the element is not present at the particular site under review.  For example, if there is no parking provided on-site at the polling place, or only on-street parking is provided, there is no need to try to measure the size of the parking spaces or to count the number of parking spaces.
+The checklist is based on requirements from the ADA Standards for Accessible Design (Standards).  Each item includes a reference to the technical requirements in the Standards from 28 C.F.R. Part 36, Appendix A.  This reference is provided to assist users in looking up the requirement or related requirements when necessary.  An electronic copy of the Standards is available on the ADA Website at www.ada.gov. Printed copies are also available from the ADA Information Line at 800-514-0301 (voice) or 800-514-0383 (TTY).
+After Completing the Survey
+Completed polling place surveys will provide the information needed to determine which sites are accessible and which may become accessible with permanent or temporary modifications. Checklists where most answers are "yes" will usually indicate an accessible polling place.  Others, where some answers are "no," may become accessible if permanent or temporary modifications are done to remove barriers.  Polling places in older buildings may have few accessible features but some of these voting facilities may be able to be made accessible with temporary modifications, such as portable ramps at the entrance and accessible parking spaces marked off by traffic cones.  There may also be some sites that cannot be made accessible so plans will be needed to offer accessible voting in some other way.
+For more information about temporary modifications, see Temporary Solutions for Election Day at the end of each section of this document.
+Alterations
+When State and local governments make permanent modifications or alterations to facilities that serve as polling places these alterations must comply with the ADA Standards. For more information visit the ADA Website to view or download the ADA Standards, technical assistance materials, and general ADA information.
+www.ada.gov
+For specific questions about the ADA, call the Department of Justice ADA Information Line.
+800-514-0301 (voice)
+800-514-0383 ( TTY)
+
+Getting to the Polling Place
+A.  Parking
+Typical Issues
+When parking is provided for voters, staff and volunteers, accessible parking must be provided for people with disabilities.  Voters with disabilities who arrive by car need a parking space close to an accessible entrance.  The accessible parking space has an adjacent access aisle that provides needed room for a person to open the car door fully and then stand with the aid of a walker, to transfer to a wheelchair, or to lower a wheelchair lift.  The access aisle connects directly to an accessible route that leads to an accessible building entrance. In order to be usable, the access aisle must be relatively level, clear of gravel or mud, and the surface must be in good condition without wide cracks or broken pavement.
+
+Van-accessible parking spaces serve both cars and vans.
+A wide access aisle is needed so a wheelchair lift may be lowered from the van onto the level surface.
+An accessible route connects the access aisle of each accessible parking space with the accessible entrance to the polling place. When an accessible route crosses a curb, a curb ramp must be provided.  If the accessible route connects the access aisle to the accessible entrance using the parking lot surface, a marked crosswalk should be provided on the vehicular route.
+
+
+ Comments 
+A1.  If parking is available, count the total number of parking spaces provided for the       Yes polling place.  Are the minimum number of accessible parking spaces provided, based on the total number of available parking spaces (see table below)?
+Total Spaces for Polling Place                           Required Minimum Number of Accessible Spaces
+1-25 ○                              ○         ○          ○          ○         ○          ○          ○          ○         ○          ○          ○         ○          ○          ○                                      ○ 1 van-accessible space w/ min. 96 inch wide access aisle
+26-50 ○                               ○          ○          ○          ○          ○          ○          ○          ○          ○          ○          ○          ○          ○                                          ○ 1 space w/ min. 60 inch wide access aisle + 1 van-accessible space
+51-75 ○                             ○          ○          ○           ○          ○          ○          ○          ○          ○          ○          ○          ○           ○                                           ○ 2 spaces w/ min. 60 inch wide access aisle + 1 van-accessible spaceNo
+No
+No
+NoIf more than 75, see the ADA Standards for Accessible Design, section 4.1.2, for the number of accessible parking spaces.
+A2.  Does each accessible parking space have its own, or share an adjacent access aisle that is least 60 inches (5 feet) wide? [ADA Stds 4.6.3]
+A3.  Is there at least one van-accessible parking space provided with an access aisle that is at least 96 inches (8 feet) wide or are universal parking spaces provided with a 132 inches (11feet) wide vehicle space and a 60 inch (5 feet) wide access aisle?
+[ADA Stds 4.1.2(5), A4.6]
+A4.  For van-accessible spaces, is there vertical clearance of at least 98 inches (8 feet 2 inches) for the vehicle route to the parking space, the parking space, the access aisle and along the vehicle route to the exit? [ADA Stds 4.6.5]
+If No: Can the route be cleared by removing or raising low objects or can each vanaccessible parking space be relocated?Yes
+Yes
+Yes                  accessible route                                                  accessible route                                                 accessible routeParking Spaces Checklist
+
+Accessible Spaces for CarsVan-Accessible SpacesUniversal Parking SpacesPlan Views of Accessible Parking Spaces Showing Minimum Width of Vehicle Space and Access Aisle.
+A5.  Are all accessible parking spaces, including the access aisle, relatively level (1:50 or 2%) in all directions? [ADA Stds 4.6.3]
+If No:  Look for a nearby area that is relatively level which could serve as an accessible parking space with an accessible route to the accessible entrance to voting.
+A6.  Does each accessible parking space have a sign with the symbol of accessibility that is visible when a vehicle is parked in the space?  [ADA Stds 4.6.4]
+A7.  If there is a curb between the access aisle and the accessible route to the building, is there a curb ramp that meets the following requirements:  [ADA Stds 4.7]Yes
+Yes
+YesNo
+No
+Noa.                   Is the ramp surface at least 36"  Yes         No wide, excluding flared sides?
+[ADA Stds 4.7.3]
+ Comments b.                   Is the slope (up or down the        Yes         No ramp) no more than 1:12?
+[ADA Stds 4.7.2]
+A8.  Are the accessible parking spaces serving the voting area on the shortest accessible route to the accessible entrance? [ADA Stds 4.6.2]
+A9.  Does each access aisle connect to an accessible route from the parking area to the accessible building entrance?  [ADA Stds 4.6.2]Yes
+YesNo
+NoNote:  1:12 is one inch of vertical height for each 12 inches in length.
+
+Temporary Solutions for Election Day
+Parking
+Problem One:
+Parking is available, but no accessible parking is provided or there are not enough accessible parking or van-accessible spaces.
+Suggestion:  Find a relatively level parking area near the accessible entrance and then designate the area for accessible parking spaces and adjacent access aisles. Use three parking spaces to make two accessible parking spaces with an access aisle.  Traffic cones or other temporary elements may be used to mark the spaces and access aisles.  Provide a sign designating each accessible parking space and make sure the access aisle of each space is connected to the accessible route to the accessible entrance.
+Problem Two:
+Accessible parking is provided, but it does not have a marked access aisle next to each accessible space.
+Suggestion:  Restripe the accessible parking spaces to provide an access aisle.  As a temporary solution for election day, use traffic cones to mark off the access aisle and curb ramp area.  The first accessible parking space provided should be a vanaccessible parking space with an access aisle that is at least 96 inches wide.
+Problem Three:
+Accessible parking spaces or access aisles are on a sloped surface.
+Suggestion:  Find a parking area that is close to the accessible entrance and more level.  Provide accessible parking spaces and access aisles in that area.  Make sure the accessible parking spaces connect to an accessible route to the entrance. Provide a sign designating each accessible parking space.
+Problem Four:
+No sign with the international symbol of accessibility is installed at each accessible parking space.
+Suggestion:  Provide a temporary sign in front of each accessible parking space.
+
+Three standard parking spaces are converted into an accessible parking space with an access aisle.  Cones mark the access aisle and a temporary curb ramp with edge protection connects to an accessible route to the polling place.
+
+B.  Passenger Drop-Off Areas
+Typical Issues
+Some voters with disabilities will be driven to the polling place and dropped off near an entrance in a passenger drop-off area.  If the polling place is served by passenger drop-off areas, then at least one drop-off area must be accessible.  An accessible drop-off area, also known as an accessible passenger loading zone, must have a level access aisle, adjacent and parallel to the vehicle space.  Where a curb separates the vehicle space from the access aisle or the access aisle from an accessible route, a curb ramp must be provided so people with disabilities can get to the accessible route leading to the accessible entrance.
+
+Passenger Drop-Off Areas
+Passenger Drop-Off Areas Checklist
+If a passenger loading area is provided, you should answer the following questions.
+B1.  Is a relatively level (1:50 or 2% maximum      Yes         No slope in all directions) access aisle provided adjacent and parallel to the side of the vehicle pull-up area? [ADA Stds 4.6.6]
+If No, look for another relatively level location that is on an accessible route.
+ Comments 
+B3.  Is the area for the access aisle at least 5-feet wide and 20-feet long? [ADA Stds 4.6.6]
+Note:  Unlike an accessible parking space, the surface for the access aisle does not have to be marked or striped.
+B4.  Is the vertical height for the vehicle route to the loading zone, the drop off area, and the exit at least 114 inches (9 feet 6 inches) in height? [ADA Stds 4.6.5]
+B5.  Is a curb ramp provided between the vehicle pull up area and the access aisle (see figure above) or the access aisle and the accessible route (see figure on page 9) to the accessible entrance? [ADA Stds 4.6.6]
+If No, is there another area with a curb ramp connected to an accessible route that could serve as the drop-off area?Yes
+Yes
+YesNo
+No
+NoB2.  Is the vehicle space relatively level (2%          Yes         No maximum slope in all directions)?
+B6.  If a curb ramp is provided, is the slope of the ramp   Yes         No surface (not counting the side flares) no more than 1:12?
+[ADA Stds 4.7.2]
+                                                                       B7.  Is the width of the curb ramp surface at least 36 inches?                 Yes               No
+[ADA Stds 4.7.3]
+B8.  Does an accessible route connect the curb ramp to the          Yes         No accessible entrance? [ADA Stds 4.1.2(1)]
+Passenger Drop-Off Areas
+Temporary Solutions for Election Day
+Passenger Drop-Off Areas
+Problem:
+A passenger drop-off and loading zone is provided but there is no curb ramp between the vehicle area and the sidewalk leading to the accessible polling place entrance.
+Suggestion:  Provide a portable ramp with edge protection in an area where the vehicle area and the sidewalk are relatively level.  The curb ramp must connect to an accessible route to the accessible polling place entrance.
+If the drop-off and loading zone is not relatively level, consider relocating the accessible drop-off area and using one parking space next to the area where accessible parking is located to provide an accessible drop-off and loading zone.  Cones or another temporary barrier may be needed to keep the parking space clear.
+
+A portable ramp with edge protection is used to provide an accessible route from the drop-off and loading area to the accessible polling place entrance.
+C.  Sidewalks and Walkways
+Part 1.  Typical Issues for Voters Who Use Wheelchairs, Scooters or Other Mobility Aids
+There must be at least one exterior accessible route that connects accessible passenger drop-off areas, accessible parking spaces, and other accessible elements, for example a route from a bus stop to an accessible building entrance.  The accessible route is essential for people who have difficulty walking or who use wheelchairs or other mobility aids to get to the accessible entrance of the polling place.
+An accessible route is at least 36 inches wide and may narrow briefly to 32 inches wide where utility poles, post-mounted signs, furniture, and doorways are located along an accessible route.  Abrupt level changes, steps, or steeply sloped sidewalks cannot be part of an accessible route.  Where ramps are used, they cannot be steeper than 1:12.  Ramps with a vertical rise of more than 6 inches must have handrails on both sides.  Ramps must also have edge protection to stop wheelchairs from falling off the sides, and level landings at the top and bottom of each segment and where a ramp changes direction.
+
+Sidewalks and Walkways - Part 1
+ Comments 
+provided) to the accessible entrance of the building?  [ADA Stds 4.1.2(1)]
+C1-3.  Is the accessible route at least 36 inches wide?
+If No, the accessible route may narrow to 32 inches wide for up to 2 feet in length.YesNoC1-4.  Is the accessible route free of steps and abrupt level changes over 1/2 inch?
+Note:  Level changes between 1/4 inch and 1/2 inch should be beveled.
+C1-5.  Where an accessible route crosses a curb is a curb ramp provided?  If yes,
+5a.  Is the ramp surface at least 36 inches wide, excluding flared sides?
+[ADA Stds 4.7.3]
+5b.  Is the slope (up or down the ramp) no more than 1:12?  [ADA Stds 4.7.2]
+Note: 1:12 is one inch of vertical height for 12 inches of horizontal distance.
+C1-6.  If the slope of part of the accessible route is greater than 1:20, does this part meet the following requirements for an accessible ramp?
+6a.  Is the ramp slope no greater than 1:12? [ADA Stds 4.8.2]
+    Note:  For existing ramps, the slope may be 1:10 for a 6 inch rise and 1:8 for a 3 inch rise in special circumstances (see ADA Stds 4.1.6(3)).
+6b.  Is the ramp width, measured between handrails, at least 36 inches?Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+YesNo
+No
+No
+No
+No
+NoSidewalks and Walkways Checklist - Voters with Mobility Disabilities
+                                                                                                            C1-1.  Is an accessible route provided                           Yes               No
+from accessible parking spaces to the accessible entrance of the building?
+[ADA Stds 4.1.2(1), 4.3]
+Note:  If the accessible route crosses a vehicular route, a marked crosswalk should be used.
+C1-2.  Is an accessible route provided      Yes         No from public sidewalks and public transportation stops on the polling site (if
+[ADA Stds 4.8.3]
+ Comments 
+6c.  Does the ramp have a level landing at the top and bottom of each ramp section that is at least 60 inches long? [ADA Stds 4.8.4]
+Note:  The level landing may be part of the sidewalk or walking surface.
+6d.  If a ramp is more than 30 feet long, is a level landing at least 60 inches long provided every 30 feet of horizontal length? [ADA Stds 4.8.4]
+Note:  When the running slope is less than 1:16 and more than 1:20, each ramp segment may be up to 40 feet long followed by a level landing.
+6e.  Is a level landing, at least 60 inches by 60 inches, provided where a ramp changes direction? [ADA Stds 4.8.4]
+6f.  Are the handrails mounted between 34 and 38 inches above the ramp surface?
+[ADA Stds 4.8.5]
+6g.  If the ramp or landing has a vertical drop-off on either side of the ramp, is edge protection provided? [ADA Stds 4.8.7]Yes
+Yes
+Yes
+Yes
+YesNo
+No
+No
+No
+NoSidewalks and Walkways - Part 1
+Accessible Ramp Features
+Sidewalks and Walkways - Part 1
+Temporary Solutions for Election Day
+Sidewalks and Walkways - Voters with Mobility Disabilities
+Problem One:
+The sidewalk connecting parking to the polling place entrance is too steep to be accessible. Suggestion:  Check to see if there is another sidewalk that provides an accessible route to the accessible entrance.  Sometimes there is a less direct route that can serve as the accessible route.
+Problem Two:
+The accessible route crosses a curb and no curb ramp is provided.
+Suggestion:  Install a portable ramp with edge protection.
+Problem Three:
+One or two steps are part of the walkway leading to the accessible entrance. Suggestion:  Install a portable ramp no steeper than 1:12 slope with edge protection and handrails.
+installed over a curb to provide an accessible route.
+
+
+C.  Sidewalks and Walkways
+Part 2.  Typical Issues for Voters Who Are Blind or Have Low Vision Objects that are wall-mounted, that project into a pedestrian route from the side, or that are overhead must be located so that people who are blind or who have low vision will either detect the objects before they run into them or safely pass under them.  Examples include handrail extensions on stairs and ramps, post or wall-mounted signs, outdoor drinking fountains, and tree limbs that are lower than 80 inches above the walk.  Pedestrian routes open to voters, such as sidewalks, courtyards, and plazas, must be free of overhanging objects that are less than 80 inches above the route.  Objects more than 27 inches and less than 80 inches above the route that protrude from the side more than 4 inches are also a hazard.  Because people can walk on any sidewalk, not just the accessible routes, all exterior pedestrian routes serving or leading to the voting area must be checked.  The following checklist applies to sidewalks and walkways leading to the polling place and voting area.
+Notes:
+ The bottom of the handrail extensions turn down so a person who is blind or has low vision can detect the hazard before running into it.
+ Signs or other objects in the pedestrian route can be a hazard if the bottom is more than 27 inches but less than 80 inches above the route.
+ Objects that overhang the pedestrian route must be at least 80 inches above the route.
+
+Sidewalks and Walkways - Part 2
+Sidewalks and Walkways Checklist - Voters Who are Blind or Who Have Low Vision
+                                                                                                              C2-1.  Are all sidewalks and walkways to                   Yes               No
+the voting area free of any objects (e.g., wall-mounted boxes, signs, handrail extensions, trees) with bottom edges that are higher than 27 inches but less than 80 inches above the walkway and that extend more than 4 inches into the sidewalk or walkway?
+[ADA Stds 4.4, 4.2.1(3), 4.1.3(2)]
+If No, can the object be lowered, removed, or modified or can the route be changed to avoid the object?
+This wall-mounted box is mounted too high to be detectable by a person who is blind.
+ Comments Placing an object, like this sign, under the box provides a way to warn the person before they walk into the side of the box.
+                                                                                                             C2-2.  Are the undersides of exterior                           Yes               No
+stairs enclosed or protected with a canedetectable barrier so that people who are blind or have low vision will not hit their heads on the underside?
+[ADA Stds 4.4.2]
+If No, can a barrier or enclosure be added below the stair or can the route be relocated away from the stair?
+    When the underside of a stair is open, it is a hazard to people who are blind or have low vision.  Enclosing the area
+below the stair or installing a cane-detectable barrier helps the person to stop before hitting her head.
+Sidewalks and Walkways - Part 2
+C2-3.  Are all objects that hang over the pedestrian          Yes         No routes 80 inches or more above the route?
+If No,  can the objects be removed or relocated, or can a detectable object be added below?
+Temporary Solutions for Election Day
+Sidewalks and Walkway Hazards
+ Comments Problem One:  Branches or other objects over a walkway or pedestrian route are lower than 80 inches above the walk.
+Suggestion:  Prune the branches or remove the items that are hanging below 80 inches.
+Another approach is to install a detectable barrier under the item that is too low.  The detectable barrier or object must be within the detectable range of 27 inches or less above the route.
+Problem Two:  One or more objects protrude too far from the side into the circulation path causing a hazard for people who are blind or who have low vision.
+Suggestion:  When people who are blind or who have low vision use a cane to detect hazards, objects located at 27 inches or lower are detectable.  When an object is located more than 27 inches off the ground it is a hazard if the object protrudes more than 4 inches into the circulation path.  To make a protruding object detectable:
+Place an object or a barrier below the protruding object in the cane-detectable area not more than 27 inches above the floor.
+If the protruding object can be moved, lower the object so its bottom is within the canedetectable area (not more than 27 inches above the floor).
+Prune or alter the protruding object so it does not protrude over the path.
+
+Entering the Polling Place
+D.  Building Entrance
+Typical Issues
+An accessible polling place must have at least one accessible entrance.  The accessible entrance must be connected to an accessible route.  An accessible entrance must provide at least one accessible door with maneuvering space, accessible door hardware, and enough clear width to allow people who use crutches, a cane, walker, scooter or wheelchair to use it.
+Accessible route connecting accessible parking and drop-off area (if provided) to the accessible entrance.
+If the accessible entrance is not the main entrance to the polling place, then signs must be located at inaccessible entrances to the polling place to direct voters to the accessible entrance.  The accessible entrance must remain open when the polling place is open.
+
+Examples of signs for inaccessible polling place entrances directing a voter to the accessible entrance.
+
+ Comments 
+D1.  Is there at least one accessible entrance connected to an accessible route?
+[ADA Stds 4.1.3(1)]
+Notes:  If this entrance is not the main entrance, it needs to be kept unlocked during voting hours.
+If there are inaccessible entrances serving the polling place, signs will be needed at inaccessible entrance(s) to direct voters to the nearest accessible entrance.
+D2.  Does at least one door or one side of a double leaf door at the accessible entrance provide at least 32 inches clear passage width when the door is open 90 degrees?
+[See figure 24 in the appendix at the back of the checklist]
+If No, does another entrance have an accessible door or can both doors be propped open during voting?  Other possible solutions are to enlarge the door opening, use a swing clear hinge, or, if a double leaf door, use uneven width doors.
+D3.  Is the door hardware (e.g., lever, pull, panic bar) usable with one hand withoutYes
+Yes
+YesNo
+No
+NoBuilding Entrance Checklist
+tight grasping, pinching, or twisting of the wrist?  [ADA Stds 4.13.9]
+If No, leave door propped open, add new accessible hardware, or adapt/replace hardware.
+
+D4.  On the pull side of the door, is there at least 18 inches clearance provided to the       Yes         No side of the latch if the door is not automatic or power-operated? [ADA Stds 4.13.6, figure 25]
+Note:  The maximum threshold height is 1/2 inch for new construction. If No, leave the door propped open, install a power operator, or look for another accessible entrance.
+D5.  If there is a raised threshold, is it no higher than 3/4 inch at the door and beveled    Yes         No on both sides? [ADA Stds 4.1.6(3)(d)(ii), 4.13.8]
+If No, replace threshold with one with beveled sides or add sloped insert to threshold.
+D6.  If an entry has a vestibule, is there a 30-inch byYes                                                                                                                         No
+48-inch clear floor space inside the vestibule where a wheelchair or scooter user can be outside the swing of a hinged door?   [ADA Stds 4.13.7]
+ Comments If No, leave the inner door open or remove inner door, add power operators to both doors so they open at the same time or, modify the vestibule.
+Insufficient space between doors makes the alcove inaccessible.
+
+Minimum alcove depth if            Minimum alcove depth when both doors open out   door swings into alcove
+Temporary Solutions for Election Day
+Accessible Entrance to Polling Place
+Problem One:
+One or two steps at the entrance prevent access.
+Suggestion:  If another entrance is accessible and on an accessible route from accessible parking, designate it as the accessible entrance and install a directional sign at the main entrance directing voters to the accessible entrance.  Keep the accessible entrance unlocked during voting hours.
+If another accessible entrance is not available, install a temporary ramp with edge protection and handrails.
+Problem Two:
+There is a small step at the entrance.
+ Comments Suggestion:  Install a short temporary ramp to provide a smooth transition.
+Problem Three:
+Entrance door threshold has an abrupt change in level of more than 1/4 inch and no beveled sides.
+Suggestion:  If the threshold is not more than 3/4 inches high, add beveled surfaces to both sides of the threshold or replace with a new threshold that is no more than 1/2 inch high and that has beveled sides.
+Problem Four:
+Entrance door to the building is heavy and difficult to open.
+Suggestion:  Keep the door propped open or station volunteers near the door to open it for voters.
+Problem Five:
+Door handle and/or latch at the entry door is not accessible.
+Suggestion:  These are three typical solutions:  add an accessible pull or handle to the outside of the door and leave the door unlatched, or install an accessible door handle and hardware, or leave the door propped in an open position.
+
+E.  Hallways and Corridors
+Part 1.  Typical Issues for Voters Who Use Wheelchairs, Scooters, or Other Mobility Devices
+The interior accessible route connects the accessible entrance with the voting area.  Typically made up of hallways, corridors, and interior rooms and spaces, the accessible route is essential for people who have difficulty walking or who use wheelchairs or other mobility aids to get to the voting area.
+An accessible route is at least 36 inches wide and may narrow briefly to 32 inches wide where the route passes through doors or next to furniture and building elements.  High thresholds, abrupt level changes, steps, or steeply sloped hallways cannot be part of an accessible route.  Where ramps are used, they cannot be steeper than 1:12.  Ramps with a vertical rise of more than 6 inches must have handrails on both sides.  Ramps must also have edge protection to stop wheelchairs from falling off the sides, and level landings at the top and bottom of each segment and where a ramp changes direction.
+
+Halls and Corridors - Part 1
+ Comments 
+E1-1.  Is there an accessible route, at least 36 inches wide that connects the accessible entrance to the voting area (the accessible route may narrow to 32 inches wide for up to 2 feet in length)?
+E1-2.  Is the accessible route free of steps and abrupt level changes over 1/2 inch (level changes between 1/4 inch and 1/2 inch should be beveled)?  [ADA Stds 4.1.3(1), 4.3.8]
+E1-3.  Does the route from the accessible entrance to the voting area change levels using a ramp, lift or elevator?
+If no, go to question E1-7.
+3a.  If yes, is a ramp or sloped hallway provided?
+If yes, go to question E1-4.
+Note:  A ramp, lift, or elevator can be used to provide access to floor levels.
+3b.  Is an elevator provided or lift provided?
+If an elevator is provided, go to question E1-5.  If a lift is provided, go to question E1-6.
+E1-4.  Where the slope of the accessible route is greater than 1:20, does this part of the accessible route meet the following requirements for an accessible ramp?
+4a.  Is the slope no greater than 1:12? [ADA Stds 4.8.2]
+Note:  For existing ramps, the slope may be 1:10 for a 6 inch rise and 1:8 for a 3 inch rise in special circumstances, see ADA Standards 4.1.6(3).
+4b.  Is the ramp width, measured between handrails, at least 36 inches?
+[ADA Stds 4.8.3]
+4c.  Are the handrails mounted between 34 and 38 inches above the ramp surface?
+[ADA Stds 4.8.5]
+4d.  If a ramp is more than 30 feet long, is a level landing at least 60 inches long provided every 30 feet of horizontal length? [ADA Stds 4.8.4]Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+YesNo
+No
+No
+No
+No
+No
+No
+No
+No
+NoHalls and Corridors Checklist - Voters with Mobility Disabilities
+Note:  When the running slope is less than 1:16 and more than 1:20, each ramp segment may be up to 40 feet long followed by a level landing.
+Halls and Corridors - Part 1
+ Comments 
+4e.  Does the ramp have a level landing at the top and bottom of each ramp section that is at least 60 inches long? [ADA Stds 4.8.4]
+Note:  The level landing may be part of the sidewalk or walking surface.
+4f.  Is a level landing, at least 60 inches by 60 inches, provided where a ramp changes direction? [ADA Stds 4.8.4]
+4g.  If the ramp or landing has a vertical drop-off on either side of the ramp, is edge protection provided? [ADA Stds 4.8.7]
+E1-5.  Is an elevator provided to access the voting area level?
+5a.  Are the elevator call buttons mounted in an accessible location with the centerlines at 42 inches above the floor? [ADA Stds 4.10.3]
+5b.  Does the floor area of the elevator car provide space for wheelchair users to enter, reach the controls, and exit the car?  [ADA Stds 4.10.9]Yes
+Yes
+Yes
+Yes
+Yes
+YesNo
+No
+No
+No
+NoQuestion E1-4 (continued)
+Note:  See Figure 22 for acceptable floor and opening dimensions.  Floor dimensions of at least 48 inches by 48 inches may be allowed in existing facilities built before the ADA went into effect.
+Halls and Corridors - Part 1
+ Comments 
+5c.  Are the highest floor control buttons in the elevator cab mounted no more than 54 inches above the floor for a side reach or 48 inches for forward reach?
+5d.  Are raised letters and Braille characters used to identify each floor button and each control? [ADA Stds 4.10.12]
+5e.  Are signs mounted on both sides of the elevator hoistway door opening that designate the floor with 2-inch minimum-height raised letters and Braille characters centered at 60 inches above the floor? [ADA Stds 4.10.5]
+5f.  Is the elevator equipped with audible tones or bells or verbal annunciators that announce each floor as it is passed? [ADA Stds 4.10.13]
+E1-6.  If a wheelchair lift is provided, does it meet the following requirements:
+6a.  Is the lift operational at the time of the survey?Yes
+Yes
+Yes
+Yes
+YesNo
+No
+No
+No
+No
+above the floor for a side reach or 48 inches for a forward reach?  6f.  Are the controls and operating mechanisms usable with one hand without tight grasping, pinching, or twisting?YesNoQuestion E1-5 (continued)
+6b.  Is the change in level from the floor to the lift surface ramped or beveled?
+6c.  Is there at least a 30-inch by 48-inch clear floor space on the wheelchair lift?
+6d.  Does the lift allow a wheelchair user unassisted entry, operation, and exit?
+6e.  Are the controls and operating mechanisms mounted no more than 54 inches
+ Comments 
+E1-7.  At each location on the way to the voting area where the accessible route passes through a door or doors, does at least one door meet the following requirements?
+7a.  Is the clear width for the door opening at least 32 inches measured when the door is open 90 degrees? [ADA Stds 4.1.3(7), 4.13.5]
+7b.  Is the door hardware (e.g., lever, pull, push, panic bar) usable with one hand, without tight grasping, pinching, or twisting of the wrist, to allow people who may not be able to easily use one or both hands to fully operate the hardware?
+[ADA Stds 4.13.9]Yes
+Yes
+YesNo
+No
+No
+ A clear floor space on the latch side of the door (pull side) allows a person using a wheelchair or scooter to pull the door open and then enter.  The size of the clear floor space varies depending on the direction of approach (shown by the arrows) and the door swing.  7c.  Is there clear maneuvering floor space in front of each accessible door (see
+Figure 25 in the appendix for measurements) and on the pull side, is there at least
+18 inches clear floor space beyond the latch side of the door (see space configurations in Figure 25)? [ADA Stds 4.13.6]
+7d.  Is no more than 5 pounds force needed to push or pull open the accessible door?
+Note:  Fire doors are still considered to be accessible if they have the minimum opening force allowable by the appropriate administrative authority.
+7e.  If the answers to questions (b) thru (d) are no, can the door be propped open to provide an accessible route on election day?Yes
+Yes
+YesNo
+No
+NoHalls and Corridors - Part 1
+
+Halls and Corridors - Part 1
+Temporary Solutions for Election Day
+Interior Hallways and Corridors to Voting Area
+Problem 1:
+One or more steps along hallway to voting area block access.
+Suggestion:  Install a portable ramp with edge protection and handrails as shown in the figure or relocate the accessible voting to another area that is on an accessible route.
+A portable ramp with edge protection and handrails is placed over stairs to provide an accessible route on Election Day.
+Problem 2:
+Voting area is not on an accessible route and cannot be made accessible. Suggestion:  Look for another area where accessible voting may be provided.  For example, if the living room of a private home used for voting is up several steps, perhaps the garage may be accessible when entered from the driveway.  Or, if a church's basement is used as a polling place and it is not accessible, perhaps one of the ground floor rooms could be used as the accessible voting area.
+E.  Hallways and Corridors
+Part 2.  Typical Issues for Voters Who are Blind or Who Have Low Vision People who are blind or have low vision may walk along any route to access the voting area, not just the accessible routes. That means pedestrian routes open to voters serving or leading to the voting area, such as hallways, corridors and the voting space, must be free of objects that cannot be detected by a person who is blind or visually impaired.  Objects that are wall-mounted, that project into a pedestrian route from the side, or that are overhead must be located so that voters who are blind or who have a visual impairment will either detect the objects before they run into them or safely pass under them. These routes must be free of overhanging objects that are less than 80 inches above the floor and side objects that protrude into the route more than 4 inches when the bottom of the object is more than 27 inches above the floor.  Items to watch for include wall-mounted fire extinguishers and wall-mounted display cases when the bottom is more than 27 inches above the floor, wall sconces and light fixtures that protrude more than 4 inches off the wall, and open staircases, exit signs, overhead signs, banners, and arched doorways that are lower than 80 inches above the floor.
+The following checklist applies to pedestrian routes serving or leading to the voting area.
+Notes:
+ Wall-mounted drinking fountains are a hazard when the front projects more than 4 inches beyond the wall and the bottom is more than 27 inches above the floor.
+ Wall-mounted objects cannot project more than 4 inches beyond the wall if the bottom is not in the cane-detectable area below 27 inches off the floor.
+hazards along a pedestrian route.
+3    Overhead objects must be at least 80 inches off the floor.
+ Comments 
+E2-1.      Are pedestrian routes leading to or serving the voting area free of objects that protrude from the side more than 4 inches into the route with the bottom of the object more than 27 inches above the floor? [ADA Stds. 4.4]YesNo
+If the bottom of an object is not more than 27 above the floor, it may extend an unlimited amount from the wall.  E2-2.      Are pedestrian routes leading to or serving the voting area free of overhead objects with the bottom edge lower than 80 inches above the floor?
+If No, list the objects that are a hazard and their location.  Placing a detectable object on the floor below each object may remove the hazard for election day.
+E2-3.      If provided, are the interior stairs along these routes built so that people who are blind or visually impaired cannot hit their heads on the underside (i.e., protected with a cane-detectable warning or a barrier that prevents travel into the area with less than an 80-inch-high head clearance)? [ADA Stds 4.4.2]Yes
+YesNo
+NoHallways and Corridors - Part 2
+Halls and Corridors Checklist - Voters who are Blind or Who Have Low Vision
+Note:  These objects may be wall mounted or free standing.  Items to check include wall-mounted fire extinguishers, light fixtures, coat hooks, shelves, drinking fountains, and display cases.
+If No, list the objects that are a hazard and their location.  Placing a detectable object on the floor below each object may remove the hazard for election day.
+
+Hallways and Corridors - Part 2
+Temporary Solutions for Election Day
+Hallways and Corridors - Voters Who are Blind or Who Have Low Vision
+Problem One:
+Wall-mounted display case is a protruding object hazard because it is more than 4 inches from the wall and the bottom of the case is more than 27 inches above the floor.
+Suggestion:  Place a detectable object or skirting below the case.  The bottom of the skirting or detectable object must be no higher than 27 inches above the floor.
+Problem Two:
+Ceiling or wall-mounted television monitor has less than 80 inches of clearance between the floor and the bottom of the unit.
+Suggestion:  Place a detectable object below the unit (no more than 27 inches above the floor) so a voter who is blind will not walk into the television.
+Problem Three:
+The bottom of a stair is open and voters who are blind or who have low vision can hit their heads on the underside of the stair.
+Suggestion:  Provide a detectable fence or other object so voters cannot walk under the stair.
+A detectable fence placed under this stair keeps people from running into the bottom of the open stair.
+Using the Polling Place
+F.  Voting Area
+
+ Comments 
+check-in tables, a voting demonstration area (if provided), and at least one accessible voting station?
+3. Is the voting area free of objects that protrude from the side more than 4 inches into the route with the bottom of the object more than 27 inches above the floor?
+[ADA Stds. 4.4]
+Note:  These objects may be wall mounted or free standing.  Items to check include wall-mounted fire extinguishers, light fixtures, coat hooks, shelves, and display cases.YesNo4              Is the voting area free of overhead objects that voters may pass under with the bottom edge lower than 80 inches above the floor?YesNoVoting Area
+Voting Area Checklist
+1.       Is there an accessible entrance to the voting area?    Yes         No
+2.       Within the voting area, is adequate space available on the accessible level for              Yes
+
+Appendix
+
+
+Appendix
+
